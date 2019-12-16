@@ -3,6 +3,7 @@ using DFC.ServiceTaxonomy.Editor.Module.Activities;
 using DFC.ServiceTaxonomy.Editor.Module.Configuration;
 using DFC.ServiceTaxonomy.Editor.Module.Drivers;
 using DFC.ServiceTaxonomy.Editor.Module.Fields;
+using DFC.ServiceTaxonomy.Editor.Module.Migrations;
 using DFC.ServiceTaxonomy.Editor.Module.Neo4j.Services;
 using DFC.ServiceTaxonomy.Editor.Module.Settings;
 using DFC.ServiceTaxonomy.Editor.Module.ViewModels;
@@ -14,6 +15,7 @@ using Microsoft.Extensions.DependencyInjection;
 using OrchardCore.ContentManagement;
 using OrchardCore.ContentManagement.Display.ContentDisplay;
 using OrchardCore.ContentTypes.Editors;
+using OrchardCore.Data.Migration;
 using OrchardCore.Modules;
 using OrchardCore.Workflows.Helpers;
 
@@ -21,6 +23,8 @@ namespace DFC.ServiceTaxonomy.Editor.Module
 {
     public class Startup : StartupBase
     {
+        public override int Order => 1;
+
         static Startup()
         {
             TemplateContext.GlobalMemberAccessStrategy.Register<GraphUriIdField>();
@@ -46,6 +50,8 @@ namespace DFC.ServiceTaxonomy.Editor.Module
             // services.AddScoped<IContentFieldIndexHandler, GraphUriIdFieldIndexHandler>();
             // services.AddScoped<IContentPartFieldDefinitionDisplayDriver, GraphUriIdFieldPredefinedListEditorSettingsDriver>();
             // services.AddScoped<IContentPartFieldDefinitionDisplayDriver, GraphUriIdFieldHeaderDisplaySettingsDriver>();
+
+            services.AddScoped<IDataMigration, JobProfileMigration>();
 
         }
 
