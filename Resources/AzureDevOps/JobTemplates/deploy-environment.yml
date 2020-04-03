@@ -90,9 +90,9 @@ jobs:
           condition: ne('', '${{ parameters.DotNetCoreVersion }}')
           inputs:
             version: ${{ parameters.DotNetCoreVersion }}
-        - script: DFC.ServiceTaxonomy.OrchardCoreInitialiser.exe --uri=${{ parameters.OrchardCoreUri }} --sitename=${{ parameters. SiteName }} --recipename="Service Taxonomy Editor" --username=${{ parameters.EditorAdminUsername }} --email=${{ parameters.EditorAdminUserEmail }} --password=${{ parameters.EditorAdminUserPassword }}
-          displayName: 'Execute Orchard Core Initialiser'
-          workingDirectory: $(InitialiserWorkingDir)
+        #- script: DFC.ServiceTaxonomy.OrchardCoreInitialiser.exe --uri=${{ parameters.OrchardCoreUri }} --sitename=${{ parameters. SiteName }} --recipename="Service Taxonomy Editor" --username=${{ parameters.EditorAdminUsername }} --email=${{ parameters.EditorAdminUserEmail }} --password=${{ parameters.EditorAdminUserPassword }}
+        #  displayName: 'Execute Orchard Core Initialiser'
+        #  workingDirectory: $(InitialiserWorkingDir)
         - task: CopyFiles@2
           displayName: 'Copy OrchardCoreInitialiser PNG output to staging directory'
           condition: always()
@@ -107,13 +107,13 @@ jobs:
           inputs:
             targetPath: $(Pipeline.Workspace)\OrchardCoreInitialiserOutput\ 
             artifactName: DFC.ServiceTaxonomy.OrchardCoreInitialiser.Output.${{ parameters.Environment }}
-        - template: ..\StepTemplates\run-integration-tests.yml
-          parameters:
-            Environment: ${{ parameters.Environment }}
-        - template: ..\StepTemplates\run-functional-tests.yml
-          parameters:
-            DFCAzureDevOpsProjectGuid: ${{ parameters.DFCAzureDevOpsProjectGuid }}
-            DfcServiceTaxonomyTestsBuildId: ${{ parameters.DfcServiceTaxonomyTestsBuildId }}
-            Environment: ${{ parameters.Environment }}
-            TestArtifactBranch: ${{ parameters.TestArtifactBranch }}
-            TestTag: Editor
+        #- template: ..\StepTemplates\run-integration-tests.yml
+        #  parameters:
+        #    Environment: ${{ parameters.Environment }}
+        #- template: ..\StepTemplates\run-functional-tests.yml
+        #  parameters:
+        #    DFCAzureDevOpsProjectGuid: ${{ parameters.DFCAzureDevOpsProjectGuid }}
+        #    DfcServiceTaxonomyTestsBuildId: ${{ parameters.DfcServiceTaxonomyTestsBuildId }}
+        #    Environment: ${{ parameters.Environment }}
+        #    TestArtifactBranch: ${{ parameters.TestArtifactBranch }}
+        #    TestTag: Editor
