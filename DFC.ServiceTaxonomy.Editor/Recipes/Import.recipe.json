@@ -1,0 +1,28 @@
+﻿{
+    "name": "Import",
+    "displayName": "Service Taxonomy Editor",
+    "description": "Sets up the Service Taxonomy Editor",
+    "author": "National Careers Service",
+    "website": "https://github.com/SkillsFundingAgency/dfc-servicetaxonomy-editor",
+    "version": "1.0",
+    "issetuprecipe": true,
+    "categories": [
+        "default"
+    ],
+    "tags": [
+        "ncs"
+    ],
+    "variables": {
+    },
+    "steps": [
+        {
+            "name": "recipes",
+            "Values": [
+                {
+                    "executionid": "Import",
+                    "name":"Test"
+                }
+            ]
+        }
+    ]
+}

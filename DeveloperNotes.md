@@ -78,6 +78,23 @@ dotnet new -i OrchardCore.ProjectTemplates::1.0.0-rc1-12019 --nuget-source https
 
 #Notes
 
+##oc gitter convos
+
+Hi all, some advice please!
+We have _lots_ of content items we need to import repeatedly.
+We're currently using multiple recipes to import them all, driving the UI using selenium :-o !
+We can't put all the content items into a single recipe, as importing the recipe times out.
+We can't use the "Recipes" step to load sub-recipes, as that will also timeout.
+We tried a custom recipe step that creates items concurrently, but ran into thread safety issues with _contentManager.CreateAsync().
+We tried creating the items on a background thread and returning from the recipe import straight away, but run into issues with that too.
+The only half-decent (at best) solution I can think of, is a custom recipe step that calls back to the web server with recipe requests.
+That should allow some concurrency in loading content items, but we'd still probably need multiple recipes as 1) we have dependencies between recipes, so we'd have to wait for a set of recipes to complete, before kicking off the next set, so back to timeout issues again, and 2) could OC handle the load?.
+I noticed this commands batching PR, that was written after someone requested being able to delete multiple items, but it looks like it adds support for batching creates too...
+https://github.com/sebastienros/yessql/pull/228
+Will that help speed up item creation? Will I need to set CommandsPageSize?
+We could possibly bypass OC and figure out what we need to write directly to the database, but we have workflows that need to trigger on item publication.
+Does anyone have any suggestions about how we can best import lots of items?
+
 ##Occupation
 
 basic liquid templates
