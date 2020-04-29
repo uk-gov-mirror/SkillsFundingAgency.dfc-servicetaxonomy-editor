@@ -1,0 +1,378 @@
+{
+  "name": "Restrictions0_8fc4ae48-e701-41a3-aae5-7cee0846b80e",
+  "displayName": "Restrictions0_8fc4ae48-e701-41a3-aae5-7cee0846b80e",
+  "description": "",
+  "author": "",
+  "website": "",
+  "version": "",
+  "issetuprecipe": false,
+  "categories": "",
+  "tags": [],
+  "steps": [
+    {
+      "name": "ContentNoCache",
+      "data": [
+  {
+    "TitlePart": {
+      "Title": "Age - Over 18 to sell alcohol"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ebe over 18 to sell alcohol and other restricted goods\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/restriction/0c59b7a9-6df0-4ea9-8494-629348e7a0fe"
+    },
+    "ContentItemId": "4rxcedrg8jmv239yp0vxdff3cn",
+    "ContentItemVersionId": "41t03hyd01vpv58bcj33j865c8",
+    "ContentType": "Restriction",
+    "DisplayText": "Age - Over 18 to sell alcohol",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-04-29T14:47:22.4267961Z",
+    "PublishedUtc": "2020-04-29T14:47:22.4267961Z",
+    "CreatedUtc": "2020-04-29T14:47:22.4267961Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Gas Safe - Corgi"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ebe on the \u003Ca href=\u0022https://www.gassaferegister.co.uk/\u0022\u003EGas Safe Register\u003C/a\u003E to work with domestic gas heating systems\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/restriction/eaf21342-4478-4046-beea-0e8647a54f57"
+    },
+    "ContentItemId": "4352bs1fxxts400ysw47c1secv",
+    "ContentItemVersionId": "4avrave92ktnpwch63twfgw5mc",
+    "ContentType": "Restriction",
+    "DisplayText": "Gas Safe - Corgi",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-04-29T14:47:22.4267961Z",
+    "PublishedUtc": "2020-04-29T14:47:22.4267961Z",
+    "CreatedUtc": "2020-04-29T14:47:22.4267961Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "DBS checks - not enhanced"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Epass \u003Ca href=\u0022https://www.gov.uk/criminal-record-checks-apply-role\u0022\u003Ebackground checks\u003C/a\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/restriction/72a44841-5a73-4b75-890b-19064e826b17"
+    },
+    "ContentItemId": "4pe05p8v4c64e3g52zzs5pfn4h",
+    "ContentItemVersionId": "4vyx8etjn0z8zx3c9sm1z357wt",
+    "ContentType": "Restriction",
+    "DisplayText": "DBS checks - not enhanced",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-04-29T14:47:22.4267961Z",
+    "PublishedUtc": "2020-04-29T14:47:22.4267961Z",
+    "CreatedUtc": "2020-04-29T14:47:22.4267961Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Medical check"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Epass a medical check\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/restriction/a7c9d220-55b6-4192-9ed4-71042559477c"
+    },
+    "ContentItemId": "44rg403sxqzsq3a3gpf0sjqtmd",
+    "ContentItemVersionId": "410w2dbtz9wgq50cn1rdbshnmw",
+    "ContentType": "Restriction",
+    "DisplayText": "Medical check",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-04-29T14:47:22.4267961Z",
+    "PublishedUtc": "2020-04-29T14:47:22.4267961Z",
+    "CreatedUtc": "2020-04-29T14:47:22.4267961Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "DBS enhanced check"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Epass \u003Ca href=\u0022https://www.gov.uk/criminal-record-checks-apply-role\u0022\u003Eenhanced background checks\u003C/a\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/restriction/7a6fa199-1ac8-493b-be72-69ac3e4174b2"
+    },
+    "ContentItemId": "4t2pkqa7rr92x617sc0c1zy9w3",
+    "ContentItemVersionId": "4frtpwe7gxjt4sy5gt1qtthyc6",
+    "ContentType": "Restriction",
+    "DisplayText": "DBS enhanced check",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-04-29T14:47:22.4267961Z",
+    "PublishedUtc": "2020-04-29T14:47:22.4267961Z",
+    "CreatedUtc": "2020-04-29T14:47:22.4267961Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "UK - 5 Years"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ehave lived in the UK for the last 5 years\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/restriction/84b0651a-dfc5-4c82-9fd8-31f39f86a17e"
+    },
+    "ContentItemId": "45a7ff3yf77m33ap404yq772d1",
+    "ContentItemVersionId": "4jy01kxv32n6vz04958g6wpt4v",
+    "ContentType": "Restriction",
+    "DisplayText": "UK - 5 Years",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-04-29T14:47:22.4267961Z",
+    "PublishedUtc": "2020-04-29T14:47:22.4267961Z",
+    "CreatedUtc": "2020-04-29T14:47:22.4267961Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Numeracy and literacy"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Epass numeracy and literacy \u003Ca href=\u0022https://getintoteaching.education.gov.uk/post-teacher-training-application/preparing-for-the-professional-skills-tests\u0022\u003Eskills tests\u003C/a\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/restriction/faab7605-17d0-4b59-a33e-6562c40ac4ab"
+    },
+    "ContentItemId": "49qxhzhy6jz69zhd4nxksxkg4h",
+    "ContentItemVersionId": "4ky02s0kns2vh7yvvd6e52kkmc",
+    "ContentType": "Restriction",
+    "DisplayText": "Numeracy and literacy",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-04-29T14:47:22.4267961Z",
+    "PublishedUtc": "2020-04-29T14:47:22.4267961Z",
+    "CreatedUtc": "2020-04-29T14:47:22.4267961Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "UK Citizen"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ebe a UK citizen\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/restriction/57c333d0-6c86-4a1b-9ff3-011c5e16d527"
+    },
+    "ContentItemId": "4d248de2xet21yetny2r34nexp",
+    "ContentItemVersionId": "4nx2q40brvh9z356kwjbxbakmt",
+    "ContentType": "Restriction",
+    "DisplayText": "UK Citizen",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-04-29T14:47:22.4267961Z",
+    "PublishedUtc": "2020-04-29T14:47:22.4267961Z",
+    "CreatedUtc": "2020-04-29T14:47:22.4267961Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Security Checks"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Epass \u003Ca href=\u0022https://www.gov.uk/government/publications/national-security-vetting-advice-for-people-who-are-being-vetted\u0022\u003Esecurity checks\u003C/a\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/restriction/b107977d-bc1a-4f53-a2e7-0d9ae7d3dcc8"
+    },
+    "ContentItemId": "4nz6tzh16aaj7wxecm1m7hqe5b",
+    "ContentItemVersionId": "493sd9mkmzgtett2aehqzhqn4y",
+    "ContentType": "Restriction",
+    "DisplayText": "Security Checks",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-04-29T14:47:22.4267961Z",
+    "PublishedUtc": "2020-04-29T14:47:22.4267961Z",
+    "CreatedUtc": "2020-04-29T14:47:22.4267961Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "UK, Republic of Ireland or Commonwealth Citizen"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ebe a UK, Republic of Ireland or Commonwealth citizen\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/restriction/e74cf366-240e-4aa8-bb37-c62a8ce15b8c"
+    },
+    "ContentItemId": "48ndqndmkv5zg2kgcmyntz275h",
+    "ContentItemVersionId": "4b9e9cz5rm1y82k2r3qjjenyxf",
+    "ContentType": "Restriction",
+    "DisplayText": "UK, Republic of Ireland or Commonwealth Citizen",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-04-29T14:47:22.4267961Z",
+    "PublishedUtc": "2020-04-29T14:47:22.4267961Z",
+    "CreatedUtc": "2020-04-29T14:47:22.4267961Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Live within 1hr"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Elive within 1 hour\u0027s travel of the depot you\u0027re applying to\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/restriction/f762abd1-850d-439e-b440-9ad7231b6f5c"
+    },
+    "ContentItemId": "48s3ykmabtxw8v5r8ty6s5c4n6",
+    "ContentItemVersionId": "41jgfezfsnbaatg2n1aeyspkx2",
+    "ContentType": "Restriction",
+    "DisplayText": "Live within 1hr",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-04-29T14:47:22.4267961Z",
+    "PublishedUtc": "2020-04-29T14:47:22.4267961Z",
+    "CreatedUtc": "2020-04-29T14:47:22.4267961Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Driving Licence - Full"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ehave a full driving licence\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/restriction/e09a2c82-b1cc-4f99-80bc-f965b1f88818"
+    },
+    "ContentItemId": "48q0hnbsgq08szbkcywf1ybfn5",
+    "ContentItemVersionId": "4t8x6de5h6tsawya37xewcjb41",
+    "ContentType": "Restriction",
+    "DisplayText": "Driving Licence - Full",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-04-29T14:47:22.4267961Z",
+    "PublishedUtc": "2020-04-29T14:47:22.4267961Z",
+    "CreatedUtc": "2020-04-29T14:47:22.4267961Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Age - Over 20"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ebe over 20 years of age\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/restriction/ceeff59c-2338-4d7d-be66-c262e5b01d55"
+    },
+    "ContentItemId": "4e7jhscaedytewyqv3rrbx0tmp",
+    "ContentItemVersionId": "415tg33kyvfc70wg49ptx31bm6",
+    "ContentType": "Restriction",
+    "DisplayText": "Age - Over 20",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-04-29T14:47:22.4267961Z",
+    "PublishedUtc": "2020-04-29T14:47:22.4267961Z",
+    "CreatedUtc": "2020-04-29T14:47:22.4267961Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Physically fit"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ehave a good level of fitness\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/restriction/da9dc3f1-b56b-41be-85c0-a3aea50117b0"
+    },
+    "ContentItemId": "49fn8rp5t09sf297va9q3kvmxd",
+    "ContentItemVersionId": "46y8svhnc6hbhrpvcec47eraxm",
+    "ContentType": "Restriction",
+    "DisplayText": "Physically fit",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-04-29T14:47:22.4267961Z",
+    "PublishedUtc": "2020-04-29T14:47:22.4267961Z",
+    "CreatedUtc": "2020-04-29T14:47:22.4267961Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Age - Over 18"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ebe over 18 years of age\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/restriction/f7eab9e8-6002-4d41-8ae7-85f444db6a70"
+    },
+    "ContentItemId": "4em5q4c77w999x3kf1mtsp0wcv",
+    "ContentItemVersionId": "41ebvb7b0debw3137s8rwve25k",
+    "ContentType": "Restriction",
+    "DisplayText": "Age - Over 18",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-04-29T14:47:22.4267961Z",
+    "PublishedUtc": "2020-04-29T14:47:22.4267961Z",
+    "CreatedUtc": "2020-04-29T14:47:22.4267961Z",
+    "Owner": "admin",
+    "Author": "admin"
+  }
+      ]
+    }
+  ]
+}

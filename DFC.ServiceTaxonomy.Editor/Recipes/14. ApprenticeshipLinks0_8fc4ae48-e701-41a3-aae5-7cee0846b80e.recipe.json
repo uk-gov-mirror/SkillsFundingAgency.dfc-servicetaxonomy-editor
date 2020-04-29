@@ -1,0 +1,93 @@
+{
+  "name": "ApprenticeshipLinks0_8fc4ae48-e701-41a3-aae5-7cee0846b80e",
+  "displayName": "ApprenticeshipLinks0_8fc4ae48-e701-41a3-aae5-7cee0846b80e",
+  "description": "",
+  "author": "",
+  "website": "",
+  "version": "",
+  "issetuprecipe": false,
+  "categories": "",
+  "tags": [],
+  "steps": [
+    {
+      "name": "ContentNoCache",
+      "data": [
+  {
+    "ApprenticeshipLink": {
+      "Link": {
+        "Url": "https://getintoteaching.education.gov.uk/explore-my-options/teacher-training-routes/school-led-training/school-direct-salaried",
+        "Text": "postgraduate teaching apprenticeships"
+      }
+    },
+    "TitlePart": {
+      "Title": "Postgrad teaching apprenticeships"
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/apprenticeshiplink/ce54f32a-2a37-4892-a5f4-b4e26db2a67d"
+    },
+    "ContentItemId": "4n5xv5z2bcwaw16ywdjdf17bnz",
+    "ContentItemVersionId": "40q8w0tdwq11c3nzxqmrf1xvx2",
+    "ContentType": "ApprenticeshipLink",
+    "DisplayText": "Postgrad teaching apprenticeships",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-04-29T14:47:22.4267961Z",
+    "PublishedUtc": "2020-04-29T14:47:22.4267961Z",
+    "CreatedUtc": "2020-04-29T14:47:22.4267961Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "ApprenticeshipLink": {
+      "Link": {
+        "Url": "https://www.gov.uk/apprenticeships-guide",
+        "Text": "guide to apprenticeships"
+      }
+    },
+    "TitlePart": {
+      "Title": "Show Apprenticeship Guide"
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/apprenticeshiplink/6537ecf0-19b9-4e68-9604-fdf54730db81"
+    },
+    "ContentItemId": "4h0eh6wv6csc262ycr1b2r7359",
+    "ContentItemVersionId": "48yp166xm86hm5r7qpax5b50cq",
+    "ContentType": "ApprenticeshipLink",
+    "DisplayText": "Show Apprenticeship Guide",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-04-29T14:47:22.4267961Z",
+    "PublishedUtc": "2020-04-29T14:47:22.4267961Z",
+    "CreatedUtc": "2020-04-29T14:47:22.4267961Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "ApprenticeshipLink": {
+      "Link": {
+        "Url": "https://www.gov.uk/what-different-qualification-levels-mean/list-of-qualification-levels",
+        "Text": "equivalent entry requirements"
+      }
+    },
+    "TitlePart": {
+      "Title": "Show Equiv Entry Reqs"
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/apprenticeshiplink/c44d77cf-ed0a-4c31-a927-ab54c59cba0c"
+    },
+    "ContentItemId": "47272yma97frw5x1evrbpqaycx",
+    "ContentItemVersionId": "4x628a0t7gdzb7hseq3ahpxm4y",
+    "ContentType": "ApprenticeshipLink",
+    "DisplayText": "Show Equiv Entry Reqs",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-04-29T14:47:22.4267961Z",
+    "PublishedUtc": "2020-04-29T14:47:22.4267961Z",
+    "CreatedUtc": "2020-04-29T14:47:22.4267961Z",
+    "Owner": "admin",
+    "Author": "admin"
+  }
+      ]
+    }
+  ]
+}

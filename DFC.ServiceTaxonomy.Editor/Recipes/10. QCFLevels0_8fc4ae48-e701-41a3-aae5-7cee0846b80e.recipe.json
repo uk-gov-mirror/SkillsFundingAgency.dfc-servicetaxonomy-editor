@@ -1,0 +1,258 @@
+{
+  "name": "QCFLevels0_8fc4ae48-e701-41a3-aae5-7cee0846b80e",
+  "displayName": "QCFLevels0_8fc4ae48-e701-41a3-aae5-7cee0846b80e",
+  "description": "",
+  "author": "",
+  "website": "",
+  "version": "",
+  "issetuprecipe": false,
+  "categories": "",
+  "tags": [],
+  "steps": [
+    {
+      "name": "ContentNoCache",
+      "data": [
+  {
+    "QCFLevel": {
+      "Description": {
+        "Html": "\u003Cp\u003EEntry Level\u003C/p\u003E"
+      }
+    },
+    "TitlePart": {
+      "Title": "0"
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/qcflevel/456aebd8-f50c-4206-8a0c-6272854e5c46"
+    },
+    "ContentItemId": "4kfq9fa8rawq20g26h69zzjjmr",
+    "ContentItemVersionId": "4z7pypgdgez2ethn9e7k24dsww",
+    "ContentType": "QCFLevel",
+    "DisplayText": "0",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-04-29T14:47:22.4267961Z",
+    "PublishedUtc": "2020-04-29T14:47:22.4267961Z",
+    "CreatedUtc": "2020-04-29T14:47:22.4267961Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "QCFLevel": {
+      "Description": {
+        "Html": "\u003Cp\u003EQualification Level 1\u003C/p\u003E"
+      }
+    },
+    "TitlePart": {
+      "Title": "1"
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/qcflevel/4974c85c-ce05-48f6-bb00-9678893314e4"
+    },
+    "ContentItemId": "4h9qpc52hdmw8wn09a3p84e2w6",
+    "ContentItemVersionId": "4dqbpj74kte9hws2evyz3wnmcd",
+    "ContentType": "QCFLevel",
+    "DisplayText": "1",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-04-29T14:47:22.4267961Z",
+    "PublishedUtc": "2020-04-29T14:47:22.4267961Z",
+    "CreatedUtc": "2020-04-29T14:47:22.4267961Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "QCFLevel": {
+      "Description": {
+        "Html": "\u003Cp\u003EQualification Level 2\u003C/p\u003E"
+      }
+    },
+    "TitlePart": {
+      "Title": "2"
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/qcflevel/920b7f55-7415-4b0e-855d-a3e9a1ea6ab3"
+    },
+    "ContentItemId": "4req4wwwmgf1f0e0v2v1d8nhx1",
+    "ContentItemVersionId": "43wjkfjvda7w4wr4aedsyb08d7",
+    "ContentType": "QCFLevel",
+    "DisplayText": "2",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-04-29T14:47:22.4267961Z",
+    "PublishedUtc": "2020-04-29T14:47:22.4267961Z",
+    "CreatedUtc": "2020-04-29T14:47:22.4267961Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "QCFLevel": {
+      "Description": {
+        "Html": "\u003Cp\u003EQualification Level 3\u003C/p\u003E"
+      }
+    },
+    "TitlePart": {
+      "Title": "3"
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/qcflevel/d6b63f89-c5ce-4e4b-9692-15adefc22837"
+    },
+    "ContentItemId": "428xevw9tejtz5y409zgbed5c4",
+    "ContentItemVersionId": "438zmcpnjfamy01d29ae2zvh4f",
+    "ContentType": "QCFLevel",
+    "DisplayText": "3",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-04-29T14:47:22.4267961Z",
+    "PublishedUtc": "2020-04-29T14:47:22.4267961Z",
+    "CreatedUtc": "2020-04-29T14:47:22.4267961Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "QCFLevel": {
+      "Description": {
+        "Html": "\u003Cp\u003EQualification Level 4\u003C/p\u003E"
+      }
+    },
+    "TitlePart": {
+      "Title": "4"
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/qcflevel/793c592d-488c-4bf0-9406-d4af0fa0456e"
+    },
+    "ContentItemId": "42f61vfp0ypy7w35nmc4902tm0",
+    "ContentItemVersionId": "4gfc4zf5g93j14jtjtg212pbcf",
+    "ContentType": "QCFLevel",
+    "DisplayText": "4",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-04-29T14:47:22.4267961Z",
+    "PublishedUtc": "2020-04-29T14:47:22.4267961Z",
+    "CreatedUtc": "2020-04-29T14:47:22.4267961Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "QCFLevel": {
+      "Description": {
+        "Html": "\u003Cp\u003EQualification Level 5\u003C/p\u003E"
+      }
+    },
+    "TitlePart": {
+      "Title": "5"
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/qcflevel/d3b5360e-e456-4c1b-927a-0e74f9dd5238"
+    },
+    "ContentItemId": "4edg7s2wyys00wmd7pma2qcf4p",
+    "ContentItemVersionId": "4qrmqtfp8r5fctqkew3yqszmwp",
+    "ContentType": "QCFLevel",
+    "DisplayText": "5",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-04-29T14:47:22.4267961Z",
+    "PublishedUtc": "2020-04-29T14:47:22.4267961Z",
+    "CreatedUtc": "2020-04-29T14:47:22.4267961Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "QCFLevel": {
+      "Description": {
+        "Html": "\u003Cp\u003EQualification Level 6\u003C/p\u003E"
+      }
+    },
+    "TitlePart": {
+      "Title": "6"
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/qcflevel/3a2f48c9-dd08-4ec5-a328-10f80c849e37"
+    },
+    "ContentItemId": "4hkc4y30fkmgm07kdtqjt6p7x8",
+    "ContentItemVersionId": "4w30gqwf8rr1pv4tyaybn5h851",
+    "ContentType": "QCFLevel",
+    "DisplayText": "6",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-04-29T14:47:22.4267961Z",
+    "PublishedUtc": "2020-04-29T14:47:22.4267961Z",
+    "CreatedUtc": "2020-04-29T14:47:22.4267961Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "QCFLevel": {
+      "Description": {
+        "Html": "\u003Cp\u003EQualification Level 7\u003C/p\u003E"
+      }
+    },
+    "TitlePart": {
+      "Title": "7"
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/qcflevel/3815b961-5581-4722-a46e-30fea1c8283d"
+    },
+    "ContentItemId": "48cp0ngm16q9hzw554accwj0np",
+    "ContentItemVersionId": "486297q5t7wchz90cf7h3edbc9",
+    "ContentType": "QCFLevel",
+    "DisplayText": "7",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-04-29T14:47:22.4267961Z",
+    "PublishedUtc": "2020-04-29T14:47:22.4267961Z",
+    "CreatedUtc": "2020-04-29T14:47:22.4267961Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "QCFLevel": {
+      "Description": {
+        "Html": "\u003Cp\u003EQualification Level 8\u003C/p\u003E"
+      }
+    },
+    "TitlePart": {
+      "Title": "8"
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/qcflevel/cffad418-59e5-4242-9305-46e434e55a0e"
+    },
+    "ContentItemId": "4x4smteafhd850e71qtwy5qbnx",
+    "ContentItemVersionId": "4s6shjbhmsbq50nthtmg5nqf5n",
+    "ContentType": "QCFLevel",
+    "DisplayText": "8",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-04-29T14:47:22.4267961Z",
+    "PublishedUtc": "2020-04-29T14:47:22.4267961Z",
+    "CreatedUtc": "2020-04-29T14:47:22.4267961Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "QCFLevel": {
+      "Description": {
+        "Html": "\u003Cp\u003ENo qualifications\u003C/p\u003E"
+      }
+    },
+    "TitlePart": {
+      "Title": "99"
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/qcflevel/925c1a77-d840-431c-b7a8-0cdb0f4fc714"
+    },
+    "ContentItemId": "43htb28fp1001tycjyk45ssmxc",
+    "ContentItemVersionId": "452v294jvw81yyzbm32ghac6x4",
+    "ContentType": "QCFLevel",
+    "DisplayText": "99",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-04-29T14:47:22.4267961Z",
+    "PublishedUtc": "2020-04-29T14:47:22.4267961Z",
+    "CreatedUtc": "2020-04-29T14:47:22.4267961Z",
+    "Owner": "admin",
+    "Author": "admin"
+  }
+      ]
+    }
+  ]
+}
