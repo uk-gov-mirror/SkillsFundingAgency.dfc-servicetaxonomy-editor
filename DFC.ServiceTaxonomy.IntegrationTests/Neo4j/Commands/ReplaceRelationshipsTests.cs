@@ -1,8 +1,8 @@
-using System;
-using System.Collections.Generic;
-using System.Threading.Tasks;
+//using System;
+//using System.Collections.Generic;
+//using System.Threading.Tasks;
 using DFC.ServiceTaxonomy.IntegrationTests.Helpers;
-using DFC.ServiceTaxonomy.Neo4j.Commands;
+//using DFC.ServiceTaxonomy.Neo4j.Commands;
 using Xunit;
 
 namespace DFC.ServiceTaxonomy.IntegrationTests.Neo4j.Commands
@@ -17,280 +17,286 @@ namespace DFC.ServiceTaxonomy.IntegrationTests.Neo4j.Commands
         {
         }
 
-        [Fact]
-        public async Task ReplaceRelationships_CreateSingleNewRelationship_NoExistingRelationships_Test()
-        {
-            const string sourceNodeLabel = "sourceNodeLabel";
-            const string sourceIdPropertyName = "sourceId";
-            string sourceIdPropertyValue = Guid.NewGuid().ToString();
+        //[Fact]
+        //public void ReplaceRelationships_Dummy_Test()
+        //{
+        //    Assert.Equal(1, 1);
+        //}
 
-            const string destNodeLabel = "destNodeLabel";
-            const string destIdPropertyName = "destId";
-            string destIdPropertyValue = Guid.NewGuid().ToString();
+        //[Fact]
+        //public async Task ReplaceRelationships_CreateSingleNewRelationship_NoExistingRelationships_Test()
+        //{
+        //    const string sourceNodeLabel = "sourceNodeLabel";
+        //    const string sourceIdPropertyName = "sourceId";
+        //    string sourceIdPropertyValue = Guid.NewGuid().ToString();
 
-            const string relationshipType = "relationshipType";
-            const string relationshipVariable = "r";
+        //    const string destNodeLabel = "destNodeLabel";
+        //    const string destIdPropertyName = "destId";
+        //    string destIdPropertyValue = Guid.NewGuid().ToString();
 
-            //todo: arrange without any of the cut?
-            // create source node to create relationship from
-            long sourceNodeId = await MergeNode(sourceNodeLabel, sourceIdPropertyName,
-                new Dictionary<string, object> {{sourceIdPropertyName, sourceIdPropertyValue}});
+        //    const string relationshipType = "relationshipType";
+        //    const string relationshipVariable = "r";
 
-            // create destination node to create relationship to
-            long destNodeId = await MergeNode(destNodeLabel, destIdPropertyName,
-                new Dictionary<string, object> {{destIdPropertyName, destIdPropertyValue}});
+        //    //todo: arrange without any of the cut?
+        //    // create source node to create relationship from
+        //    long sourceNodeId = await MergeNode(sourceNodeLabel, sourceIdPropertyName,
+        //        new Dictionary<string, object> {{sourceIdPropertyName, sourceIdPropertyValue}});
 
-            // act
-            var command = new ReplaceRelationshipsCommand
-            {
-                SourceNodeLabels = new HashSet<string> {sourceNodeLabel},
-                SourceIdPropertyName = sourceIdPropertyName,
-                SourceIdPropertyValue = sourceIdPropertyValue
-            };
-            command.AddRelationshipsTo(
-                relationshipType,
-                new[] {destNodeLabel},
-                destIdPropertyName,
-                destIdPropertyValue);
-            await _graphDatabase.RunWriteQueries(command);
+        //    // create destination node to create relationship to
+        //    long destNodeId = await MergeNode(destNodeLabel, destIdPropertyName,
+        //        new Dictionary<string, object> {{destIdPropertyName, destIdPropertyValue}});
 
-            AssertResult(relationshipVariable,new[]
-            {
-                new ExpectedRelationship
-                {
-                    Type = relationshipType,
-                    StartNodeId = sourceNodeId,
-                    EndNodeId = destNodeId,
-                    Properties = new Dictionary<string, object>()
-                }
-            }, await AllRelationships(sourceNodeLabel, sourceIdPropertyName, sourceIdPropertyValue,
-                relationshipType, destNodeLabel, relationshipVariable));
-        }
+        //    // act
+        //    var command = new ReplaceRelationshipsCommand
+        //    {
+        //        SourceNodeLabels = new HashSet<string> {sourceNodeLabel},
+        //        SourceIdPropertyName = sourceIdPropertyName,
+        //        SourceIdPropertyValue = sourceIdPropertyValue
+        //    };
+        //    command.AddRelationshipsTo(
+        //        relationshipType,
+        //        new[] {destNodeLabel},
+        //        destIdPropertyName,
+        //        destIdPropertyValue);
+        //    await _graphDatabase.RunWriteQueries(command);
 
-        [Fact]
-        public async Task ReplaceRelationships_CreateSingleNewRelationship_ExistingRelationship_Test()
-        {
-            const string sourceNodeLabel = "sourceNodeLabel";
-            const string sourceIdPropertyName = "sourceId";
-            string sourceIdPropertyValue = Guid.NewGuid().ToString();
+        //    AssertResult(relationshipVariable,new[]
+        //    {
+        //        new ExpectedRelationship
+        //        {
+        //            Type = relationshipType,
+        //            StartNodeId = sourceNodeId,
+        //            EndNodeId = destNodeId,
+        //            Properties = new Dictionary<string, object>()
+        //        }
+        //    }, await AllRelationships(sourceNodeLabel, sourceIdPropertyName, sourceIdPropertyValue,
+        //        relationshipType, destNodeLabel, relationshipVariable));
+        //}
 
-            const string destNodeLabel = "destNodeLabel";
-            const string destIdPropertyName = "destId";
-            string destIdPropertyValue = Guid.NewGuid().ToString();
+        //[Fact]
+        //public async Task ReplaceRelationships_CreateSingleNewRelationship_ExistingRelationship_Test()
+        //{
+        //    const string sourceNodeLabel = "sourceNodeLabel";
+        //    const string sourceIdPropertyName = "sourceId";
+        //    string sourceIdPropertyValue = Guid.NewGuid().ToString();
 
-            string preexistingDestIdPropertyValue = Guid.NewGuid().ToString();
+        //    const string destNodeLabel = "destNodeLabel";
+        //    const string destIdPropertyName = "destId";
+        //    string destIdPropertyValue = Guid.NewGuid().ToString();
 
-            const string relationshipType = "relationshipType";
-            const string relationshipVariable = "r";
+        //    string preexistingDestIdPropertyValue = Guid.NewGuid().ToString();
 
-            // create source node to create relationship from
-            long sourceNodeId = await MergeNode(sourceNodeLabel, sourceIdPropertyName,
-                new Dictionary<string, object> {{sourceIdPropertyName, sourceIdPropertyValue}});
+        //    const string relationshipType = "relationshipType";
+        //    const string relationshipVariable = "r";
 
-            // create destination node for preexisting relationship
-            await MergeNode(destNodeLabel, destIdPropertyName,
-                new Dictionary<string, object> {{destIdPropertyName, preexistingDestIdPropertyValue}});
+        //    // create source node to create relationship from
+        //    long sourceNodeId = await MergeNode(sourceNodeLabel, sourceIdPropertyName,
+        //        new Dictionary<string, object> {{sourceIdPropertyName, sourceIdPropertyValue}});
 
-            // create destination node to create new relationship to
-            long destNodeId = await MergeNode(destNodeLabel, destIdPropertyName,
-                new Dictionary<string, object> {{destIdPropertyName, destIdPropertyValue}});
+        //    // create destination node for preexisting relationship
+        //    await MergeNode(destNodeLabel, destIdPropertyName,
+        //        new Dictionary<string, object> {{destIdPropertyName, preexistingDestIdPropertyValue}});
 
-            // create pre-existing relationships
-            var preexistingQuery = new ReplaceRelationshipsCommand
-            {
-                SourceNodeLabels = new HashSet<string> {sourceNodeLabel},
-                SourceIdPropertyName = sourceIdPropertyName,
-                SourceIdPropertyValue = sourceIdPropertyValue
-            };
+        //    // create destination node to create new relationship to
+        //    long destNodeId = await MergeNode(destNodeLabel, destIdPropertyName,
+        //        new Dictionary<string, object> {{destIdPropertyName, destIdPropertyValue}});
 
-            preexistingQuery.AddRelationshipsTo(relationshipType, new [] {destNodeLabel}, destIdPropertyName, destIdPropertyValue);
+        //    // create pre-existing relationships
+        //    var preexistingQuery = new ReplaceRelationshipsCommand
+        //    {
+        //        SourceNodeLabels = new HashSet<string> {sourceNodeLabel},
+        //        SourceIdPropertyName = sourceIdPropertyName,
+        //        SourceIdPropertyValue = sourceIdPropertyValue
+        //    };
 
-            await _graphDatabase.RunWriteQueries(preexistingQuery);
+        //    preexistingQuery.AddRelationshipsTo(relationshipType, new [] {destNodeLabel}, destIdPropertyName, destIdPropertyValue);
 
-            // act
-            //todo: change dest node?
-            var query = new ReplaceRelationshipsCommand
-            {
-                SourceNodeLabels = new HashSet<string> {sourceNodeLabel},
-                SourceIdPropertyName = sourceIdPropertyName,
-                SourceIdPropertyValue = sourceIdPropertyValue
-            };
+        //    await _graphDatabase.RunWriteQueries(preexistingQuery);
 
-            query.AddRelationshipsTo(relationshipType, new [] {destNodeLabel}, destIdPropertyName, destIdPropertyValue);
+        //    // act
+        //    //todo: change dest node?
+        //    var query = new ReplaceRelationshipsCommand
+        //    {
+        //        SourceNodeLabels = new HashSet<string> {sourceNodeLabel},
+        //        SourceIdPropertyName = sourceIdPropertyName,
+        //        SourceIdPropertyValue = sourceIdPropertyValue
+        //    };
 
-            await _graphDatabase.RunWriteQueries(query);
+        //    query.AddRelationshipsTo(relationshipType, new [] {destNodeLabel}, destIdPropertyName, destIdPropertyValue);
 
-            AssertResult(relationshipVariable,new[]
-            {
-                new ExpectedRelationship
-                {
-                    Type = relationshipType,
-                    StartNodeId = sourceNodeId,
-                    EndNodeId = destNodeId,
-                    Properties = new Dictionary<string, object>()
-                }
-            }, await AllRelationships(sourceNodeLabel, sourceIdPropertyName, sourceIdPropertyValue,
-                relationshipType, destNodeLabel, relationshipVariable));
-        }
+        //    await _graphDatabase.RunWriteQueries(query);
 
-        [Fact]
-        public async Task ReplaceRelationships_CreateNoNewRelationship_NoExistingRelationships_Test()
-        {
-            const string sourceNodeLabel = "sourceNodeLabel";
-            const string sourceIdPropertyName = "sourceId";
-            string sourceIdPropertyValue = Guid.NewGuid().ToString();
+        //    AssertResult(relationshipVariable,new[]
+        //    {
+        //        new ExpectedRelationship
+        //        {
+        //            Type = relationshipType,
+        //            StartNodeId = sourceNodeId,
+        //            EndNodeId = destNodeId,
+        //            Properties = new Dictionary<string, object>()
+        //        }
+        //    }, await AllRelationships(sourceNodeLabel, sourceIdPropertyName, sourceIdPropertyValue,
+        //        relationshipType, destNodeLabel, relationshipVariable));
+        //}
 
-            const string destNodeLabel = "destNodeLabel";
-            const string destIdPropertyName = "destId";
-            string destIdPropertyValue = Guid.NewGuid().ToString();
+        //[Fact]
+        //public async Task ReplaceRelationships_CreateNoNewRelationship_NoExistingRelationships_Test()
+        //{
+        //    const string sourceNodeLabel = "sourceNodeLabel";
+        //    const string sourceIdPropertyName = "sourceId";
+        //    string sourceIdPropertyValue = Guid.NewGuid().ToString();
 
-            const string relationshipType = "relationshipType";
-            const string relationshipVariable = "r";
+        //    const string destNodeLabel = "destNodeLabel";
+        //    const string destIdPropertyName = "destId";
+        //    string destIdPropertyValue = Guid.NewGuid().ToString();
 
-            //todo: arrange without any of the cut?
-            // create source node to create relationship from
-            await MergeNode(sourceNodeLabel, sourceIdPropertyName,
-                new Dictionary<string, object> {{sourceIdPropertyName, sourceIdPropertyValue}});
+        //    const string relationshipType = "relationshipType";
+        //    const string relationshipVariable = "r";
 
-            // create destination node to create relationship to
-            await MergeNode(destNodeLabel, destIdPropertyName,
-                new Dictionary<string, object> {{destIdPropertyName, destIdPropertyValue}});
+        //    //todo: arrange without any of the cut?
+        //    // create source node to create relationship from
+        //    await MergeNode(sourceNodeLabel, sourceIdPropertyName,
+        //        new Dictionary<string, object> {{sourceIdPropertyName, sourceIdPropertyValue}});
 
-            // act
-            var query = new ReplaceRelationshipsCommand
-            {
-                SourceNodeLabels = new HashSet<string> {sourceNodeLabel},
-                SourceIdPropertyName = sourceIdPropertyName,
-                SourceIdPropertyValue = sourceIdPropertyValue
-            };
+        //    // create destination node to create relationship to
+        //    await MergeNode(destNodeLabel, destIdPropertyName,
+        //        new Dictionary<string, object> {{destIdPropertyName, destIdPropertyValue}});
 
-            query.AddRelationshipsTo(relationshipType, new [] {destNodeLabel}, destIdPropertyName);
+        //    // act
+        //    var query = new ReplaceRelationshipsCommand
+        //    {
+        //        SourceNodeLabels = new HashSet<string> {sourceNodeLabel},
+        //        SourceIdPropertyName = sourceIdPropertyName,
+        //        SourceIdPropertyValue = sourceIdPropertyValue
+        //    };
 
-            await _graphDatabase.RunWriteQueries(query);
+        //    query.AddRelationshipsTo(relationshipType, new [] {destNodeLabel}, destIdPropertyName);
 
-            AssertResult(relationshipVariable,new ExpectedRelationship[0],
-                await AllRelationships(sourceNodeLabel, sourceIdPropertyName, sourceIdPropertyValue,
-                relationshipType, destNodeLabel, relationshipVariable));
-        }
+        //    await _graphDatabase.RunWriteQueries(query);
 
-        [Fact]
-        public async Task ReplaceRelationships_CreateNoNewRelationship_ExistingRelationship_Test()
-        {
-            const string sourceNodeLabel = "sourceNodeLabel";
-            const string sourceIdPropertyName = "sourceId";
-            string sourceIdPropertyValue = Guid.NewGuid().ToString();
+        //    AssertResult(relationshipVariable,new ExpectedRelationship[0],
+        //        await AllRelationships(sourceNodeLabel, sourceIdPropertyName, sourceIdPropertyValue,
+        //        relationshipType, destNodeLabel, relationshipVariable));
+        //}
 
-            const string destNodeLabel = "destNodeLabel";
-            const string destIdPropertyName = "destId";
-            string destIdPropertyValue = Guid.NewGuid().ToString();
+        //[Fact]
+        //public async Task ReplaceRelationships_CreateNoNewRelationship_ExistingRelationship_Test()
+        //{
+        //    const string sourceNodeLabel = "sourceNodeLabel";
+        //    const string sourceIdPropertyName = "sourceId";
+        //    string sourceIdPropertyValue = Guid.NewGuid().ToString();
 
-            string preexistingDestIdPropertyValue = Guid.NewGuid().ToString();
+        //    const string destNodeLabel = "destNodeLabel";
+        //    const string destIdPropertyName = "destId";
+        //    string destIdPropertyValue = Guid.NewGuid().ToString();
 
-            const string relationshipType = "relationshipType";
-            const string relationshipVariable = "r";
+        //    string preexistingDestIdPropertyValue = Guid.NewGuid().ToString();
 
-            // create source node to create relationship from
-            await MergeNode(sourceNodeLabel, sourceIdPropertyName,
-                new Dictionary<string, object> {{sourceIdPropertyName, sourceIdPropertyValue}});
+        //    const string relationshipType = "relationshipType";
+        //    const string relationshipVariable = "r";
 
-            // create destination node for preexisting relationship
-            await MergeNode(destNodeLabel, destIdPropertyName,
-                new Dictionary<string, object> {{destIdPropertyName, preexistingDestIdPropertyValue}});
+        //    // create source node to create relationship from
+        //    await MergeNode(sourceNodeLabel, sourceIdPropertyName,
+        //        new Dictionary<string, object> {{sourceIdPropertyName, sourceIdPropertyValue}});
 
-            // create destination node to create new relationship to
-            await MergeNode(destNodeLabel, destIdPropertyName,
-                new Dictionary<string, object> {{destIdPropertyName, destIdPropertyValue}});
+        //    // create destination node for preexisting relationship
+        //    await MergeNode(destNodeLabel, destIdPropertyName,
+        //        new Dictionary<string, object> {{destIdPropertyName, preexistingDestIdPropertyValue}});
 
-            // create pre-existing relationships
-            var preexistingQuery = new ReplaceRelationshipsCommand
-            {
-                SourceNodeLabels = new HashSet<string> {sourceNodeLabel},
-                SourceIdPropertyName = sourceIdPropertyName,
-                SourceIdPropertyValue = sourceIdPropertyValue
-            };
+        //    // create destination node to create new relationship to
+        //    await MergeNode(destNodeLabel, destIdPropertyName,
+        //        new Dictionary<string, object> {{destIdPropertyName, destIdPropertyValue}});
 
-            preexistingQuery.AddRelationshipsTo(relationshipType, new [] {destNodeLabel}, destIdPropertyName, destIdPropertyValue);
+        //    // create pre-existing relationships
+        //    var preexistingQuery = new ReplaceRelationshipsCommand
+        //    {
+        //        SourceNodeLabels = new HashSet<string> {sourceNodeLabel},
+        //        SourceIdPropertyName = sourceIdPropertyName,
+        //        SourceIdPropertyValue = sourceIdPropertyValue
+        //    };
 
-            await _graphDatabase.RunWriteQueries(preexistingQuery);
+        //    preexistingQuery.AddRelationshipsTo(relationshipType, new [] {destNodeLabel}, destIdPropertyName, destIdPropertyValue);
 
-            // act
-            var query = new ReplaceRelationshipsCommand
-            {
-                SourceNodeLabels = new HashSet<string> {sourceNodeLabel},
-                SourceIdPropertyName = sourceIdPropertyName,
-                SourceIdPropertyValue = sourceIdPropertyValue
-            };
+        //    await _graphDatabase.RunWriteQueries(preexistingQuery);
 
-            query.AddRelationshipsTo(relationshipType, new [] {destNodeLabel}, destIdPropertyName);
+        //    // act
+        //    var query = new ReplaceRelationshipsCommand
+        //    {
+        //        SourceNodeLabels = new HashSet<string> {sourceNodeLabel},
+        //        SourceIdPropertyName = sourceIdPropertyName,
+        //        SourceIdPropertyValue = sourceIdPropertyValue
+        //    };
 
-            await _graphDatabase.RunWriteQueries(query);
+        //    query.AddRelationshipsTo(relationshipType, new [] {destNodeLabel}, destIdPropertyName);
 
-            AssertResult(relationshipVariable,new ExpectedRelationship[0],
-                await AllRelationships(sourceNodeLabel, sourceIdPropertyName, sourceIdPropertyValue,
-                relationshipType, destNodeLabel, relationshipVariable));
-        }
+        //    await _graphDatabase.RunWriteQueries(query);
 
-        //todo: complete test
-        [Fact(Skip="Need to improve AssertResult")]
-        public async Task ReplaceRelationships_CreateMultipleNewRelationship_NoExistingRelationships_Test()
-        {
-            const string sourceNodeLabel = "sourceNodeLabel";
-            const string sourceIdPropertyName = "sourceId";
-            string sourceIdPropertyValue = Guid.NewGuid().ToString();
+        //    AssertResult(relationshipVariable,new ExpectedRelationship[0],
+        //        await AllRelationships(sourceNodeLabel, sourceIdPropertyName, sourceIdPropertyValue,
+        //        relationshipType, destNodeLabel, relationshipVariable));
+        //}
 
-            const string destNodeLabel = "destNodeLabel";
-            const string destIdPropertyName = "destId";
-            string destIdPropertyValue1 = Guid.NewGuid().ToString();
-            string destIdPropertyValue2 = Guid.NewGuid().ToString();
+        ////todo: complete test
+        //[Fact(Skip="Need to improve AssertResult")]
+        //public async Task ReplaceRelationships_CreateMultipleNewRelationship_NoExistingRelationships_Test()
+        //{
+        //    const string sourceNodeLabel = "sourceNodeLabel";
+        //    const string sourceIdPropertyName = "sourceId";
+        //    string sourceIdPropertyValue = Guid.NewGuid().ToString();
 
-            const string relationshipType = "relationshipType";
-            const string relationshipVariable = "r";
+        //    const string destNodeLabel = "destNodeLabel";
+        //    const string destIdPropertyName = "destId";
+        //    string destIdPropertyValue1 = Guid.NewGuid().ToString();
+        //    string destIdPropertyValue2 = Guid.NewGuid().ToString();
 
-            //todo: arrange without any of the cut?
-            // create source node to create relationship from
-            long sourceNodeId = await MergeNode(sourceNodeLabel, sourceIdPropertyName,
-                new Dictionary<string, object> {{sourceIdPropertyName, sourceIdPropertyValue}});
+        //    const string relationshipType = "relationshipType";
+        //    const string relationshipVariable = "r";
 
-            // create first destination node to create relationship to
-            long destNodeId1 = await MergeNode(destNodeLabel, destIdPropertyName,
-                new Dictionary<string, object> {{destIdPropertyName, destIdPropertyValue1}});
+        //    //todo: arrange without any of the cut?
+        //    // create source node to create relationship from
+        //    long sourceNodeId = await MergeNode(sourceNodeLabel, sourceIdPropertyName,
+        //        new Dictionary<string, object> {{sourceIdPropertyName, sourceIdPropertyValue}});
 
-            // create second destination node to create relationship to
-            long destNodeId2 = await MergeNode(destNodeLabel, destIdPropertyName,
-                new Dictionary<string, object> {{destIdPropertyName, destIdPropertyValue2}});
+        //    // create first destination node to create relationship to
+        //    long destNodeId1 = await MergeNode(destNodeLabel, destIdPropertyName,
+        //        new Dictionary<string, object> {{destIdPropertyName, destIdPropertyValue1}});
 
-            // act
-            var query = new ReplaceRelationshipsCommand
-            {
-                SourceNodeLabels = new HashSet<string> {sourceNodeLabel},
-                SourceIdPropertyName = sourceIdPropertyName,
-                SourceIdPropertyValue = sourceIdPropertyValue
-            };
+        //    // create second destination node to create relationship to
+        //    long destNodeId2 = await MergeNode(destNodeLabel, destIdPropertyName,
+        //        new Dictionary<string, object> {{destIdPropertyName, destIdPropertyValue2}});
 
-            query.AddRelationshipsTo(relationshipType, new [] {destNodeLabel}, destIdPropertyName,
-                destIdPropertyValue1, destIdPropertyValue2);
+        //    // act
+        //    var query = new ReplaceRelationshipsCommand
+        //    {
+        //        SourceNodeLabels = new HashSet<string> {sourceNodeLabel},
+        //        SourceIdPropertyName = sourceIdPropertyName,
+        //        SourceIdPropertyValue = sourceIdPropertyValue
+        //    };
 
-            await _graphDatabase.RunWriteQueries(query);
+        //    query.AddRelationshipsTo(relationshipType, new [] {destNodeLabel}, destIdPropertyName,
+        //        destIdPropertyValue1, destIdPropertyValue2);
 
-            AssertResult(relationshipVariable,new[]
-            {
-                new ExpectedRelationship
-                {
-                    Type = relationshipType,
-                    StartNodeId = sourceNodeId,
-                    EndNodeId = destNodeId1,
-                    Properties = new Dictionary<string, object>()
-                },
-                new ExpectedRelationship
-                {
-                    Type = relationshipType,
-                    StartNodeId = sourceNodeId,
-                    EndNodeId = destNodeId2,
-                    Properties = new Dictionary<string, object>()
-                }
-            }, await AllRelationships(sourceNodeLabel, sourceIdPropertyName, sourceIdPropertyValue,
-                relationshipType, destNodeLabel, relationshipVariable));
-        }
+        //    await _graphDatabase.RunWriteQueries(query);
+
+        //    AssertResult(relationshipVariable,new[]
+        //    {
+        //        new ExpectedRelationship
+        //        {
+        //            Type = relationshipType,
+        //            StartNodeId = sourceNodeId,
+        //            EndNodeId = destNodeId1,
+        //            Properties = new Dictionary<string, object>()
+        //        },
+        //        new ExpectedRelationship
+        //        {
+        //            Type = relationshipType,
+        //            StartNodeId = sourceNodeId,
+        //            EndNodeId = destNodeId2,
+        //            Properties = new Dictionary<string, object>()
+        //        }
+        //    }, await AllRelationships(sourceNodeLabel, sourceIdPropertyName, sourceIdPropertyValue,
+        //        relationshipType, destNodeLabel, relationshipVariable));
+        //}
 
         //todo:
         //        public async Task ReplaceRelationships_CreateMultipleNewRelationship_ExistingRelationship_Test()
