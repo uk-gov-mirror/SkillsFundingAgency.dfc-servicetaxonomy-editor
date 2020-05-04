@@ -1,0 +1,19 @@
+{
+    "name": "CreateOccupationLabelNodes_3e55a8f3-10de-475b-b7da-ce5209199488",
+    "displayName": "CreateOccupationLabelNodes_3e55a8f3-10de-475b-b7da-ce5209199488",
+    "description": "",
+    "author": "",
+    "website": "",
+    "version": "",
+    "issetuprecipe": false,
+    "categories": "",
+    "tags": [],
+    "steps": [
+        {
+            "name": "CypherCommand",
+            "commands": [
+                "match (n:esco__Occupation)\r\nunwind n.skos__altLabel as altLabels\r\ncreate (al:ncs__OccupationLabel:Resource {skos__prefLabel: altLabels, uri: \"http://nationalcareers.service.gov.uk/OccupationLabel/\" + apoc.create.uuid()})\r\ncreate (n)-[:ncs__hasAltLabel]->(al)"
+            ]
+        }
+    ]
+}
