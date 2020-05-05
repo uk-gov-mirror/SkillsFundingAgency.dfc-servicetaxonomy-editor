@@ -9,6 +9,7 @@ parameters:
   SolutionBaseName: ''
 steps:
   - task: Maven@3
+    displayName: 'Maven build for ${{ parameters.SolutionBaseName }}.Neo4j Java Plugins'
     inputs:
       mavenPomFile: '${{ parameters.mavenPomFile }}'
       mavenOptions: '${{ parameters.mavenOptions }}'
