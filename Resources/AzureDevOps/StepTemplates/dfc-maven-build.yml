@@ -1,4 +1,5 @@
-# TODO: Move to dfc-devops 
+# TODO: Move to dfc-devops
+parameters: 
   mavenPomFile: ''
   mavenOptions: ''
   javaHomeOption: ''
