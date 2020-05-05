@@ -68,6 +68,15 @@ stages:
         BuildPlatform: 'any cpu'
         BuildConfiguration: 'release'
         DotNetCoreVersion: '3.1.100'
+    - task: Maven@3
+      inputs:
+        mavenPomFile: '$(system.defaultWorkingDirectory)/DFC.ServiceTaxonomy.Neo4j/Java Plugins/pom.xml'
+        mavenOptions: '-Xmx3072m'
+        javaHomeOption: 'JDKVersion'
+        jdkVersionOption: '1.11'
+        jdkArchitectureOption: 'x64'
+        publishJUnitResults: false
+        goals: 'package' 
 
 - stage: DeployToDev
   condition: and(succeeded(), ne(variables['Build.Reason'], 'PullRequest'))
