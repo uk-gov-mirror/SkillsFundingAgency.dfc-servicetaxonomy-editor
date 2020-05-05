@@ -73,10 +73,9 @@ stages:
         mavenPomFile: '$(system.defaultWorkingDirectory)/DFC.ServiceTaxonomy.Neo4j/Java Plugins/pom.xml'
         mavenOptions: '-Xmx3072m'
         javaHomeOption: 'JDKVersion'
-        jdkVersionOption: '1.11'
+        jdkVersionOption: '1.8'
         jdkArchitectureOption: 'x64'
         publishJUnitResults: false
-        goals: 'package' 
 
 - stage: DeployToDev
   condition: and(succeeded(), ne(variables['Build.Reason'], 'PullRequest'))
