@@ -1,0 +1,17 @@
+# TODO: Move to dfc-devops 
+  mavenPomFile: ''
+  mavenOptions: ''
+  javaHomeOption: ''
+  jdkVersionOption: ''
+  jdkArchitectureOption: ''
+  publishJUnitResults: false
+  SolutionBaseName: ''
+steps:
+  - task: Maven@3
+    inputs:
+      mavenPomFile: '${{ parameters.mavenPomFile }}'
+      mavenOptions: '${{ parameters.mavenOptions }}'
+      javaHomeOption: '${{ parameters.javaHomeOption }}'
+      jdkVersionOption: '${{ parameters.jdkVersionOption }}'
+      jdkArchitectureOption: '${{ parameters.jdkArchitectureOption }}'
+      publishJUnitResults: '${{ parameters.mavenPomFile }}'
