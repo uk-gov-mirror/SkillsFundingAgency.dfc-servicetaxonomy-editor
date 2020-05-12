@@ -63,13 +63,13 @@
             "value": "__OwlDataGeneratorDescription__"
         },
         "EventGridTopicEndpoint": {
-            "value": "__EventGridTopicUrl__"
+            "value": ""
         },
         "EventGridAegSasKey": {
-            "value": "__EventGridAegSasKey__"
+            "value": ""
         },
         "EventGridEnabled": {
-            "value": __EventGridEnabled__
+            "value": false
         }
     }
 }
