@@ -95,7 +95,7 @@ namespace GetJobProfiles
             const int batchSize = 1000;
             const int jobProfileBatchSize = 200;
             const int occupationLabelsBatchSize = 5000;
-            const int occupationsBatchSize = 300;
+            const int occupationsBatchSize = 10;
 
 
 
