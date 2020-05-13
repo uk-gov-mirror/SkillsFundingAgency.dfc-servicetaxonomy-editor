@@ -69,7 +69,7 @@
             "value": "__EventGridAegSasKey__"
         },
         "EventGridEnabled": {
-            "value": __EventGridEnabled__
+            "value": false
         }
     }
 }
