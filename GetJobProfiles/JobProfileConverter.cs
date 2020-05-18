@@ -198,6 +198,7 @@ namespace GetJobProfiles
                 HowToBecome = new HowToBecomePart()
                 {
                     HtbBodies = new HtmlField(jobProfile.HowToBecome.MoreInformation.ProfessionalAndIndustryBodies),
+                    HtbTitleOptions = new TextField("as_defined"),
                     HtbCareerTips = new HtmlField(jobProfile.HowToBecome.MoreInformation.CareerTips),
                     HtbFurtherInformation = new HtmlField(jobProfile.HowToBecome.MoreInformation.FurtherInformation),
                     //todo:

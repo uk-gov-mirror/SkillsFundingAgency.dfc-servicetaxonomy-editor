@@ -6,6 +6,7 @@ namespace GetJobProfiles.Models.Recipe.Parts
     {
         public TabField HowToBecome { get; set; }
         public HtmlField HtbBodies { get; set; }
+        //todo: md5 id's
         //todo: populate this field from the job profiles spreadsheet, dynamictitleprefix column. will need to map to predefined values in oc
         public TextField HtbTitleOptions { get; set; }
         // public HtmlField HtbOtherRequirements { get; set; }

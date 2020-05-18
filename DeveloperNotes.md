@@ -2,6 +2,12 @@
 
 * change uri to https://dev.api.nationalcareersservice.org.uk/content/GetContent/jobprofile/<<id>> (appropriate for environment)
 
+* properties
+
+* add itemId to data in events (from guid in uri) - add it to content api response too
+
+* htbtitleoptions : move to header
+
 * event publishing threw during full import (working uniform)
 
 Delayed processing of workflow id {workflowContext.WorkflowId} failed: {e}
@@ -40,9 +46,9 @@ Polly.Timeout.TimeoutRejectedException: The delegate executed asynchronously thr
 
 * add properties to csharpcontent: failsilently (for getting list of issues in 1 go), and addtosessioncache
 
-* deleting draft doesn't always delete the content item
-
 * enforce readonly nodes by not allowing user to delete the corresponding content item
+
+* handle deleted items in the sync
 
 * make sure only 1 validate and repair is operating at once
 
