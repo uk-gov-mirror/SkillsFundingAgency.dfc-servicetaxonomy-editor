@@ -1,0 +1,138 @@
+{
+  "name": "TestData_CollegeRequirements0_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d",
+  "displayName": "TestData_CollegeRequirements0_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d",
+  "description": "",
+  "author": "",
+  "website": "",
+  "version": "",
+  "issetuprecipe": false,
+  "categories": "",
+  "tags": [],
+  "steps": [
+    {
+      "name": "ContentNoCache",
+      "data": [
+  {
+    "TitlePart": {
+      "Title": "Level 2 course entry reqs"
+    },
+    "CollegeRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003E2 or more GCSEs at grades 9 to 3 (A* to D), or equivalent, for a level 2 course\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/collegerequirement/d9787539-f966-46d5-bab5-662a3e34b8a2"
+    },
+    "ContentItemId": "46xt1bp4n97dc28e2t5nmy5wwj",
+    "ContentItemVersionId": "4jy0szjg404kb5nengqb3b174r",
+    "ContentType": "CollegeRequirement",
+    "DisplayText": "Level 2 course entry reqs",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-05-19T13:18:01.1805911Z",
+    "PublishedUtc": "2020-05-19T13:18:01.1805911Z",
+    "CreatedUtc": "2020-05-19T13:18:01.1805911Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "HNC or HND"
+    },
+    "CollegeRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003E1 or 2 A levels, or equivalent, for a higher national certificate or higher national diploma\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/collegerequirement/588d6843-0c51-4553-b971-ca28e8285897"
+    },
+    "ContentItemId": "40kadatjvny2mwbd4vdw0a055s",
+    "ContentItemVersionId": "4x23hjgtmsyjn63fkch2ftffwx",
+    "ContentType": "CollegeRequirement",
+    "DisplayText": "HNC or HND",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-05-19T13:18:01.1805911Z",
+    "PublishedUtc": "2020-05-19T13:18:01.1805911Z",
+    "CreatedUtc": "2020-05-19T13:18:01.1805911Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Level 4 or 5 entry reqs"
+    },
+    "CollegeRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003E1 or 2 A levels, a level 3 diploma or relevant experience for a level 4 or level 5 course\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/collegerequirement/7d6fa3dc-4d87-493c-a971-776fbfc424b8"
+    },
+    "ContentItemId": "4ag88bw35pn4015dwtbhnssr50",
+    "ContentItemVersionId": "43y2k3j5sfe5psspe7shgr4tct",
+    "ContentType": "CollegeRequirement",
+    "DisplayText": "Level 4 or 5 entry reqs",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-05-19T13:18:01.1805911Z",
+    "PublishedUtc": "2020-05-19T13:18:01.1805911Z",
+    "CreatedUtc": "2020-05-19T13:18:01.1805911Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Level 1 course entry reqs"
+    },
+    "CollegeRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003E2 or fewer GCSEs at grades 3 to 1 (D to G), or equivalent, for a level 1 course\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/collegerequirement/fcf2586f-a4bd-4ccb-a3ec-9fd1cb080b4d"
+    },
+    "ContentItemId": "411rh37s3akqv5phbpyj87z5cz",
+    "ContentItemVersionId": "48ht3h5nm94gcyb539vv46j5ms",
+    "ContentType": "CollegeRequirement",
+    "DisplayText": "Level 1 course entry reqs",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-05-19T13:18:01.1805911Z",
+    "PublishedUtc": "2020-05-19T13:18:01.1805911Z",
+    "CreatedUtc": "2020-05-19T13:18:01.1805911Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Level 3 course entry reqs"
+    },
+    "CollegeRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003E4 or 5 GCSEs at grades 9 to 4 (A* to C), or equivalent, for a level 3 course\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/collegerequirement/4c85be24-86f7-49fb-a278-3c3721d7703c"
+    },
+    "ContentItemId": "4thyzxcx3cjvn6b9g0ytdmmeng",
+    "ContentItemVersionId": "4t0htp39yambmrrgjpredyczdy",
+    "ContentType": "CollegeRequirement",
+    "DisplayText": "Level 3 course entry reqs",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-05-19T13:18:01.1805911Z",
+    "PublishedUtc": "2020-05-19T13:18:01.1805911Z",
+    "CreatedUtc": "2020-05-19T13:18:01.1805911Z",
+    "Owner": "admin",
+    "Author": "admin"
+  }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "name": "TestData_ApprenticeshipRequirements0_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d",
+  "displayName": "TestData_ApprenticeshipRequirements0_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d",
+  "description": "",
+  "author": "",
+  "website": "",
+  "version": "",
+  "issetuprecipe": false,
+  "categories": "",
+  "tags": [],
+  "steps": [
+    {
+      "name": "ContentNoCache",
+      "data": [
+  {
+    "TitlePart": {
+      "Title": "Postgrad Teaching Apprenticeship"
+    },
+    "ApprenticeshipRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003Ea degree for a teaching apprenticeship\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/apprenticeshiprequirement/2bc9373e-5597-4104-a91d-ae58f5eca6be"
+    },
+    "ContentItemId": "41q3ryffr9e322hhf4bxpxk9xw",
+    "ContentItemVersionId": "4n6bgd8rnnsdqwef6fd07cmrns",
+    "ContentType": "ApprenticeshipRequirement",
+    "DisplayText": "Postgrad Teaching Apprenticeship",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-05-19T13:18:01.1805911Z",
+    "PublishedUtc": "2020-05-19T13:18:01.1805911Z",
+    "CreatedUtc": "2020-05-19T13:18:01.1805911Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Higher or degree apprenticeships"
+    },
+    "ApprenticeshipRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003E4 or 5 GCSEs at grades 9 to 4 (A* to C) and A levels, or equivalent, for a higher or degree apprenticeship\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/apprenticeshiprequirement/4785a7a3-04e6-4c20-9951-9ed402738c79"
+    },
+    "ContentItemId": "46f507f0wmypx6tv08et0m8rx9",
+    "ContentItemVersionId": "4nehem89w8hxvxn4h1gxs6zbmq",
+    "ContentType": "ApprenticeshipRequirement",
+    "DisplayText": "Higher or degree apprenticeships",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-05-19T13:18:01.1805911Z",
+    "PublishedUtc": "2020-05-19T13:18:01.1805911Z",
+    "CreatedUtc": "2020-05-19T13:18:01.1805911Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "GCSE Science - Primary Teaching"
+    },
+    "ApprenticeshipRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EGCSE science at grade 9 to 4 (A* to C) for primary school teaching\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/apprenticeshiprequirement/aeef9a46-290a-4624-a2ba-706ae1703ff6"
+    },
+    "ContentItemId": "40ey6vrs099ggy4gpjnjab31wz",
+    "ContentItemVersionId": "44f1ybj1r38qy3x9hrpjpag746",
+    "ContentType": "ApprenticeshipRequirement",
+    "DisplayText": "GCSE Science - Primary Teaching",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-05-19T13:18:01.1805911Z",
+    "PublishedUtc": "2020-05-19T13:18:01.1805911Z",
+    "CreatedUtc": "2020-05-19T13:18:01.1805911Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Intermediate apprenticeship entry reqs"
+    },
+    "ApprenticeshipRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003Esome GCSEs, usually including English and maths, or equivalent, for an intermediate apprenticeship\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/apprenticeshiprequirement/bf5047fb-23aa-4159-9b2d-8c7ec7d90aee"
+    },
+    "ContentItemId": "4af3rz5hbpp631htt6h5jcc4nf",
+    "ContentItemVersionId": "46z344fmw5qzp6qccq084s1sm3",
+    "ContentType": "ApprenticeshipRequirement",
+    "DisplayText": "Intermediate apprenticeship entry reqs",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-05-19T13:18:01.1805911Z",
+    "PublishedUtc": "2020-05-19T13:18:01.1805911Z",
+    "CreatedUtc": "2020-05-19T13:18:01.1805911Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Advanced apprenticeship entry reqs"
+    },
+    "ApprenticeshipRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003E5 GCSEs at grades 9 to 4 (A* to C), or equivalent, including English and maths, for an advanced apprenticeship\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/apprenticeshiprequirement/5749b74a-4da9-42bf-9221-db3ff3ca46dd"
+    },
+    "ContentItemId": "4atr7x0r7t3ph7qscsa6s1cexn",
+    "ContentItemVersionId": "4xj76v9f50yy2wnw272rszxywg",
+    "ContentType": "ApprenticeshipRequirement",
+    "DisplayText": "Advanced apprenticeship entry reqs",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-05-19T13:18:01.1805911Z",
+    "PublishedUtc": "2020-05-19T13:18:01.1805911Z",
+    "CreatedUtc": "2020-05-19T13:18:01.1805911Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "5 GCSEs at grades 9 to 4 (A* to C) or equivalent, including English and maths, for an advanced apprenticeship"
+    },
+    "ApprenticeshipRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003E5 GCSEs at grades 9 to 4 (A* to C) or equivalent, including English and maths, for an advanced apprenticeship\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/apprenticeshiprequirement/896dbea1-cc07-47b2-83d3-867e70b31fc5"
+    },
+    "ContentItemId": "4e5bqp2drfs5p5hwzq0a5bkbdf",
+    "ContentItemVersionId": "4mgw8ns9a13zj4dg00vmdp9h5f",
+    "ContentType": "ApprenticeshipRequirement",
+    "DisplayText": "5 GCSEs at grades 9 to 4 (A* to C) or equivalent, including English and maths, for an advanced apprenticeship",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-05-19T13:18:01.1805911Z",
+    "PublishedUtc": "2020-05-19T13:18:01.1805911Z",
+    "CreatedUtc": "2020-05-19T13:18:01.1805911Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "GCSEs 9-4 E-M no equivs"
+    },
+    "ApprenticeshipRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EGCSEs at grades 9 to 4 (A* to C) in English and maths\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/apprenticeshiprequirement/856081b4-2467-4618-9166-9654572cae12"
+    },
+    "ContentItemId": "4a60570tehsqysjs2p988791cv",
+    "ContentItemVersionId": "4dz7x3gmks1mb7a3tvgnbbmfd3",
+    "ContentType": "ApprenticeshipRequirement",
+    "DisplayText": "GCSEs 9-4 E-M no equivs",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-05-19T13:18:01.1805911Z",
+    "PublishedUtc": "2020-05-19T13:18:01.1805911Z",
+    "CreatedUtc": "2020-05-19T13:18:01.1805911Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Degree app only"
+    },
+    "ApprenticeshipRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003E4 or 5 GCSEs at grades 9 to 4 (A* to C) and A levels, or equivalent, for a degree apprenticeship\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/apprenticeshiprequirement/0f8160c8-a11c-405d-90d1-89cc840984c6"
+    },
+    "ContentItemId": "4m75k5k08bctq6jpy5qa27h1c1",
+    "ContentItemVersionId": "43dr7stq39qnmvqmr52q3ke94h",
+    "ContentType": "ApprenticeshipRequirement",
+    "DisplayText": "Degree app only",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-05-19T13:18:01.1805911Z",
+    "PublishedUtc": "2020-05-19T13:18:01.1805911Z",
+    "CreatedUtc": "2020-05-19T13:18:01.1805911Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "2 or more GCSEs incl E-M grades 9-4"
+    },
+    "ApprenticeshipRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003E2 or more GCSEs at grades 9 to 4 (A* to C), or equivalent, including English and maths\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "http://nationalcareers.service.gov.uk/apprenticeshiprequirement/10f466e7-ead4-4d78-86ec-271b70229c17"
+    },
+    "ContentItemId": "4fd58gkxvrmx70met26awqrhc2",
+    "ContentItemVersionId": "4vvmny7jxd3pr0pd5fpy59s24w",
+    "ContentType": "ApprenticeshipRequirement",
+    "DisplayText": "2 or more GCSEs incl E-M grades 9-4",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-05-19T13:18:01.1805911Z",
+    "PublishedUtc": "2020-05-19T13:18:01.1805911Z",
+    "CreatedUtc": "2020-05-19T13:18:01.1805911Z",
+    "Owner": "admin",
+    "Author": "admin"
+  }
+      ]
+    }
+  ]
+}

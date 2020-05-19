@@ -1,0 +1,56 @@
+01. TestData_CreateOccupationLabelNodes_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d.recipe.json: 
+02. TestData_CreateOccupationPrefLabelNodes_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d.recipe.json: 
+03. TestData_CreateSkillLabelNodes_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d.recipe.json: 
+04. CreateOccupationLabelContentItems0_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d.recipe.json: 5000
+05. CreateOccupationLabelContentItems5000_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d.recipe.json: 5000
+06. CreateOccupationLabelContentItems10000_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d.recipe.json: 5000
+07. CreateOccupationLabelContentItems15000_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d.recipe.json: 5000
+08. CreateOccupationLabelContentItems20000_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d.recipe.json: 5000
+09. CreateOccupationLabelContentItems25000_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d.recipe.json: 5000
+10. CreateOccupationLabelContentItems30000_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d.recipe.json: 5000
+11. CreateOccupationContentItems0_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d.recipe.json: 300
+12. TestData_QCFLevels0_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d.recipe.json: 10
+13. TestData_ApprenticeshipStandardRoutes0_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d.recipe.json: 10
+14. TestData_ApprenticeshipStandards0_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d.recipe.json: 65
+15. TestData_RequirementsPrefixes0_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d.recipe.json: 6
+16. TestData_ApprenticeshipLinks0_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d.recipe.json: 3
+17. TestData_ApprenticeshipRequirements0_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d.recipe.json: 9
+18. TestData_CollegeLinks0_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d.recipe.json: 5
+19. TestData_CollegeRequirements0_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d.recipe.json: 5
+20. TestData_UniversityLinks0_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d.recipe.json: 6
+21. TestData_UniversityRequirements0_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d.recipe.json: 8
+22. TestData_DayToDayTasks0_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d.recipe.json: 137
+23. TestData_OtherRequirements0_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d.recipe.json: 7
+24. TestData_Registrations0_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d.recipe.json: 3
+25. TestData_Restrictions0_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d.recipe.json: 15
+26. TestData_SocCodes0_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d.recipe.json: 21
+27. TestData_ONetOccupationalCodes0_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d.recipe.json: 17
+28. TestData_WorkingEnvironments0_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d.recipe.json: 15
+29. TestData_WorkingLocations0_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d.recipe.json: 18
+30. TestData_WorkingUniforms0_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d.recipe.json: 2
+31. TestData_JobProfiles0_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d.recipe.json: 21
+32. TestData_JobCategories0_0e9c63e9-0df5-48bb-b46c-21e0a6ceea0d.recipe.json: 26
+# Totals
+OccupationLabels: 33036
+Occupations: 21
+TestData_QCFLevels: 10
+TestData_ApprenticeshipStandardRoutes: 10
+TestData_ApprenticeshipStandards: 65
+TestData_RequirementsPrefixes: 6
+TestData_ApprenticeshipLinks: 3
+TestData_ApprenticeshipRequirements: 9
+TestData_CollegeLinks: 5
+TestData_CollegeRequirements: 5
+TestData_UniversityLinks: 6
+TestData_UniversityRequirements: 8
+TestData_DayToDayTasks: 137
+TestData_OtherRequirements: 7
+TestData_Registrations: 3
+TestData_Restrictions: 15
+TestData_SocCodes: 21
+TestData_ONetOccupationalCodes: 17
+TestData_WorkingEnvironments: 15
+TestData_WorkingLocations: 18
+TestData_WorkingUniforms: 2
+TestData_JobProfiles: 21
+TestData_JobCategories: 26
