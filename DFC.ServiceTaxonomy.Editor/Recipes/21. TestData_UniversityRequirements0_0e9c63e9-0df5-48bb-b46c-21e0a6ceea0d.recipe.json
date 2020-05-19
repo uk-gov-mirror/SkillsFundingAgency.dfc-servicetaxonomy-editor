@@ -14,7 +14,7 @@
       "data": [
   {
     "TitlePart": {
-      "Title": "2 or 3 A levels incl M-S"
+      "Title": "@PREFIX@2 or 3 A levels incl M-S"
     },
     "UniversityRequirement": {
       "Description": {
@@ -27,7 +27,7 @@
     "ContentItemId": "4fswpvw0kmtest7j2shv7vyyx9",
     "ContentItemVersionId": "454x8rcy946tj0te83zfw5mgma",
     "ContentType": "UniversityRequirement",
-    "DisplayText": "2 or 3 A levels incl M-S",
+    "DisplayText": "@PREFIX@2 or 3 A levels incl M-S",
     "Latest": true,
     "Published": true,
     "ModifiedUtc": "2020-05-19T13:18:01.1805911Z",
@@ -38,7 +38,7 @@
   },
   {
     "TitlePart": {
-      "Title": "Postgraduate study - relevant degree needed"
+      "Title": "@PREFIX@Postgraduate study - relevant degree needed"
     },
     "UniversityRequirement": {
       "Description": {
@@ -51,7 +51,7 @@
     "ContentItemId": "47azw7d2wsjs7we6y8zmqqten2",
     "ContentItemVersionId": "4s6c7xkpjqqeaza2d9ncxm03cb",
     "ContentType": "UniversityRequirement",
-    "DisplayText": "Postgraduate study - relevant degree needed",
+    "DisplayText": "@PREFIX@Postgraduate study - relevant degree needed",
     "Latest": true,
     "Published": true,
     "ModifiedUtc": "2020-05-19T13:18:01.1805911Z",
@@ -62,7 +62,7 @@
   },
   {
     "TitlePart": {
-      "Title": "Postgraduate entry reqs - any subject"
+      "Title": "@PREFIX@Postgraduate entry reqs - any subject"
     },
     "UniversityRequirement": {
       "Description": {
@@ -75,7 +75,7 @@
     "ContentItemId": "42qyy4kkbd84d3h02xd9dna1c6",
     "ContentItemVersionId": "4jw6h9cm3msfd3tf55k6r85smv",
     "ContentType": "UniversityRequirement",
-    "DisplayText": "Postgraduate entry reqs - any subject",
+    "DisplayText": "@PREFIX@Postgraduate entry reqs - any subject",
     "Latest": true,
     "Published": true,
     "ModifiedUtc": "2020-05-19T13:18:01.1805911Z",
@@ -86,7 +86,7 @@
   },
   {
     "TitlePart": {
-      "Title": "5 GCSEs 9-4 incl E-M-S"
+      "Title": "@PREFIX@5 GCSEs 9-4 incl E-M-S"
     },
     "UniversityRequirement": {
       "Description": {
@@ -99,7 +99,7 @@
     "ContentItemId": "4p2mmje4wm5q9yattqe195ja4k",
     "ContentItemVersionId": "4hnbzxxh3b9pf0ze9x1d8v23xh",
     "ContentType": "UniversityRequirement",
-    "DisplayText": "5 GCSEs 9-4 incl E-M-S",
+    "DisplayText": "@PREFIX@5 GCSEs 9-4 incl E-M-S",
     "Latest": true,
     "Published": true,
     "ModifiedUtc": "2020-05-19T13:18:01.1805911Z",
@@ -110,7 +110,7 @@
   },
   {
     "TitlePart": {
-      "Title": "at least 1 A level or equivalent for a foundation degree"
+      "Title": "@PREFIX@at least 1 A level or equivalent for a foundation degree"
     },
     "UniversityRequirement": {
       "Description": {
@@ -123,7 +123,7 @@
     "ContentItemId": "4gbnayd084fqa5srt9tcdkxkx6",
     "ContentItemVersionId": "4t586x9aqasn1w0r6kfx522bd6",
     "ContentType": "UniversityRequirement",
-    "DisplayText": "at least 1 A level or equivalent for a foundation degree",
+    "DisplayText": "@PREFIX@at least 1 A level or equivalent for a foundation degree",
     "Latest": true,
     "Published": true,
     "ModifiedUtc": "2020-05-19T13:18:01.1805911Z",
@@ -134,7 +134,7 @@
   },
   {
     "TitlePart": {
-      "Title": "Foundation degree or HND standard entry"
+      "Title": "@PREFIX@Foundation degree or HND standard entry"
     },
     "UniversityRequirement": {
       "Description": {
@@ -147,7 +147,7 @@
     "ContentItemId": "4ygd2k2q5np6fv18ewrn3etymt",
     "ContentItemVersionId": "4s9jkhqm332kp2v5n92vet95m0",
     "ContentType": "UniversityRequirement",
-    "DisplayText": "Foundation degree or HND standard entry",
+    "DisplayText": "@PREFIX@Foundation degree or HND standard entry",
     "Latest": true,
     "Published": true,
     "ModifiedUtc": "2020-05-19T13:18:01.1805911Z",
@@ -158,7 +158,7 @@
   },
   {
     "TitlePart": {
-      "Title": "Degree standard entry reqs"
+      "Title": "@PREFIX@Degree standard entry reqs"
     },
     "UniversityRequirement": {
       "Description": {
@@ -171,7 +171,7 @@
     "ContentItemId": "4mte6wcjkrbm94pqx13mep57mm",
     "ContentItemVersionId": "4ck7whd9ncg25ysdcpm4gsf44a",
     "ContentType": "UniversityRequirement",
-    "DisplayText": "Degree standard entry reqs",
+    "DisplayText": "@PREFIX@Degree standard entry reqs",
     "Latest": true,
     "Published": true,
     "ModifiedUtc": "2020-05-19T13:18:01.1805911Z",
@@ -182,7 +182,7 @@
   },
   {
     "TitlePart": {
-      "Title": "Audition"
+      "Title": "@PREFIX@Audition"
     },
     "UniversityRequirement": {
       "Description": {
@@ -195,7 +195,7 @@
     "ContentItemId": "4xkx6hppt9k0k37py7jcdw1kx4",
     "ContentItemVersionId": "4mh26csdf5ekzwfj4gdcsyzwdd",
     "ContentType": "UniversityRequirement",
-    "DisplayText": "Audition",
+    "DisplayText": "@PREFIX@Audition",
     "Latest": true,
     "Published": true,
     "ModifiedUtc": "2020-05-19T13:18:01.1805911Z",

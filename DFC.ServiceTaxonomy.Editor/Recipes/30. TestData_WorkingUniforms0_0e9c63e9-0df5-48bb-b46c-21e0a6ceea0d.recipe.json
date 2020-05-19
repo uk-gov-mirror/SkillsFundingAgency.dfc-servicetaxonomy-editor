@@ -14,7 +14,7 @@
       "data": [
   {
     "TitlePart": {
-      "Title": "Uniform"
+      "Title": "@PREFIX@Uniform"
     },
     "WorkingUniform": {
       "Description": {
@@ -27,7 +27,7 @@
     "ContentItemId": "401453ryvx7901z69ve1a6dkwv",
     "ContentItemVersionId": "4875j3xmkesa3xfktsg6hcg4mr",
     "ContentType": "WorkingUniform",
-    "DisplayText": "Uniform",
+    "DisplayText": "@PREFIX@Uniform",
     "Latest": true,
     "Published": true,
     "ModifiedUtc": "2020-05-19T13:18:01.1805911Z",
@@ -38,7 +38,7 @@
   },
   {
     "TitlePart": {
-      "Title": "Protective Clothing"
+      "Title": "@PREFIX@Protective Clothing"
     },
     "WorkingUniform": {
       "Description": {
@@ -51,7 +51,7 @@
     "ContentItemId": "43kvxtz4266sxzvn2pb5k4qe5g",
     "ContentItemVersionId": "4m0hf39f15a0z6r546mnt3f7m5",
     "ContentType": "WorkingUniform",
-    "DisplayText": "Protective Clothing",
+    "DisplayText": "@PREFIX@Protective Clothing",
     "Latest": true,
     "Published": true,
     "ModifiedUtc": "2020-05-19T13:18:01.1805911Z",

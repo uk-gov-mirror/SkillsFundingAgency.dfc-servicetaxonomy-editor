@@ -14,7 +14,7 @@
       "data": [
   {
     "TitlePart": {
-      "Title": "QTS"
+      "Title": "@PREFIX@QTS"
     },
     "Registration": {
       "Description": {
@@ -27,7 +27,7 @@
     "ContentItemId": "46sjsdk6zz7ak7a93nhkmnj3mx",
     "ContentItemVersionId": "4bbvm2s58ks5xzkatv95mnxxc8",
     "ContentType": "Registration",
-    "DisplayText": "QTS",
+    "DisplayText": "@PREFIX@QTS",
     "Latest": true,
     "Published": true,
     "ModifiedUtc": "2020-05-19T13:18:01.1805911Z",
@@ -38,7 +38,7 @@
   },
   {
     "TitlePart": {
-      "Title": "HCPC"
+      "Title": "@PREFIX@HCPC"
     },
     "Registration": {
       "Description": {
@@ -51,7 +51,7 @@
     "ContentItemId": "4z23n3mmm7mkj2af8bbdvvjvn4",
     "ContentItemVersionId": "4af7hkrsyaa0vszwm1x2da1kcj",
     "ContentType": "Registration",
-    "DisplayText": "HCPC",
+    "DisplayText": "@PREFIX@HCPC",
     "Latest": true,
     "Published": true,
     "ModifiedUtc": "2020-05-19T13:18:01.1805911Z",
@@ -62,7 +62,7 @@
   },
   {
     "TitlePart": {
-      "Title": "CSCS"
+      "Title": "@PREFIX@CSCS"
     },
     "Registration": {
       "Description": {
@@ -75,7 +75,7 @@
     "ContentItemId": "4a1118w330pbr62e4ywfh5pbnv",
     "ContentItemVersionId": "4qp9g3absdhfyxpd1vkwv7tbwn",
     "ContentType": "Registration",
-    "DisplayText": "CSCS",
+    "DisplayText": "@PREFIX@CSCS",
     "Latest": true,
     "Published": true,
     "ModifiedUtc": "2020-05-19T13:18:01.1805911Z",
