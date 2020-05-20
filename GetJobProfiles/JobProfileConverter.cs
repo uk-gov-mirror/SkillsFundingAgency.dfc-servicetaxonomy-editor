@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
+using GetJobProfiles.Extensions;
 using GetJobProfiles.Models.API;
 using GetJobProfiles.Models.Recipe.ContentItems;
 using GetJobProfiles.Models.Recipe.ContentItems.EntryRoutes;
@@ -303,7 +304,7 @@ namespace GetJobProfiles
 
                 foreach (var activity in activities)
                 {
-                    if (!DayToDayTasks.TryAdd(activity, (_idGenerator.GenerateUniqueId(), activity)))
+                    if (!DayToDayTasks.TryAdd(activity, (_idGenerator.Generate(), activity)))
                     {
                         ColorConsole.WriteLine($"DayToDayTask '{activity}' already saved", ConsoleColor.Red);
                     }

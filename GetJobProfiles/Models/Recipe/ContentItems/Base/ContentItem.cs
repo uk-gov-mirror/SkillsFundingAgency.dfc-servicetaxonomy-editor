@@ -1,4 +1,5 @@
 using GetJobProfiles.Extensions;
+using GetJobProfiles;
 using OrchardCore.Entities;
 
 namespace GetJobProfiles.Models.Recipe.ContentItems.Base
@@ -11,8 +12,9 @@ namespace GetJobProfiles.Models.Recipe.ContentItems.Base
 
         public ContentItem(string contentType, string title, string timestamp, string contentItemId = null)
         {
-            ContentItemId = contentItemId ?? _generator.GenerateUniqueId(); //"[js:uuid()]";
-            ContentItemVersionId = _generator.GenerateUniqueId(); //"[js:uuid()]";
+            
+            ContentItemId = contentItemId ?? (ContentIdController.UseTestValues ? ContentIdController.GetNextCotentId() : _generator.GenerateUniqueId() ); //"[js:uuid()]";
+            ContentItemVersionId = ContentIdController.UseTestValues ? ContentItemId : _generator.GenerateUniqueId(); //"[js:uuid()]";
             ContentType = contentType;
             DisplayText = title;
             Latest = true;

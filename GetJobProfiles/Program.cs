@@ -46,6 +46,29 @@ using NPOI.XSSF.UserModel;
 
 namespace GetJobProfiles
 {
+    public  static class ContentIdController
+    {
+        /*private static readonly Lazy<ContentIdController>
+            lazy =
+            new Lazy<ContentIdController>
+                (() => new ContentIdController());*/
+        
+        private static string idPattern = "TESTCONTENTID_";
+        private static int nextId = 1;
+
+        public static bool UseTestValues { get; set; } = false;
+        public static string GetNextCotentId()
+        {
+            return $"{idPattern}{nextId++}";
+        }
+
+        //public static ContentIdController Instance { get { return lazy.Value; } }
+
+        //private ContentIdController()
+        //{
+        //}
+    }
+
     static class Program
     {
         // to delete all the ncs nodes and relationships in the graph, run..
@@ -67,9 +90,6 @@ namespace GetJobProfiles
         private static readonly List<object> _matchingTitles = new List<object>();
         private static readonly List<object> _missingTitles = new List<object>();
 
-
-
-
         static async Task Main(string[] args)
         {
             string timestamp = $"{DateTime.UtcNow:O}";
@@ -84,6 +104,7 @@ namespace GetJobProfiles
             string[] oNetCodeList = !createTestFiles ? new string[] { } : config["TestONetCodes"].Split(',');
             string[] apprenticeshipStandardsRefList = !createTestFiles ? new string[] { } : config["TestApprenticeshipStandardReferences"].Split(',');
             string _filenamePrefix = createTestFiles ? "TestData_" : "";
+            ContentIdController.UseTestValues = createTestFiles;
 
             var socCodeConverter = new SocCodeConverter(socCodeList);
             var socCodeDictionary = socCodeConverter.Go(timestamp);
