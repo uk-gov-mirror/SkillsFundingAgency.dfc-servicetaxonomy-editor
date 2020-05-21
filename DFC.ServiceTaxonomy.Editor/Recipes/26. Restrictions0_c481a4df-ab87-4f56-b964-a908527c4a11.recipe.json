@@ -1,0 +1,354 @@
+{
+  "name": "Restrictions0_c481a4df-ab87-4f56-b964-a908527c4a11",
+  "displayName": "Restrictions0_c481a4df-ab87-4f56-b964-a908527c4a11",
+  "description": "",
+  "author": "",
+  "website": "",
+  "version": "",
+  "issetuprecipe": false,
+  "categories": "",
+  "tags": [],
+  "steps": [
+    {
+      "name": "ContentNoCache",
+      "data": [
+  {
+    "TitlePart": {
+      "Title": "DBS checks - not enhanced"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Epass \u003Ca href=\u0022https://www.gov.uk/criminal-record-checks-apply-role\u0022\u003Ebackground checks\u003C/a\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/restriction/79c27e52-4ef7-422b-be38-bef3e016f7c1\u0027]"
+    },
+    "ContentItemId": "4dbzy7d6hcx922jj86qbpgzgm0",
+    "ContentItemVersionId": "4bqrqq8qsfmdvt6jgm5y436bm1",
+    "ContentType": "Restriction",
+    "DisplayText": "DBS checks - not enhanced",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-05-21T10:08:19.2404600Z",
+    "PublishedUtc": "2020-05-21T10:08:19.2404600Z",
+    "CreatedUtc": "2020-05-21T10:08:19.2404600Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "DBS enhanced check"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Epass \u003Ca href=\u0022https://www.gov.uk/criminal-record-checks-apply-role\u0022\u003Eenhanced background checks\u003C/a\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/restriction/85049daa-948d-4a9e-9345-571392a155bc\u0027]"
+    },
+    "ContentItemId": "415avvrr73md5w7dyfz3q2t749",
+    "ContentItemVersionId": "4t63chdtwe0kwtgqfvmnnb2vxe",
+    "ContentType": "Restriction",
+    "DisplayText": "DBS enhanced check",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-05-21T10:08:19.2404600Z",
+    "PublishedUtc": "2020-05-21T10:08:19.2404600Z",
+    "CreatedUtc": "2020-05-21T10:08:19.2404600Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "UK, Republic of Ireland or Commonwealth Citizen"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ebe a UK, Republic of Ireland or Commonwealth citizen\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/restriction/6e41e1c9-a427-4ceb-a4e4-6883f1e25895\u0027]"
+    },
+    "ContentItemId": "4v6wrw0vshfbxx64w9tp53mvwk",
+    "ContentItemVersionId": "4txqk4nrn479zr8g56gy380vn7",
+    "ContentType": "Restriction",
+    "DisplayText": "UK, Republic of Ireland or Commonwealth Citizen",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-05-21T10:08:19.2404600Z",
+    "PublishedUtc": "2020-05-21T10:08:19.2404600Z",
+    "CreatedUtc": "2020-05-21T10:08:19.2404600Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Age - Over 20"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ebe over 20 years of age\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/restriction/4f5bed30-fc8f-41b0-b35f-fd0eaa8d1ecb\u0027]"
+    },
+    "ContentItemId": "4p8vac091zm5fsnq0y8m88cmw7",
+    "ContentItemVersionId": "4ra8t17v5vzsk0e4sq3zdrr0nm",
+    "ContentType": "Restriction",
+    "DisplayText": "Age - Over 20",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-05-21T10:08:19.2404600Z",
+    "PublishedUtc": "2020-05-21T10:08:19.2404600Z",
+    "CreatedUtc": "2020-05-21T10:08:19.2404600Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Security Checks"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Epass \u003Ca href=\u0022https://www.gov.uk/government/publications/national-security-vetting-advice-for-people-who-are-being-vetted\u0022\u003Esecurity checks\u003C/a\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/restriction/92c56322-0709-49a4-a8e9-373cf00b8d5e\u0027]"
+    },
+    "ContentItemId": "4tkvhtvrvdh4ss0wm8fm892tn7",
+    "ContentItemVersionId": "4d12jptj225tg0cs0rm4e1qsmm",
+    "ContentType": "Restriction",
+    "DisplayText": "Security Checks",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-05-21T10:08:19.2404600Z",
+    "PublishedUtc": "2020-05-21T10:08:19.2404600Z",
+    "CreatedUtc": "2020-05-21T10:08:19.2404600Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "UK Citizen"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ebe a UK citizen\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/restriction/f45cc1a3-c9be-478d-82b9-d70553ba3a8e\u0027]"
+    },
+    "ContentItemId": "4j438zgqvehtz6yw6qk7cs3jdd",
+    "ContentItemVersionId": "4gtp5y9j0m435zjfx2gqbd2148",
+    "ContentType": "Restriction",
+    "DisplayText": "UK Citizen",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-05-21T10:08:19.2404600Z",
+    "PublishedUtc": "2020-05-21T10:08:19.2404600Z",
+    "CreatedUtc": "2020-05-21T10:08:19.2404600Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Live within 1hr"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Elive within 1 hour\u0027s travel of the depot you\u0027re applying to\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/restriction/380c5808-3184-4d85-8a69-238c74b0557b\u0027]"
+    },
+    "ContentItemId": "4k18gp6kktpd979rek0v5e3jwm",
+    "ContentItemVersionId": "4qs944c2k5303xk3tfj9an4x5t",
+    "ContentType": "Restriction",
+    "DisplayText": "Live within 1hr",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-05-21T10:08:19.2404600Z",
+    "PublishedUtc": "2020-05-21T10:08:19.2404600Z",
+    "CreatedUtc": "2020-05-21T10:08:19.2404600Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Age - Over 18"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ebe over 18 years of age\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/restriction/6f9c792a-6623-456f-b612-e9cce2c1224b\u0027]"
+    },
+    "ContentItemId": "4thw76pbxqs0xys3ha3xjrmjcj",
+    "ContentItemVersionId": "4jvraz5j6g7cz2ddn855mj8wmn",
+    "ContentType": "Restriction",
+    "DisplayText": "Age - Over 18",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-05-21T10:08:19.2404600Z",
+    "PublishedUtc": "2020-05-21T10:08:19.2404600Z",
+    "CreatedUtc": "2020-05-21T10:08:19.2404600Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Physically fit"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ehave a good level of fitness\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/restriction/9fade2bc-492c-4fdf-b5d1-276b021d9ff9\u0027]"
+    },
+    "ContentItemId": "463cfp9pfcrrq4wpgqtvj450xr",
+    "ContentItemVersionId": "48gm07j60fah47tq8cpvtzbdcz",
+    "ContentType": "Restriction",
+    "DisplayText": "Physically fit",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-05-21T10:08:19.2404600Z",
+    "PublishedUtc": "2020-05-21T10:08:19.2404600Z",
+    "CreatedUtc": "2020-05-21T10:08:19.2404600Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "UK - 5 Years"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ehave lived in the UK for the last 5 years\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/restriction/3f6c9901-36cc-4cb8-9859-4c7fd8bbc3d8\u0027]"
+    },
+    "ContentItemId": "43mrvgyy78jry4d97cb8d1pncp",
+    "ContentItemVersionId": "4y8x4c31zhrbkzrxd25w8fv05r",
+    "ContentType": "Restriction",
+    "DisplayText": "UK - 5 Years",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-05-21T10:08:19.2404600Z",
+    "PublishedUtc": "2020-05-21T10:08:19.2404600Z",
+    "CreatedUtc": "2020-05-21T10:08:19.2404600Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Medical check"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Epass a medical check\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/restriction/0743cab9-228b-42b2-bffe-64ed05040423\u0027]"
+    },
+    "ContentItemId": "44hdb66s657vq7ff2ywknp2kmh",
+    "ContentItemVersionId": "4zavg6ehvq9x0tn8b4cf48vcw6",
+    "ContentType": "Restriction",
+    "DisplayText": "Medical check",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-05-21T10:08:19.2404600Z",
+    "PublishedUtc": "2020-05-21T10:08:19.2404600Z",
+    "CreatedUtc": "2020-05-21T10:08:19.2404600Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Numeracy and literacy"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Epass numeracy and literacy \u003Ca href=\u0022https://getintoteaching.education.gov.uk/post-teacher-training-application/preparing-for-the-professional-skills-tests\u0022\u003Eskills tests\u003C/a\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/restriction/ea6918cb-4f84-4a40-99a8-74af8806ce68\u0027]"
+    },
+    "ContentItemId": "4kra1hxkygnwt17a8cgsf00sdf",
+    "ContentItemVersionId": "46tjejd25tpfyr8wwht9m6wx4f",
+    "ContentType": "Restriction",
+    "DisplayText": "Numeracy and literacy",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-05-21T10:08:19.2404600Z",
+    "PublishedUtc": "2020-05-21T10:08:19.2404600Z",
+    "CreatedUtc": "2020-05-21T10:08:19.2404600Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Driving Licence - Full"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ehave a full driving licence\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/restriction/7aa48fdd-f527-4c3c-b734-1e9fb27a3546\u0027]"
+    },
+    "ContentItemId": "42t2ks5s72shpsdcchjs36j4xc",
+    "ContentItemVersionId": "4e5y98g22gyzbr5zefyy92y958",
+    "ContentType": "Restriction",
+    "DisplayText": "Driving Licence - Full",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-05-21T10:08:19.2404600Z",
+    "PublishedUtc": "2020-05-21T10:08:19.2404600Z",
+    "CreatedUtc": "2020-05-21T10:08:19.2404600Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Age - Over 18 to sell alcohol"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ebe over 18 to sell alcohol and other restricted goods\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/restriction/e9407349-4cc1-4a63-af83-a5556fe15d0c\u0027]"
+    },
+    "ContentItemId": "4wae37v1fyfyn4gr2h3az851xk",
+    "ContentItemVersionId": "4n00qbx6jf0374mcj2fama0jm8",
+    "ContentType": "Restriction",
+    "DisplayText": "Age - Over 18 to sell alcohol",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-05-21T10:08:19.2404600Z",
+    "PublishedUtc": "2020-05-21T10:08:19.2404600Z",
+    "CreatedUtc": "2020-05-21T10:08:19.2404600Z",
+    "Owner": "admin",
+    "Author": "admin"
+  }
+      ]
+    }
+  ]
+}
