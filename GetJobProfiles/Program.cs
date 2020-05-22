@@ -53,13 +53,14 @@ namespace GetJobProfiles
             new Lazy<ContentIdController>
                 (() => new ContentIdController());*/
         
-        private static string idPattern = "TESTCONTENTID_";
-        private static int nextId = 1;
+        private static string idPattern = "__TESTCONTENTID[ID]__";
+        private static int nextId = 0;
 
         public static bool UseTestValues { get; set; } = false;
         public static string GetNextCotentId()
         {
-            return $"{idPattern}{nextId++}";
+            nextId++;
+            return idPattern.Replace("[ID]", nextId.ToString());
         }
 
         //public static ContentIdController Instance { get { return lazy.Value; } }
