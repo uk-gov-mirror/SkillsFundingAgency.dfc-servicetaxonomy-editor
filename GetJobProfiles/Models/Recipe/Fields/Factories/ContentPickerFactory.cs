@@ -2,6 +2,7 @@
 using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Linq;
+using GetJobProfiles.Extensions;
 using OrchardCore.Entities;
 
 namespace GetJobProfiles.Models.Recipe.Fields.Factories
@@ -25,7 +26,7 @@ namespace GetJobProfiles.Models.Recipe.Fields.Factories
             foreach (string content in sourceContent ?? Enumerable.Empty<string>())
             {
                 // for now add full as title. once we have the full list can plug in current titles
-                if (!IdLookup.TryAdd(content, _idGenerator.GenerateUniqueId()))
+                if (!IdLookup.TryAdd(content, _idGenerator.Generate()))
                 {
                     // ctor with name?
                     ColorConsole.WriteLine($"Content '{content}' already saved", ConsoleColor.Magenta);
