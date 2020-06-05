@@ -1,0 +1,19 @@
+{
+    "name": "CreateOccupationLabelNodes_7f044ff1-4742-45f8-82b5-3829549a2975",
+    "displayName": "CreateOccupationLabelNodes_7f044ff1-4742-45f8-82b5-3829549a2975",
+    "description": "",
+    "author": "",
+    "website": "",
+    "version": "",
+    "issetuprecipe": false,
+    "categories": "",
+    "tags": [],
+    "steps": [
+        {
+            "name": "CypherCommand",
+            "commands": [
+                "match (n:esco__Occupation)\r\nunwind n.skos__altLabel as altLabels\r\ncreate (al:OccupationLabel:Resource {skos__prefLabel: altLabels, uri: \"<<ContentApiPrefix>>/occupationlabel/\" + apoc.create.uuid()})\r\ncreate (n)-[:hasAltLabel]->(al)"
+            ]
+        }
+    ]
+}
