@@ -1,0 +1,330 @@
+{
+  "name": "DirectRoutes0_b02f2cda-268a-43c4-b82d-ba6e14d98eae",
+  "displayName": "DirectRoutes0_b02f2cda-268a-43c4-b82d-ba6e14d98eae",
+  "description": "",
+  "author": "",
+  "website": "",
+  "version": "",
+  "issetuprecipe": false,
+  "categories": "",
+  "tags": [],
+  "steps": [
+    {
+      "name": "ContentNoCache",
+      "data": [
+  {
+    "TitlePart": {
+      "Title": "Postman or postwoman"
+    },
+    "DirectRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou can apply directly for delivery work. You don\u0027t need any specific qualifications, but your interview will usually include aptitude tests. These are to check that you can read addresses correctly and recognise misaddressed mail.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/directroute/ae8dd4d2-e8c0-4aa0-b7a2-a50e60c3cfbb\u0027]"
+    },
+    "ContentItemId": "4yhgm6dqt2daq7vxxaqqvzp65b",
+    "ContentItemVersionId": "4zf7dpqz64kae538yn6676mam3",
+    "ContentType": "DirectRoute",
+    "DisplayText": "Postman or postwoman",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-05T15:52:02.5974115Z",
+    "PublishedUtc": "2020-06-05T15:52:02.5974115Z",
+    "CreatedUtc": "2020-06-05T15:52:02.5974115Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Border Force officer"
+    },
+    "DirectRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou could apply directly to become a Border Force officer. To enter at officer level, you may need at least 2 A levels at grade E or above, or equivalent qualifications.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/directroute/29d9e466-4837-4c05-9c2c-ad04226b425c\u0027]"
+    },
+    "ContentItemId": "4j41bb8t7nxwp2n3rkqw4h1a51",
+    "ContentItemVersionId": "4q046cs2ygwhcypqk7z76xs4wc",
+    "ContentType": "DirectRoute",
+    "DisplayText": "Border Force officer",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-05T15:52:02.5974115Z",
+    "PublishedUtc": "2020-06-05T15:52:02.5974115Z",
+    "CreatedUtc": "2020-06-05T15:52:02.5974115Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Admin assistant"
+    },
+    "DirectRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou could apply directly to become an admin assistant.\u003C/p\u003E\u003Cp\u003ESome employers may expect you to have:\u003Cul\u003E\u003Cli\u003EGCSEs at grades 9 to 4 (A* to C) or equivalent qualifications, including English and maths\u003C/li\u003E\u003Cli\u003Etelephone, typing or IT skills\u003C/li\u003E\u003C/ul\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/directroute/7e12164f-9602-4b6e-97c9-78a013588dc9\u0027]"
+    },
+    "ContentItemId": "4mpr24ra1wbqm66vrnb6gqxwxe",
+    "ContentItemVersionId": "4a9njvsrmxx5p11hc3tgybpr4k",
+    "ContentType": "DirectRoute",
+    "DisplayText": "Admin assistant",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-05T15:52:02.5974115Z",
+    "PublishedUtc": "2020-06-05T15:52:02.5974115Z",
+    "CreatedUtc": "2020-06-05T15:52:02.5974115Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Construction labourer"
+    },
+    "DirectRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou can apply directly for jobs. There are no set requirements, though it will be helpful if you\u0027ve got on-site experience.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/directroute/c5a8647b-22f8-4000-a8d0-f7176a294ed4\u0027]"
+    },
+    "ContentItemId": "47kxv789qg93xy8ypy8w26wwxt",
+    "ContentItemVersionId": "4ks18nfcrph2k37zc1tzkethc1",
+    "ContentType": "DirectRoute",
+    "DisplayText": "Construction labourer",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-05T15:52:02.5974115Z",
+    "PublishedUtc": "2020-06-05T15:52:02.5974115Z",
+    "CreatedUtc": "2020-06-05T15:52:02.5974115Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Electrician"
+    },
+    "DirectRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may be able to move into electrical installation work if you\u0027ve got experience and relevant qualifications from a related industry, for example building services or electrical engineering.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/directroute/37227aca-2371-4d9a-8da3-88d11284d1c0\u0027]"
+    },
+    "ContentItemId": "41jk8sgd4bxvty9npmntrzk6nm",
+    "ContentItemVersionId": "43bwr85b7gnmcts1y3w7dzyvxg",
+    "ContentType": "DirectRoute",
+    "DisplayText": "Electrician",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-05T15:52:02.5974115Z",
+    "PublishedUtc": "2020-06-05T15:52:02.5974115Z",
+    "CreatedUtc": "2020-06-05T15:52:02.5974115Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Waiter"
+    },
+    "DirectRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou can apply for jobs without experience, though you\u0027ll have an advantage if you\u0027ve worked in customer service before. Your employer will train you on the job.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/directroute/84fd2baf-385c-42c3-aaf8-cd9f4a331029\u0027]"
+    },
+    "ContentItemId": "47fgqxrttsxgz72tzkjc7nh65c",
+    "ContentItemVersionId": "49zb6334symfvwqfab4c5fmnny",
+    "ContentType": "DirectRoute",
+    "DisplayText": "Waiter",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-05T15:52:02.5974115Z",
+    "PublishedUtc": "2020-06-05T15:52:02.5974115Z",
+    "CreatedUtc": "2020-06-05T15:52:02.5974115Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Sales assistant"
+    },
+    "DirectRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou can apply directly for jobs. Employers may ask for some GCSEs at grades 9 to 4 (A* to C), including English and maths. Retail or customer service experience will also be helpful.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/directroute/cd37aee1-fda5-4828-a511-e51bc4bd31a0\u0027]"
+    },
+    "ContentItemId": "43tnb99sr59v363tpcceej17wr",
+    "ContentItemVersionId": "4954twf97x38axydcghvmdcjxd",
+    "ContentType": "DirectRoute",
+    "DisplayText": "Sales assistant",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-05T15:52:02.5974115Z",
+    "PublishedUtc": "2020-06-05T15:52:02.5974115Z",
+    "CreatedUtc": "2020-06-05T15:52:02.5974115Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Police officer"
+    },
+    "DirectRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll usually apply to one police force at a time.\u003C/p\u003E\u003Cp\u003EIf your application is successful, you\u0027ll be invited to an assessment centre where you\u0027ll:\u003Cul\u003E\u003Cli\u003Ehave an interview\u003C/li\u003E\u003Cli\u003Etake written tests\u003C/li\u003E\u003Cli\u003Etake a physical fitness test\u003C/li\u003E\u003Cli\u003Ehave a medical and eyesight test\u003C/li\u003E\u003C/ul\u003E\u003C/p\u003E\u003Cp\u003EYou can prepare for your application by doing the \u003Ca href=\u0022http://www.college.police.uk/What-we-do/Learning/Certificate/Pages/Information-for-Students.aspx\u0022\u003ECertificate in Knowledge of Policing\u003C/a\u003E.\u003C/p\u003E\u003Cp\u003EIf you\u0027re unsuccessful, you may have to wait a minimum of 6 months before you can re-apply.\u003C/p\u003E\u003Cp\u003EIf you\u0027ve got management experience you could \u003Ca href=\u0022http://www.leadbeyond.police.uk/\u0022\u003Eapply for direct entry as an inspector or superintendent\u003C/a\u003E.\u003C/p\u003E\u003Cp\u003EIf you have an upper second class degree, you could apply for the \u003Ca href=\u0022https://www.policenow.org.uk/\u0022\u003EPolice Now Graduate Leadership Development Programme\u003C/a\u003E.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/directroute/f840a82a-3863-42e1-be56-fba9d0039914\u0027]"
+    },
+    "ContentItemId": "41j5zq1v02mr82yvmmdzvmq2mc",
+    "ContentItemVersionId": "40nr9dqw4vb1qsej16wfae0hdr",
+    "ContentType": "DirectRoute",
+    "DisplayText": "Police officer",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-05T15:52:02.5974115Z",
+    "PublishedUtc": "2020-06-05T15:52:02.5974115Z",
+    "CreatedUtc": "2020-06-05T15:52:02.5974115Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Emergency medical dispatcher"
+    },
+    "DirectRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou can apply directly to your \u003Ca href=\u0022https://www.collegeofparamedics.co.uk/how_to_become_a_paramedic/ambulance_trusts\u0022\u003Elocal ambulance service\u003C/a\u003E.\u003C/p\u003E\u003Cp\u003EEach service sets their own entry requirements, though it may help your application if you have:\u003Cul\u003E\u003Cli\u003EGCSEs grade 9 to 4 (A* to C) in English, maths and science\u003C/li\u003E\u003Cli\u003Eexperience in customer care, like a call centre operator\u003C/li\u003E\u003Cli\u003Emap reading skills and knowledge of local geography\u003C/li\u003E\u003Cli\u003Ean understanding of medical terminology\u003C/li\u003E\u003Cli\u003Ethe ability to speak a community language\u003C/li\u003E\u003Cli\u003Ea recognised and up-to-date first aid qualification\u003C/li\u003E\u003C/ul\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/directroute/c0a9e8ae-858a-44b9-bec8-5968feb0c852\u0027]"
+    },
+    "ContentItemId": "4xtrx8gza0097yas7ztjahw85a",
+    "ContentItemVersionId": "4722bk37ac77mraxz146seh8w5",
+    "ContentType": "DirectRoute",
+    "DisplayText": "Emergency medical dispatcher",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-05T15:52:02.5974115Z",
+    "PublishedUtc": "2020-06-05T15:52:02.5974115Z",
+    "CreatedUtc": "2020-06-05T15:52:02.5974115Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Care worker"
+    },
+    "DirectRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou could apply directly and do training while in the job. You\u0027ll find it useful to have experience of working with people.\u003C/p\u003E\u003Cp\u003ESome employers may expect you to have GCSEs at grades 9 to 4 (A* to C) in English and maths, or equivalent qualifications.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/directroute/960a45cc-ba5b-4e4d-b9e6-37420c77ad4c\u0027]"
+    },
+    "ContentItemId": "4p1wgtpd09mxfz6byyh9ey63wc",
+    "ContentItemVersionId": "4pxaqcmjeveh55dra66kdbwzdx",
+    "ContentType": "DirectRoute",
+    "DisplayText": "Care worker",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-05T15:52:02.5974115Z",
+    "PublishedUtc": "2020-06-05T15:52:02.5974115Z",
+    "CreatedUtc": "2020-06-05T15:52:02.5974115Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Actor"
+    },
+    "DirectRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may be able to find work by applying directly for roles if you have a lot of experience and exceptional acting talent.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/directroute/3192618e-34a7-4ddc-adf3-9ee09e18f7d9\u0027]"
+    },
+    "ContentItemId": "4pxstwbyty1gjtafded560c4c8",
+    "ContentItemVersionId": "4b8b2ehjg04ra20nhj3nxc9wx1",
+    "ContentType": "DirectRoute",
+    "DisplayText": "Actor",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-05T15:52:02.5974115Z",
+    "PublishedUtc": "2020-06-05T15:52:02.5974115Z",
+    "CreatedUtc": "2020-06-05T15:52:02.5974115Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Cabin crew"
+    },
+    "DirectRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou could apply directly to \u003Ca href=\u0022http://airlinesuk.org/members/\u0022\u003Eairlines\u003C/a\u003E for a cabin crew job. Entry requirements vary but good customer service skills will be expected.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/directroute/24bcd840-48f7-416d-bbb1-202eb0467fea\u0027]"
+    },
+    "ContentItemId": "4gj1m97h5tp5nv0k1wzy8rd0ww",
+    "ContentItemVersionId": "41xk2090j9pmjwh8rp6y3w6mdh",
+    "ContentType": "DirectRoute",
+    "DisplayText": "Cabin crew",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-05T15:52:02.5974115Z",
+    "PublishedUtc": "2020-06-05T15:52:02.5974115Z",
+    "CreatedUtc": "2020-06-05T15:52:02.5974115Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Train driver"
+    },
+    "DirectRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003ETypically you would apply directly to a train operating company to become a train driver.\u003C/p\u003E\u003Cp\u003ESome employers may expect you to have GCSEs at grades 9 to 4 (A* to C) in English and maths, or equivalent qualifications.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/directroute/d0af8238-a5df-4c32-a73e-2dd351b235e5\u0027]"
+    },
+    "ContentItemId": "41j62c4gzgkws50yqgpe6ygvnh",
+    "ContentItemVersionId": "4ztgwcfh7v4762vwrmt50zafn6",
+    "ContentType": "DirectRoute",
+    "DisplayText": "Train driver",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-05T15:52:02.5974115Z",
+    "PublishedUtc": "2020-06-05T15:52:02.5974115Z",
+    "CreatedUtc": "2020-06-05T15:52:02.5974115Z",
+    "Owner": "admin",
+    "Author": "admin"
+  }
+      ]
+    }
+  ]
+}
