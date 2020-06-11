@@ -14,7 +14,7 @@ namespace DFC.ServiceTaxonomy.GraphLookup.Controllers
             _session = session;
         }
 
-        [Admin]
+
         [HttpPost]
         [IgnoreAntiforgeryToken]
         public IActionResult CreateContentItems([FromBody]ContentItem contentItem)
