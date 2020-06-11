@@ -18,6 +18,7 @@ using DFC.ServiceTaxonomy.Neo4j.Services;
 using Microsoft.Extensions.Configuration;
 using Neo4j.Driver;
 using OrchardCore.Modules;
+using DFC.ServiceTaxonomy.GraphSync.Recipes.Executors;
 
 namespace DFC.ServiceTaxonomy.GraphLookup
 {
@@ -40,6 +41,8 @@ namespace DFC.ServiceTaxonomy.GraphLookup
             services.AddScoped<IContentTypePartDefinitionDisplayDriver, GraphLookupPartSettingsDisplayDriver>();
             services.AddScoped<IDataMigration, Migrations>();
             services.AddScoped<IContentPartGraphSyncer, GraphLookupPartGraphSyncer>();
+            services.AddHttpClient<CypherToContentStep>();
+            
         }
 
         public override void Configure(IApplicationBuilder builder, IEndpointRouteBuilder routes, IServiceProvider serviceProvider)
@@ -57,6 +60,13 @@ namespace DFC.ServiceTaxonomy.GraphLookup
                 pattern: "GraphLookup/SearchLookupNodes",
                 defaults: new { controller = "GraphLookupAdmin", action = "SearchLookupNodes" }
             );
+
+            routes.MapAreaControllerRoute(
+               name: "ImportTest",
+               areaName: "DFC.ServiceTaxonomy.GraphLookup",
+               pattern: "Import/CreateContentItems",
+               defaults: new { controller = "Import", action = "CreateContentItems" }
+           );
         }
     }
 }

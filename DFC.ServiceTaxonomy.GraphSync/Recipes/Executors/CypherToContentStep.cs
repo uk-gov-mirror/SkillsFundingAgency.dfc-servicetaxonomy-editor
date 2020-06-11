@@ -17,6 +17,8 @@ using OrchardCore.ContentManagement;
 using OrchardCore.Recipes.Models;
 using OrchardCore.Recipes.Services;
 using Newtonsoft.Json;
+using System.Net.Http;
+using System.Text;
 
 namespace DFC.ServiceTaxonomy.GraphSync.Recipes.Executors
 {
@@ -37,7 +39,7 @@ namespace DFC.ServiceTaxonomy.GraphSync.Recipes.Executors
         private readonly ICypherToContentCSharpScriptGlobals _cypherToContentCSharpScriptGlobals;
         private readonly IMemoryCache _memoryCache;
         private readonly ILogger<CypherToContentStep> _logger;
-
+        private readonly IHttpClientFactory _httpClient;
         private const string StepName = "CypherToContent";
 
         public CypherToContentStep(
@@ -48,7 +50,8 @@ namespace DFC.ServiceTaxonomy.GraphSync.Recipes.Executors
             IContentItemIdGenerator idGenerator,
             ICypherToContentCSharpScriptGlobals cypherToContentCSharpScriptGlobals,
             IMemoryCache memoryCache,
-            ILogger<CypherToContentStep> logger)
+            ILogger<CypherToContentStep> logger,
+            IHttpClientFactory httpClient)
         {
             _graphDatabase = graphDatabase;
             _serviceProvider = serviceProvider;
@@ -58,6 +61,7 @@ namespace DFC.ServiceTaxonomy.GraphSync.Recipes.Executors
             _cypherToContentCSharpScriptGlobals = cypherToContentCSharpScriptGlobals;
             _memoryCache = memoryCache;
             _logger = logger;
+            _httpClient = httpClient;
         }
 
         //todo: need to add validation, at least to detect when import same thing twice!
@@ -98,9 +102,13 @@ namespace DFC.ServiceTaxonomy.GraphSync.Recipes.Executors
 
                 foreach (ContentItem preparedContentItem in preparedContentItems)
                 {
-                    await CreateContentItem(preparedContentItem, cypherToContent.SyncBackRequired);
+                    CreateContentItem(preparedContentItem, cypherToContent.SyncBackRequired);
                 }
 
+#pragma warning disable S1075 // URIs should not be hardcoded
+                var tasks = preparedContentItems.Select(x => _httpClient.CreateClient().PostAsync("https://localhost:44346/Import/CreateContentItems", new StringContent(JsonConvert.SerializeObject(x), Encoding.UTF8, "application/json")));
+#pragma warning restore S1075 // URIs should not be hardcoded
+                await Task.WhenAll(tasks);
                 //todo: log this, but ensure no double enumeration
                 //                _logger.LogInformation($"Created {contentItemJObjects.Count()} content items in {stopwatch.Elapsed}");
                 _logger.LogInformation($"Created content items in {stopwatch.Elapsed}");
@@ -132,7 +140,7 @@ namespace DFC.ServiceTaxonomy.GraphSync.Recipes.Executors
             return contentItem;
         }
 
-        private async Task CreateContentItem(ContentItem contentItem, bool syncBackRequired)
+        private void CreateContentItem(ContentItem contentItem, bool syncBackRequired)
         {
             //todo: could put contenttype in there for extra safety!? overkill?
 
@@ -150,8 +158,8 @@ namespace DFC.ServiceTaxonomy.GraphSync.Recipes.Executors
 
             //todo: log adding content type + id? how would we (easily) get the contenttype??
 
-            await _contentManager.CreateAsync(contentItem);
-            _contentManagerSession.Clear();
+            //await _contentManager.CreateAsync(contentItem);
+            //_contentManagerSession.Clear();
         }
 
         private static readonly Regex _cSharpHelperRegex = new Regex(@"\[c#:([^\]]+)\]", RegexOptions.Compiled);
