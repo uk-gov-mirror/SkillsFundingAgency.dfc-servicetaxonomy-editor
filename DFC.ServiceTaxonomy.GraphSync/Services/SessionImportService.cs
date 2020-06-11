@@ -17,7 +17,6 @@ namespace DFC.ServiceTaxonomy.GraphSync.Services
         public async Task Add(ContentItem contentItem)
         {
             _session.Save(contentItem);
-            await _session.FlushAsync();
         }
     }
 }

@@ -105,9 +105,10 @@ namespace DFC.ServiceTaxonomy.GraphSync.Recipes.Executors
                 }
 
 #pragma warning disable S1075 // URIs should not be hardcoded
-                var tasks = preparedContentItems.Select(x => _sessionImportService.Add(x));
+                var tasks = preparedContentItems.Select(x => _httpClient.CreateClient().PostAsync("https://dfc-dev-stax-editor-as.azurewebsites.net/Import/CreateContentItems", new StringContent(JsonConvert.SerializeObject(x), Encoding.UTF8, "application/json")));
 #pragma warning restore S1075 // URIs should not be hardcoded
                 await Task.WhenAll(tasks);
+
                 //todo: log this, but ensure no double enumeration
                 //                _logger.LogInformation($"Created {contentItemJObjects.Count()} content items in {stopwatch.Elapsed}");
                 _logger.LogInformation($"Created content items in {stopwatch.Elapsed}");
