@@ -1,22 +1,31 @@
-﻿using System.Threading.Tasks;
+﻿using System;
+using System.Threading.Tasks;
 using DFC.ServiceTaxonomy.GraphSync.Services.Interface;
+using Microsoft.Extensions.DependencyInjection;
 using OrchardCore.ContentManagement;
-using YesSql;
 
 namespace DFC.ServiceTaxonomy.GraphSync.Services
 {
     public class SessionImportService : ISessionImportService
     {
-        private readonly ISession _session;
+        private readonly IServiceProvider _serviceProvider;
 
-        public SessionImportService(ISession session)
+        public SessionImportService(IServiceProvider serviceProvider)
         {
-            _session = session;
+            _serviceProvider = serviceProvider;
         }
 
         public async Task Add(ContentItem contentItem)
         {
-            _session.Save(contentItem);
+            await Task.Run(() =>
+            {
+                using (var scope = _serviceProvider.CreateScope())
+                {
+                    var session = scope.ServiceProvider.GetRequiredService<YesSql.ISession>();
+                    session.Save(contentItem);
+                }
+            });
+
         }
     }
 }
