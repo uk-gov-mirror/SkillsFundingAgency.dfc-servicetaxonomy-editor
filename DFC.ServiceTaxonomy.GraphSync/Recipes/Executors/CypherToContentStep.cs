@@ -18,7 +18,7 @@ using OrchardCore.Recipes.Models;
 using OrchardCore.Recipes.Services;
 using Newtonsoft.Json;
 using System.Net.Http;
-using DFC.ServiceTaxonomy.GraphSync.Services.Interface;
+using System.Text;
 
 namespace DFC.ServiceTaxonomy.GraphSync.Recipes.Executors
 {
@@ -33,12 +33,13 @@ namespace DFC.ServiceTaxonomy.GraphSync.Recipes.Executors
     {
         private readonly IGraphDatabase _graphDatabase;
         private readonly IServiceProvider _serviceProvider;
+        private readonly IContentManager _contentManager;
+        private readonly IContentManagerSession _contentManagerSession;
         private readonly IContentItemIdGenerator _idGenerator;
         private readonly ICypherToContentCSharpScriptGlobals _cypherToContentCSharpScriptGlobals;
         private readonly IMemoryCache _memoryCache;
         private readonly ILogger<CypherToContentStep> _logger;
         private readonly IHttpClientFactory _httpClient;
-        private readonly ISessionImportService _sessionImportService;
         private const string StepName = "CypherToContent";
 
         public CypherToContentStep(
@@ -50,12 +51,12 @@ namespace DFC.ServiceTaxonomy.GraphSync.Recipes.Executors
             ICypherToContentCSharpScriptGlobals cypherToContentCSharpScriptGlobals,
             IMemoryCache memoryCache,
             ILogger<CypherToContentStep> logger,
-            IHttpClientFactory httpClient,
-            ISessionImportService sessionImportService)
+            IHttpClientFactory httpClient)
         {
             _graphDatabase = graphDatabase;
             _serviceProvider = serviceProvider;
-            _sessionImportService = sessionImportService;
+            _contentManager = contentManager;
+            _contentManagerSession = contentManagerSession;
             _idGenerator = idGenerator;
             _cypherToContentCSharpScriptGlobals = cypherToContentCSharpScriptGlobals;
             _memoryCache = memoryCache;
@@ -108,7 +109,6 @@ namespace DFC.ServiceTaxonomy.GraphSync.Recipes.Executors
                 var tasks = preparedContentItems.Select(x => _httpClient.CreateClient().PostAsync("https://dfc-dev-stax-editor-as.azurewebsites.net/Import/CreateContentItems", new StringContent(JsonConvert.SerializeObject(x), Encoding.UTF8, "application/json")));
 #pragma warning restore S1075 // URIs should not be hardcoded
                 await Task.WhenAll(tasks);
-
                 //todo: log this, but ensure no double enumeration
                 //                _logger.LogInformation($"Created {contentItemJObjects.Count()} content items in {stopwatch.Elapsed}");
                 _logger.LogInformation($"Created content items in {stopwatch.Elapsed}");
