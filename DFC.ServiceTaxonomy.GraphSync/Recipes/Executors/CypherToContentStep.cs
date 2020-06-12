@@ -37,7 +37,7 @@ namespace DFC.ServiceTaxonomy.GraphSync.Recipes.Executors
         private readonly ICypherToContentCSharpScriptGlobals _cypherToContentCSharpScriptGlobals;
         private readonly IMemoryCache _memoryCache;
         private readonly ILogger<CypherToContentStep> _logger;
-        private readonly IStore _store;
+        private readonly ISession _session;
         private const string StepName = "CypherToContent";
 
         public CypherToContentStep(
@@ -50,7 +50,7 @@ namespace DFC.ServiceTaxonomy.GraphSync.Recipes.Executors
             IMemoryCache memoryCache,
             ILogger<CypherToContentStep> logger,
             IHttpClientFactory httpClient,
-            IStore store)
+            ISession session)
         {
             _graphDatabase = graphDatabase;
             _serviceProvider = serviceProvider;
@@ -58,7 +58,7 @@ namespace DFC.ServiceTaxonomy.GraphSync.Recipes.Executors
             _cypherToContentCSharpScriptGlobals = cypherToContentCSharpScriptGlobals;
             _memoryCache = memoryCache;
             _logger = logger;
-            _store = store;
+            _session = session;
         }
 
         //todo: need to add validation, at least to detect when import same thing twice!
@@ -116,11 +116,7 @@ namespace DFC.ServiceTaxonomy.GraphSync.Recipes.Executors
         {
             await Task.Run(() =>
             {
-                using (var session = _store.CreateSession())
-                {
-                    session.Save(contentItem);
-
-                }
+                _session.Save(contentItem);
             });
         }
 
