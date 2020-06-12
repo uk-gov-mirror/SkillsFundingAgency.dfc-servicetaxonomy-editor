@@ -37,7 +37,7 @@ namespace DFC.ServiceTaxonomy.GraphSync.Recipes.Executors
         private readonly ICypherToContentCSharpScriptGlobals _cypherToContentCSharpScriptGlobals;
         private readonly IMemoryCache _memoryCache;
         private readonly ILogger<CypherToContentStep> _logger;
-        private readonly ISession _session;
+        private readonly ISession _store;
         private const string StepName = "CypherToContent";
 
         public CypherToContentStep(
@@ -50,7 +50,7 @@ namespace DFC.ServiceTaxonomy.GraphSync.Recipes.Executors
             IMemoryCache memoryCache,
             ILogger<CypherToContentStep> logger,
             IHttpClientFactory httpClient,
-            ISession session)
+            ISession store)
         {
             _graphDatabase = graphDatabase;
             _serviceProvider = serviceProvider;
@@ -58,7 +58,7 @@ namespace DFC.ServiceTaxonomy.GraphSync.Recipes.Executors
             _cypherToContentCSharpScriptGlobals = cypherToContentCSharpScriptGlobals;
             _memoryCache = memoryCache;
             _logger = logger;
-            _session = session;
+            _store = store;
         }
 
         //todo: need to add validation, at least to detect when import same thing twice!
@@ -100,24 +100,16 @@ namespace DFC.ServiceTaxonomy.GraphSync.Recipes.Executors
                 foreach (ContentItem preparedContentItem in preparedContentItems)
                 {
                     CreateContentItem(preparedContentItem, cypherToContent.SyncBackRequired);
+                    _store.Save(preparedContentItem);
+
                 }
 
-                var tasks = preparedContentItems.Select(x => Add(x));
-
-                await Task.WhenAll(tasks);
+                await _store.CommitAsync();
 
                 //todo: log this, but ensure no double enumeration
                 //                _logger.LogInformation($"Created {contentItemJObjects.Count()} content items in {stopwatch.Elapsed}");
                 _logger.LogInformation($"Created content items in {stopwatch.Elapsed}");
             }
-        }
-
-        public async Task Add(ContentItem contentItem)
-        {
-            await Task.Run(() =>
-            {
-                _session.Save(contentItem);
-            });
         }
 
         private ContentItem? PrepareContentItem(JObject contentJObject)
