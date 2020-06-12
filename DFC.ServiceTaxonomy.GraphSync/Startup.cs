@@ -45,6 +45,7 @@ using DFC.ServiceTaxonomy.GraphSync.Managers.Interface;
 using DFC.ServiceTaxonomy.GraphSync.Managers;
 using OrchardCore.Navigation;
 using OrchardCore.Security.Permissions;
+using OrchardCore.Recipes.Services;
 
 namespace DFC.ServiceTaxonomy.GraphSync
 {
@@ -61,7 +62,8 @@ namespace DFC.ServiceTaxonomy.GraphSync
 
             // recipe steps
             services.AddRecipeExecutionStep<CypherCommandStep>();
-            services.AddRecipeExecutionStep<CypherToContentStep>();
+            //services.AddRecipeExecutionStep<CypherToContentStep>();
+            services.AddTransient<IRecipeStepHandler, CypherToContentStep>();
             services.AddRecipeExecutionStep<CSharpContentStep>();
             services.AddRecipeExecutionStep<ContentNoCacheStep>();
             services.AddTransient<ICypherToContentCSharpScriptGlobals, CypherToContentCSharpScriptGlobals>();
