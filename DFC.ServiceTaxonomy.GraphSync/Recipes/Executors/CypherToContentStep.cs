@@ -18,7 +18,7 @@ using OrchardCore.Recipes.Models;
 using OrchardCore.Recipes.Services;
 using Newtonsoft.Json;
 using System.Net.Http;
-using System.Text;
+using YesSql;
 
 namespace DFC.ServiceTaxonomy.GraphSync.Recipes.Executors
 {
@@ -33,13 +33,11 @@ namespace DFC.ServiceTaxonomy.GraphSync.Recipes.Executors
     {
         private readonly IGraphDatabase _graphDatabase;
         private readonly IServiceProvider _serviceProvider;
-        private readonly IContentManager _contentManager;
-        private readonly IContentManagerSession _contentManagerSession;
         private readonly IContentItemIdGenerator _idGenerator;
         private readonly ICypherToContentCSharpScriptGlobals _cypherToContentCSharpScriptGlobals;
         private readonly IMemoryCache _memoryCache;
         private readonly ILogger<CypherToContentStep> _logger;
-        private readonly IHttpClientFactory _httpClient;
+        private readonly IStore _store;
         private const string StepName = "CypherToContent";
 
         public CypherToContentStep(
@@ -51,17 +49,16 @@ namespace DFC.ServiceTaxonomy.GraphSync.Recipes.Executors
             ICypherToContentCSharpScriptGlobals cypherToContentCSharpScriptGlobals,
             IMemoryCache memoryCache,
             ILogger<CypherToContentStep> logger,
-            IHttpClientFactory httpClient)
+            IHttpClientFactory httpClient,
+            IStore store)
         {
             _graphDatabase = graphDatabase;
             _serviceProvider = serviceProvider;
-            _contentManager = contentManager;
-            _contentManagerSession = contentManagerSession;
             _idGenerator = idGenerator;
             _cypherToContentCSharpScriptGlobals = cypherToContentCSharpScriptGlobals;
             _memoryCache = memoryCache;
             _logger = logger;
-            _httpClient = httpClient;
+            _store = store;
         }
 
         //todo: need to add validation, at least to detect when import same thing twice!
@@ -105,14 +102,26 @@ namespace DFC.ServiceTaxonomy.GraphSync.Recipes.Executors
                     CreateContentItem(preparedContentItem, cypherToContent.SyncBackRequired);
                 }
 
-#pragma warning disable S1075 // URIs should not be hardcoded
-                var tasks = preparedContentItems.Select(x => _httpClient.CreateClient().PostAsync("https://dfc-dev-stax-editor-as.azurewebsites.net/Import/CreateContentItems", new StringContent(JsonConvert.SerializeObject(x), Encoding.UTF8, "application/json")));
-#pragma warning restore S1075 // URIs should not be hardcoded
-                await Task.WhenAll(tasks);
+                using (var session = _store.CreateSession())
+                {
+                    var tasks = preparedContentItems.Select(x => Add(session, x));
+
+                    await Task.WhenAll(tasks);
+                }
                 //todo: log this, but ensure no double enumeration
                 //                _logger.LogInformation($"Created {contentItemJObjects.Count()} content items in {stopwatch.Elapsed}");
                 _logger.LogInformation($"Created content items in {stopwatch.Elapsed}");
             }
+        }
+
+        public async Task Add(ISession session, ContentItem contentItem)
+        {
+            await Task.Run(() =>
+            {
+                session.Save(contentItem);
+
+            });
+
         }
 
         private ContentItem? PrepareContentItem(JObject contentJObject)
