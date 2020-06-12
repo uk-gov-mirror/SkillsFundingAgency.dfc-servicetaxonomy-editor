@@ -102,26 +102,26 @@ namespace DFC.ServiceTaxonomy.GraphSync.Recipes.Executors
                     CreateContentItem(preparedContentItem, cypherToContent.SyncBackRequired);
                 }
 
-                using (var session = _store.CreateSession())
-                {
-                    var tasks = preparedContentItems.Select(x => Add(session, x));
+                var tasks = preparedContentItems.Select(x => Add(x));
 
-                    await Task.WhenAll(tasks);
-                }
+                await Task.WhenAll(tasks);
+
                 //todo: log this, but ensure no double enumeration
                 //                _logger.LogInformation($"Created {contentItemJObjects.Count()} content items in {stopwatch.Elapsed}");
                 _logger.LogInformation($"Created content items in {stopwatch.Elapsed}");
             }
         }
 
-        public async Task Add(ISession session, ContentItem contentItem)
+        public async Task Add(ContentItem contentItem)
         {
             await Task.Run(() =>
             {
-                session.Save(contentItem);
+                using (var session = _store.CreateSession())
+                {
+                    session.Save(contentItem);
 
+                }
             });
-
         }
 
         private ContentItem? PrepareContentItem(JObject contentJObject)
