@@ -1,0 +1,186 @@
+{
+  "name": "OtherRequirements0_f8d0ef58-4474-4115-ba3b-4356ac7771d9",
+  "displayName": "OtherRequirements0_f8d0ef58-4474-4115-ba3b-4356ac7771d9",
+  "description": "",
+  "author": "",
+  "website": "",
+  "version": "",
+  "issetuprecipe": false,
+  "categories": "",
+  "tags": [],
+  "steps": [
+    {
+      "name": "ContentNoCache",
+      "data": [
+  {
+    "TitlePart": {
+      "Title": "There are rules about height and weight - these vary between airlines. As a general guide, most look for people between 5ft 2in (157cm) and 6ft 2in (188cm) with weight in proportion to height."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EThere are rules about height and weight - these vary between airlines. As a general guide, most look for people between 5ft 2in (157cm) and 6ft 2in (188cm) with weight in proportion to height.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/otherrequirement/44bd32d5-1463-4acd-a5b0-2a3190cad3dc\u0027]"
+    },
+    "ContentItemId": "4633s40m5hp5326asa4htxsp4p",
+    "ContentItemVersionId": "4aawc8kx4ec323k3r26hy6jy5s",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "There are rules about height and weight - these vary between airlines. As a general guide, most look for people between 5ft 2in (157cm) and 6ft 2in (188cm) with weight in proportion to height.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-15T21:46:57.5814646Z",
+    "PublishedUtc": "2020-06-15T21:46:57.5814646Z",
+    "CreatedUtc": "2020-06-15T21:46:57.5814646Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Usually you\u0027ll also be expected to:have a smart appearance; have a valid passport with no restrictions for the countries the airline travels to; live within 90 minutes of your base"
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EUsually you\u0027ll also be expected to:\u003Cul\u003E\u003Cli\u003Ehave a smart appearance\u003C/li\u003E\u003Cli\u003Ehave a valid passport with no restrictions for the countries the airline travels to\u003C/li\u003E\u003Cli\u003Elive within 90 minutes of your base\u003C/li\u003E\u003C/ul\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/otherrequirement/4e2871ee-c978-4070-bfec-dfb1db0ef421\u0027]"
+    },
+    "ContentItemId": "49ev7ahx4a2kbrsqe24jj0sfc9",
+    "ContentItemVersionId": "4bgcg9yq5555w13rnjg0j629c4",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "Usually you\u0027ll also be expected to:have a smart appearance; have a valid passport with no restrictions for the countries the airline travels to; live within 90 minutes of your base",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-15T21:46:57.5814646Z",
+    "PublishedUtc": "2020-06-15T21:46:57.5814646Z",
+    "CreatedUtc": "2020-06-15T21:46:57.5814646Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You may need a driving licence for some jobs."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may need a driving licence for some jobs.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/otherrequirement/50c271d6-6e05-42ab-bc8e-41a2581e86cd\u0027]"
+    },
+    "ContentItemId": "4m96961e6j4xz70ckdyvnmmvdd",
+    "ContentItemVersionId": "405p048gjzznz7ascqqyzcnjn2",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You may need a driving licence for some jobs.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-15T21:46:57.5814646Z",
+    "PublishedUtc": "2020-06-15T21:46:57.5814646Z",
+    "CreatedUtc": "2020-06-15T21:46:57.5814646Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "To work with plant machinery like excavators or dumper trucks, you\u0027ll need to be 18 or over and have a driving licence."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003ETo work with plant machinery like excavators or dumper trucks, you\u0027ll need to be 18 or over and have a driving licence.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/otherrequirement/97fb7c93-9c3c-4de3-9ff1-1abf3fc96300\u0027]"
+    },
+    "ContentItemId": "409pc1jp7mdz54vg3dqde84pwe",
+    "ContentItemVersionId": "4g8b9wfm607dszw3jcmtmeef5y",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "To work with plant machinery like excavators or dumper trucks, you\u0027ll need to be 18 or over and have a driving licence.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-15T21:46:57.5814646Z",
+    "PublishedUtc": "2020-06-15T21:46:57.5814646Z",
+    "CreatedUtc": "2020-06-15T21:46:57.5814646Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Many airlines also ask that you\u0027re able to swim up to 25 metres."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EMany airlines also ask that you\u0027re able to swim up to 25 metres.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/otherrequirement/0a8538ab-fef8-489c-9ca0-469723a40781\u0027]"
+    },
+    "ContentItemId": "4qkaa7kpn8mbvrr118426mh6wk",
+    "ContentItemVersionId": "4a9qq3r2gn86h5srgqw4s0sdmj",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "Many airlines also ask that you\u0027re able to swim up to 25 metres.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-15T21:46:57.5814646Z",
+    "PublishedUtc": "2020-06-15T21:46:57.5814646Z",
+    "CreatedUtc": "2020-06-15T21:46:57.5814646Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll usually need your own transport to get to and from work, as you may not be able to get public transport to suit your shift times."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll usually need your own transport to get to and from work, as you may not be able to get public transport to suit your shift times.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/otherrequirement/fe7f0b75-3f57-4e34-9bc1-9d685a9606b9\u0027]"
+    },
+    "ContentItemId": "4k3pfq2zcmrdfwc2ey2hyqm44g",
+    "ContentItemVersionId": "4z58fc0tdk5vprj20049d9m54y",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll usually need your own transport to get to and from work, as you may not be able to get public transport to suit your shift times.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-15T21:46:57.5814646Z",
+    "PublishedUtc": "2020-06-15T21:46:57.5814646Z",
+    "CreatedUtc": "2020-06-15T21:46:57.5814646Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Certain people are not allowed to stand as an MP, for example someone convicted of electoral fraud. You can check with the [Electoral Commission] for more information about this."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003ECertain people are not allowed to stand as an MP, for example someone convicted of electoral fraud. You can check with the \u003Ca href=\u0022https://www.electoralcommission.org.uk/i-am-a/candidate-or-agent\u0022\u003EElectoral Commission\u003C/a\u003E for more information about this.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/otherrequirement/0c9ff4e1-3354-48aa-8f3a-8971f33118ca\u0027]"
+    },
+    "ContentItemId": "48ygyht3j0zdtw1dsyphp1gjdx",
+    "ContentItemVersionId": "4j0mh9e52wh4tvdgaetqt54451",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "Certain people are not allowed to stand as an MP, for example someone convicted of electoral fraud. You can check with the [Electoral Commission] for more information about this.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-15T21:46:57.5814646Z",
+    "PublishedUtc": "2020-06-15T21:46:57.5814646Z",
+    "CreatedUtc": "2020-06-15T21:46:57.5814646Z",
+    "Owner": "admin",
+    "Author": "admin"
+  }
+      ]
+    }
+  ]
+}
