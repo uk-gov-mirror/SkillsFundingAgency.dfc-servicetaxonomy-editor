@@ -1,0 +1,90 @@
+{
+  "name": "Registrations0_d45d33b0-10c9-450e-843d-088e4cede81d",
+  "displayName": "Registrations0_d45d33b0-10c9-450e-843d-088e4cede81d",
+  "description": "",
+  "author": "",
+  "website": "",
+  "version": "",
+  "issetuprecipe": false,
+  "categories": "",
+  "tags": [],
+  "steps": [
+    {
+      "name": "ContentNoCache",
+      "data": [
+  {
+    "TitlePart": {
+      "Title": "CSCS"
+    },
+    "Registration": {
+      "Description": {
+        "Html": "\u003Cp\u003Eyou\u0027ll need a \u003Ca href=\u0022https://www.cscs.uk.com\u0022\u003EConstruction Skills Certification Scheme\u003C/a\u003E (CSCS) card or equivalent to train and work on a construction site\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/registration/4213bbf6-24c0-4bde-a780-3158b478af10\u0027]"
+    },
+    "ContentItemId": "42vbbtep38kfb7kar8wra8knxp",
+    "ContentItemVersionId": "4hptd3zzjy09n1hrtbdw21zycx",
+    "ContentType": "Registration",
+    "DisplayText": "CSCS",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-15T13:53:03.6505758Z",
+    "PublishedUtc": "2020-06-15T13:53:03.6505758Z",
+    "CreatedUtc": "2020-06-15T13:53:03.6505758Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "HCPC"
+    },
+    "Registration": {
+      "Description": {
+        "Html": "\u003Cp\u003Eyou\u0027ll need to register with the \u003Ca href=\u0022http://www.hcpc-uk.co.uk/\u0022\u003EHealth and Care Professions Council\u003C/a\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/registration/8d951d61-60de-4545-97b7-cdd0eefc4755\u0027]"
+    },
+    "ContentItemId": "40y4nx2rwendftmv27pn79c6xz",
+    "ContentItemVersionId": "4w3akk4dm6f2q1rew7y6tw9pwv",
+    "ContentType": "Registration",
+    "DisplayText": "HCPC",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-15T13:53:03.6505758Z",
+    "PublishedUtc": "2020-06-15T13:53:03.6505758Z",
+    "CreatedUtc": "2020-06-15T13:53:03.6505758Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "QTS"
+    },
+    "Registration": {
+      "Description": {
+        "Html": "\u003Cp\u003Eyou\u0027ll usually need \u003Ca href=\u0022https://www.gov.uk/guidance/qualified-teacher-status-qts\u0022\u003Equalified teacher status\u003C/a\u003E (QTS) to teach in a state school in England\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/registration/5c97121f-b293-436a-aff4-91085e9825a9\u0027]"
+    },
+    "ContentItemId": "4zqmkqf4514fpyjhttkx0kc1dq",
+    "ContentItemVersionId": "4gf17kdbghnv34kvjbmnbe6xwj",
+    "ContentType": "Registration",
+    "DisplayText": "QTS",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-15T13:53:03.6505758Z",
+    "PublishedUtc": "2020-06-15T13:53:03.6505758Z",
+    "CreatedUtc": "2020-06-15T13:53:03.6505758Z",
+    "Owner": "admin",
+    "Author": "admin"
+  }
+      ]
+    }
+  ]
+}
