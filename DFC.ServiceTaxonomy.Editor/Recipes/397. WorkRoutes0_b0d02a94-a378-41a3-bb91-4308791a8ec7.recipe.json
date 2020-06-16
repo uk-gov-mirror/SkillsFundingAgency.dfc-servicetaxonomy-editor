@@ -1,0 +1,258 @@
+{
+  "name": "WorkRoutes0_b0d02a94-a378-41a3-bb91-4308791a8ec7",
+  "displayName": "WorkRoutes0_b0d02a94-a378-41a3-bb91-4308791a8ec7",
+  "description": "",
+  "author": "",
+  "website": "",
+  "version": "",
+  "issetuprecipe": false,
+  "categories": "",
+  "tags": [],
+  "steps": [
+    {
+      "name": "ContentNoCache",
+      "data": [
+  {
+    "TitlePart": {
+      "Title": "Personal assistant"
+    },
+    "WorkRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou could find a temporary job to get administration experience. You could then apply for permanent roles.\u003C/p\u003E\u003Cp\u003EIf you\u0027re already working as an administrator or secretary, you could become a personal assistant through company training and promotion.\u003C/p\u003E\u003Cp\u003ETo get work, you\u0027ll usually need GCSEs at grades 9 to 4 (A* to C) in English and maths, A levels, or equivalent qualifications.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/workroute/c6dabee2-89e9-4718-8eed-d0d9239a3cf3\u0027]"
+    },
+    "ContentItemId": "4w76zzgygf0vrxjffgdc51kw4z",
+    "ContentItemVersionId": "4rwsjv4x0mr8mwmj4kj43e2zxp",
+    "ContentType": "WorkRoute",
+    "DisplayText": "Personal assistant",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-16T07:19:14.3092135Z",
+    "PublishedUtc": "2020-06-16T07:19:14.3092135Z",
+    "CreatedUtc": "2020-06-16T07:19:14.3092135Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Sales assistant"
+    },
+    "WorkRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou could apply for permanent jobs after getting some experience from:\u003Cul\u003E\u003Cli\u003Ea temporary job in a store at Christmas\u003C/li\u003E\u003Cli\u003Ea weekend job\u003C/li\u003E\u003C/ul\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/workroute/054ffb5b-c2bc-4956-8349-0845dd7be77f\u0027]"
+    },
+    "ContentItemId": "4pt6ps0rjea1vwrkv6n34etjnc",
+    "ContentItemVersionId": "4zcm04g3dh5t84wrje0tkg4yck",
+    "ContentType": "WorkRoute",
+    "DisplayText": "Sales assistant",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-16T07:19:14.3092135Z",
+    "PublishedUtc": "2020-06-16T07:19:14.3092135Z",
+    "CreatedUtc": "2020-06-16T07:19:14.3092135Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Farmer"
+    },
+    "WorkRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou can get valuable experience and move into farm management by working as a supervisor, dairy or arable unit manager, or assistant manager.\u003C/p\u003E\u003Cp\u003EYou could also take qualifications on the job like the Level 4 Certificate in Work-based Agricultural Management.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/workroute/7bce0d7e-9ad2-4352-bd05-b84324361967\u0027]"
+    },
+    "ContentItemId": "4hq35z3nkw3gmsees783qns351",
+    "ContentItemVersionId": "41pft8j1zmtsn2jt0qf1qgwnnc",
+    "ContentType": "WorkRoute",
+    "DisplayText": "Farmer",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-16T07:19:14.3092135Z",
+    "PublishedUtc": "2020-06-16T07:19:14.3092135Z",
+    "CreatedUtc": "2020-06-16T07:19:14.3092135Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Admin assistant"
+    },
+    "WorkRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EExperience of temping could lead to a permanent job. Qualifications in business administration may also help.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/workroute/0c63a080-eb0b-402a-b68b-e22375bcb844\u0027]"
+    },
+    "ContentItemId": "4z300ewzp1aqdznymfkaybw2nq",
+    "ContentItemVersionId": "4f6h7zpw61zjqw6ew4622xcj49",
+    "ContentType": "WorkRoute",
+    "DisplayText": "Admin assistant",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-16T07:19:14.3092135Z",
+    "PublishedUtc": "2020-06-16T07:19:14.3092135Z",
+    "CreatedUtc": "2020-06-16T07:19:14.3092135Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Border Force officer"
+    },
+    "WorkRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou could join the Civil Service as a Border Force assistant officer, then apply for an officer post when vacancies become available.\u003C/p\u003E\u003Cp\u003ETo do this, you\u0027ll usually need 5 GCSEs at grades 9 to 4 (A* to C), including English and maths, or equivalent qualifications.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/workroute/7ac0ef33-e130-465a-90b4-d2033e60d531\u0027]"
+    },
+    "ContentItemId": "4z45xy6q7ex9crqv24x75mj941",
+    "ContentItemVersionId": "406zn1014wv7yzy42rfcm51wx1",
+    "ContentType": "WorkRoute",
+    "DisplayText": "Border Force officer",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-16T07:19:14.3092135Z",
+    "PublishedUtc": "2020-06-16T07:19:14.3092135Z",
+    "CreatedUtc": "2020-06-16T07:19:14.3092135Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Chief executive"
+    },
+    "WorkRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou could move into this role if you\u0027ve got several years\u0027 experience of working at senior management level, along with commercial expertise.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/workroute/eafec004-ad31-4611-bb13-ad4324447650\u0027]"
+    },
+    "ContentItemId": "4mkw84pecctmn244qwkxdkmt5q",
+    "ContentItemVersionId": "4pmdt7ymz7hs8w5jwg4zd91s5z",
+    "ContentType": "WorkRoute",
+    "DisplayText": "Chief executive",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-16T07:19:14.3092135Z",
+    "PublishedUtc": "2020-06-16T07:19:14.3092135Z",
+    "CreatedUtc": "2020-06-16T07:19:14.3092135Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Civil engineer"
+    },
+    "WorkRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou could start as a civil engineering technician and study part time for a degree while you work.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/workroute/8b1b1353-002f-4a87-af5c-fea19427233d\u0027]"
+    },
+    "ContentItemId": "4mmcjg0gqr9bk2w1vr7p1d7xmv",
+    "ContentItemVersionId": "456m2ded6m4y71sb51cy3rc6mp",
+    "ContentType": "WorkRoute",
+    "DisplayText": "Civil engineer",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-16T07:19:14.3092135Z",
+    "PublishedUtc": "2020-06-16T07:19:14.3092135Z",
+    "CreatedUtc": "2020-06-16T07:19:14.3092135Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Train driver"
+    },
+    "WorkRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou could start as a rail passenger assistant or train conductor, then apply for a trainee driver post. This is also a common way to become a London Underground driver.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/workroute/02f97b8f-56ca-4516-bf7f-34e0f992b8d1\u0027]"
+    },
+    "ContentItemId": "45jp0warbqjyrrg63r316zv3me",
+    "ContentItemVersionId": "43pa0qa8ag41pvzgz21wjrm347",
+    "ContentType": "WorkRoute",
+    "DisplayText": "Train driver",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-16T07:19:14.3092135Z",
+    "PublishedUtc": "2020-06-16T07:19:14.3092135Z",
+    "CreatedUtc": "2020-06-16T07:19:14.3092135Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Primary school teacher"
+    },
+    "WorkRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou could start as a teaching assistant and do a part-time degree. You could then move onto a postgraduate teaching course to qualify as a teacher.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/workroute/eea59751-6fca-4395-986c-a132a75e16af\u0027]"
+    },
+    "ContentItemId": "44cd4wpf33ewcz43ktvpehzqxf",
+    "ContentItemVersionId": "4899bfaqwdbeqswhwekn2n7xdj",
+    "ContentType": "WorkRoute",
+    "DisplayText": "Primary school teacher",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-16T07:19:14.3092135Z",
+    "PublishedUtc": "2020-06-16T07:19:14.3092135Z",
+    "CreatedUtc": "2020-06-16T07:19:14.3092135Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Postman or postwoman"
+    },
+    "WorkRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003ERoyal Mail often recruits temporary staff for the Christmas period from September each year.\nThis can be a useful way for you to get some experience and apply for permanent jobs as they come up.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/workroute/d46d82e2-1e74-47dc-b189-e13be1ee76d3\u0027]"
+    },
+    "ContentItemId": "40w2c5f38gshs4tkkptpgbvdcn",
+    "ContentItemVersionId": "4tsjttt9r7nj5y32kjz1vk6pw2",
+    "ContentType": "WorkRoute",
+    "DisplayText": "Postman or postwoman",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-16T07:19:14.3092135Z",
+    "PublishedUtc": "2020-06-16T07:19:14.3092135Z",
+    "CreatedUtc": "2020-06-16T07:19:14.3092135Z",
+    "Owner": "admin",
+    "Author": "admin"
+  }
+      ]
+    }
+  ]
+}

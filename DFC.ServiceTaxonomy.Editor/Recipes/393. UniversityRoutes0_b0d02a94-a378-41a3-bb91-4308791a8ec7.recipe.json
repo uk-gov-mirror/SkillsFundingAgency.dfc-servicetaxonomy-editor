@@ -1,0 +1,339 @@
+{
+  "name": "UniversityRoutes0_b0d02a94-a378-41a3-bb91-4308791a8ec7",
+  "displayName": "UniversityRoutes0_b0d02a94-a378-41a3-bb91-4308791a8ec7",
+  "description": "",
+  "author": "",
+  "website": "",
+  "version": "",
+  "issetuprecipe": false,
+  "categories": "",
+  "tags": [],
+  "steps": [
+    {
+      "name": "ContentNoCache",
+      "data": [
+  {
+    "TitlePart": {
+      "Title": "Social worker"
+    },
+    "UniversityRoute": {
+      "RelevantSubjects": {
+        "Html": "\u003Cp\u003EYou can do a degree or postgraduate qualification in social work approved by the \u003Ca href=\u0022https://www.hcpc-uk.org/education/programmes/register/\u0022\u003EHealth and Care Professions Council\u003C/a\u003E.\u003C/p\u003E"
+      },
+      "FurtherInfo": {
+        "Html": "\u003Cp\u003EYou can also do a 2-year postgraduate degree in social work, if you have a degree in another subject.\u003C/p\u003E\u003Cp\u003EYou may be eligible for social work funding.\u003C/p\u003E"
+      },
+      "RequirementsPrefix": {
+        "ContentItemIds": [
+          "4awvpfws6p53cxkmyc5929qm4n"
+        ]
+      },
+      "Requirements": {
+        "ContentItemIds": [
+          "4n786jt8yc9p2t2ax3kw8j1wn5",
+          "4tm0vsy7rjf0tyq0wj6h7by4mr"
+        ]
+      },
+      "Links": {
+        "ContentItemIds": [
+          "411yjfemnnfpb7f1d0ehnqe0mg",
+          "42yv82eq3tea0138j0sywkf3d6",
+          "406gh46sk6z6z2ay5ndxn3wdmq"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/universityroute/e0e8a00f-cb42-4e3d-9ceb-8b83653d0a8b\u0027]"
+    },
+    "ContentItemId": "486ga3bqe5b6jymrb9x7g44y5q",
+    "ContentItemVersionId": "4aepq48eghfd5s8phf2hn15qm9",
+    "ContentType": "UniversityRoute",
+    "DisplayText": "Social worker",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-16T07:19:14.3092135Z",
+    "PublishedUtc": "2020-06-16T07:19:14.3092135Z",
+    "CreatedUtc": "2020-06-16T07:19:14.3092135Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Civil engineer"
+    },
+    "UniversityRoute": {
+      "RelevantSubjects": {
+        "Html": "\u003Cp\u003EYou can do a foundation degree, higher national diploma or degree in civil engineering.\u003C/p\u003E\u003Cp\u003EMany universities specialise in particular areas of civil engineering, like:\u003Cul\u003E\u003Cli\u003Estructural engineering\u003C/li\u003E\u003Cli\u003Eenvironmental engineering\u003C/li\u003E\u003Cli\u003Ecoastal engineering\u003C/li\u003E\u003C/ul\u003E\u003C/p\u003E\u003Cp\u003ESome courses include a work placement, which can be useful for making industry contacts to help find work after you finish your studies.\u003C/p\u003E"
+      },
+      "FurtherInfo": {
+        "Html": "\u003Cp\u003EYou can apply for a postgraduate master\u0027s award in civil engineering if you\u0027ve got a related degree like maths, science or geology.\u003C/p\u003E"
+      },
+      "RequirementsPrefix": {
+        "ContentItemIds": [
+          "4awvpfws6p53cxkmyc5929qm4n"
+        ]
+      },
+      "Requirements": {
+        "ContentItemIds": [
+          "4jdx20hftnxy6r7fr8dc2dd2nw",
+          "4r1wqqm4x2pyd3wec8ydeq6cdm"
+        ]
+      },
+      "Links": {
+        "ContentItemIds": [
+          "411yjfemnnfpb7f1d0ehnqe0mg",
+          "42yv82eq3tea0138j0sywkf3d6",
+          "406gh46sk6z6z2ay5ndxn3wdmq"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/universityroute/c44f0da6-a073-4dcf-b47f-975d2ff7f5ad\u0027]"
+    },
+    "ContentItemId": "4465cdvkv16bgtrh8ch5x85950",
+    "ContentItemVersionId": "40eq4jhn6gjmjzv9yjx9ankvd2",
+    "ContentType": "UniversityRoute",
+    "DisplayText": "Civil engineer",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-16T07:19:14.3092135Z",
+    "PublishedUtc": "2020-06-16T07:19:14.3092135Z",
+    "CreatedUtc": "2020-06-16T07:19:14.3092135Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Actor"
+    },
+    "UniversityRoute": {
+      "RelevantSubjects": {
+        "Html": "\u003Cp\u003EYou could do a foundation degree, degree or postgraduate diploma in drama, or other relevant subject like:\u003Cul\u003E\u003Cli\u003Eperformance studies\u003C/li\u003E\u003Cli\u003Econtemporary theatre and performance\u003C/li\u003E\u003Cli\u003Eacting\u003C/li\u003E\u003Cli\u003Emusical theatre\u003C/li\u003E\u003C/ul\u003E\u003C/p\u003E"
+      },
+      "FurtherInfo": {
+        "Html": ""
+      },
+      "RequirementsPrefix": {
+        "ContentItemIds": [
+          "4awvpfws6p53cxkmyc5929qm4n"
+        ]
+      },
+      "Requirements": {
+        "ContentItemIds": [
+          "4c3mf3v7f81ffrw6jcgk8hn4wn",
+          "47b4bkjetgjpz579ss2h09bv4d",
+          "4n786jt8yc9p2t2ax3kw8j1wn5",
+          "4r1wqqm4x2pyd3wec8ydeq6cdm"
+        ]
+      },
+      "Links": {
+        "ContentItemIds": [
+          "411yjfemnnfpb7f1d0ehnqe0mg",
+          "42yv82eq3tea0138j0sywkf3d6",
+          "4by621265kc6g2zceqw5cj2qn8",
+          "406gh46sk6z6z2ay5ndxn3wdmq"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/universityroute/9fb7a9e8-e1ab-4461-a1ef-ca085115ee6f\u0027]"
+    },
+    "ContentItemId": "4fjvwkc0nd262x3hxfsj29eqc9",
+    "ContentItemVersionId": "41j6cfx466wr2vzfsx31vsg14z",
+    "ContentType": "UniversityRoute",
+    "DisplayText": "Actor",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-16T07:19:14.3092135Z",
+    "PublishedUtc": "2020-06-16T07:19:14.3092135Z",
+    "CreatedUtc": "2020-06-16T07:19:14.3092135Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Chief executive"
+    },
+    "UniversityRoute": {
+      "RelevantSubjects": {
+        "Html": "\u003Cp\u003EYou\u0027ll usually need a degree, postgraduate or professional qualification related to the organisation\u0027s work. For example, an area like business administration, finance or law.\u003C/p\u003E"
+      },
+      "FurtherInfo": {
+        "Html": ""
+      },
+      "RequirementsPrefix": {
+        "ContentItemIds": [
+          "4awvpfws6p53cxkmyc5929qm4n"
+        ]
+      },
+      "Requirements": {
+        "ContentItemIds": [
+          "4n786jt8yc9p2t2ax3kw8j1wn5",
+          "4tm0vsy7rjf0tyq0wj6h7by4mr"
+        ]
+      },
+      "Links": {
+        "ContentItemIds": [
+          "411yjfemnnfpb7f1d0ehnqe0mg",
+          "42yv82eq3tea0138j0sywkf3d6",
+          "406gh46sk6z6z2ay5ndxn3wdmq"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/universityroute/a96db2e4-32f7-4ee1-97ab-d44c74521fb3\u0027]"
+    },
+    "ContentItemId": "4jvmwyxxap95qwcgtbv8egtrxp",
+    "ContentItemVersionId": "4vjgr13gv9sdv24wy1r1jr66cp",
+    "ContentType": "UniversityRoute",
+    "DisplayText": "Chief executive",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-16T07:19:14.3092135Z",
+    "PublishedUtc": "2020-06-16T07:19:14.3092135Z",
+    "CreatedUtc": "2020-06-16T07:19:14.3092135Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Personal assistant"
+    },
+    "UniversityRoute": {
+      "RelevantSubjects": {
+        "Html": "\u003Cp\u003EYou could do a business-related foundation degree, higher national diploma or degree.\u003C/p\u003E"
+      },
+      "FurtherInfo": {
+        "Html": ""
+      },
+      "RequirementsPrefix": {
+        "ContentItemIds": [
+          "4awvpfws6p53cxkmyc5929qm4n"
+        ]
+      },
+      "Requirements": {
+        "ContentItemIds": [
+          "4w1vbe3jjt27xr9n27kn6pgxdb",
+          "4n786jt8yc9p2t2ax3kw8j1wn5"
+        ]
+      },
+      "Links": {
+        "ContentItemIds": [
+          "411yjfemnnfpb7f1d0ehnqe0mg",
+          "42yv82eq3tea0138j0sywkf3d6",
+          "406gh46sk6z6z2ay5ndxn3wdmq"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/universityroute/bec99448-e24d-40f2-84a9-a8cc0ca617ce\u0027]"
+    },
+    "ContentItemId": "465kw1qmch4k3v6jkdhshrrf5b",
+    "ContentItemVersionId": "4w2bcqr3gtvzdtt08fxgba21ny",
+    "ContentType": "UniversityRoute",
+    "DisplayText": "Personal assistant",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-16T07:19:14.3092135Z",
+    "PublishedUtc": "2020-06-16T07:19:14.3092135Z",
+    "CreatedUtc": "2020-06-16T07:19:14.3092135Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Primary school teacher"
+    },
+    "UniversityRoute": {
+      "RelevantSubjects": {
+        "Html": "\u003Cp\u003EYou can do an \u003Ca href=\u0022https://getintoteaching.education.gov.uk/explore-my-options/teacher-training-routes/university-led-training/university-led-undergraduate-training/degrees-with-qts\u0022\u003Eundergraduate degree\u003C/a\u003E that leads to qualified teacher status (QTS), for example:\u003Cul\u003E\u003Cli\u003EBachelor of Education (BEd)\u003C/li\u003E\u003Cli\u003EBachelor of Arts (BA) with QTS\u003C/li\u003E\u003Cli\u003EBachelor of Science (BSc) with QTS\u003C/li\u003E\u003C/ul\u003E\u003C/p\u003E\u003Cp\u003EYou can also complete a \u003Ca href=\u0022https://getintoteaching.education.gov.uk/explore-my-options/teacher-training-routes/pgce\u0022\u003Epostgraduate certificate in education\u003C/a\u003E (PGCE), if you have a first degree without QTS. This is a common choice and can be done at university or on a school-based training programme.\u003C/p\u003E\u003Cp\u003EThere are more \u003Ca href=\u0022https://getintoteaching.education.gov.uk/explore-my-options/teacher-training-routes/specialist-training-options\u0022\u003Etraining options\u003C/a\u003E if you want to change career or specialise in teaching certain subjects.\u003C/p\u003E"
+      },
+      "FurtherInfo": {
+        "Html": ""
+      },
+      "RequirementsPrefix": {
+        "ContentItemIds": [
+          "4awvpfws6p53cxkmyc5929qm4n"
+        ]
+      },
+      "Requirements": {
+        "ContentItemIds": [
+          "4d8dh34ry2e4r2eby8smxgn9w6",
+          "4n786jt8yc9p2t2ax3kw8j1wn5",
+          "4tm0vsy7rjf0tyq0wj6h7by4mr"
+        ]
+      },
+      "Links": {
+        "ContentItemIds": [
+          "411yjfemnnfpb7f1d0ehnqe0mg",
+          "42yv82eq3tea0138j0sywkf3d6",
+          "406gh46sk6z6z2ay5ndxn3wdmq",
+          "4a4kw821psgjz2z9em0yvtc7d0",
+          "4h6e3g36j08tevhj85ep4a40n9"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/universityroute/94496e29-fe78-435c-9a09-508788577f0c\u0027]"
+    },
+    "ContentItemId": "4txbj9715t7mnv5ttbck7grc4y",
+    "ContentItemVersionId": "420cycqhfrs323402sra3rtb40",
+    "ContentType": "UniversityRoute",
+    "DisplayText": "Primary school teacher",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-16T07:19:14.3092135Z",
+    "PublishedUtc": "2020-06-16T07:19:14.3092135Z",
+    "CreatedUtc": "2020-06-16T07:19:14.3092135Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Farmer"
+    },
+    "UniversityRoute": {
+      "RelevantSubjects": {
+        "Html": "\u003Cp\u003EYou could take a foundation degree, higher national diploma or degree in:\u003Cul\u003E\u003Cli\u003Eagriculture\u003C/li\u003E\u003Cli\u003Eland management\u003C/li\u003E\u003Cli\u003Efarm business management\u003C/li\u003E\u003Cli\u003Ecrop and livestock production\u003C/li\u003E\u003C/ul\u003E\u003C/p\u003E"
+      },
+      "FurtherInfo": {
+        "Html": "\u003Cp\u003ECourses and qualifications are available through \u003Ca href=\u0022http://www.landex.org.uk/\u0022\u003Eagricultural colleges\u003C/a\u003E as well as universities.\u003C/p\u003E"
+      },
+      "RequirementsPrefix": {
+        "ContentItemIds": [
+          "4awvpfws6p53cxkmyc5929qm4n"
+        ]
+      },
+      "Requirements": {
+        "ContentItemIds": [
+          "4w1vbe3jjt27xr9n27kn6pgxdb",
+          "4n786jt8yc9p2t2ax3kw8j1wn5"
+        ]
+      },
+      "Links": {
+        "ContentItemIds": [
+          "411yjfemnnfpb7f1d0ehnqe0mg",
+          "42yv82eq3tea0138j0sywkf3d6",
+          "406gh46sk6z6z2ay5ndxn3wdmq"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027) \u002B \u0027/universityroute/c997988d-bee3-482b-94ed-41433f20f552\u0027]"
+    },
+    "ContentItemId": "4n6jkxdmg5xbdzvxd6h1nfwr49",
+    "ContentItemVersionId": "4rn9ffzrzn0m20sfrsksj2bf42",
+    "ContentType": "UniversityRoute",
+    "DisplayText": "Farmer",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-06-16T07:19:14.3092135Z",
+    "PublishedUtc": "2020-06-16T07:19:14.3092135Z",
+    "CreatedUtc": "2020-06-16T07:19:14.3092135Z",
+    "Owner": "admin",
+    "Author": "admin"
+  }
+      ]
+    }
+  ]
+}
