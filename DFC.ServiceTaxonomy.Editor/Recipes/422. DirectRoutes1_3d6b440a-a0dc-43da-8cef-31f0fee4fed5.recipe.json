@@ -1,0 +1,522 @@
+{
+  "name": "DirectRoutes1_3d6b440a-a0dc-43da-8cef-31f0fee4fed5",
+  "displayName": "DirectRoutes1_3d6b440a-a0dc-43da-8cef-31f0fee4fed5",
+  "description": "",
+  "author": "",
+  "website": "",
+  "version": "",
+  "issetuprecipe": false,
+  "categories": "",
+  "tags": [],
+  "steps": [
+    {
+      "name": "ContentNoCache",
+      "data": [
+  {
+    "TitlePart": {
+      "Title": "Airline pilot"
+    },
+    "DirectRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may be able to apply directly to the Civil Aviation Authority\u0027s \u003Ca href=\u0022https://www.caa.co.uk/General-aviation/Pilot-licences/Applications/Documentation/Additional-documentation-required-for-applications-based-on-the-Military-Accreditation-Scheme-(MAS)-for-UK-military-flight-crew/\u0022\u003EMilitary Accreditation Scheme\u003C/a\u003E to become a commercial pilot, if you have flying experience in the armed forces.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/directroute/132bf8ef-da2c-4a5a-8b2f-75292d8cd58c\u0027]"
+    },
+    "ContentItemId": "4g8c286kaqcrb4hnz2ab1temdc",
+    "ContentItemVersionId": "4tendmgsy4jb5r44mzhe4xb64j",
+    "ContentType": "DirectRoute",
+    "DisplayText": "Airline pilot",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Wood machinist"
+    },
+    "DirectRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou could apply directly to work as a wood machinist. You\u0027ll need experience of working with timber.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/directroute/5e0fe879-6da1-4999-bd20-2eda2420711e\u0027]"
+    },
+    "ContentItemId": "4x2yaa5pe44c93kg2d4e2ed0wy",
+    "ContentItemVersionId": "471tvbvxp8x8vsqgrntmgsdtm2",
+    "ContentType": "DirectRoute",
+    "DisplayText": "Wood machinist",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Soldier"
+    },
+    "DirectRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou can \u003Ca href=\u0022https://apply.army.mod.uk/how-to-join/joining-process/soldier-recruitment-steps\u0022\u003Eapply directly\u003C/a\u003E to join the army. You don\u0027t need any specific qualifications unless you\u0027re applying for a technical role like engineering or communications.\u003C/p\u003E\u003Cp\u003EYou\u0027ll also need to be:\u003Cul\u003E\u003Cli\u003Eaged between 16 and 33\u003C/li\u003E\u003Cli\u003Ephysically fit\u003C/li\u003E\u003C/ul\u003E\u003C/p\u003E\u003Cp\u003EIf your\u00A0application is accepted, you\u0027ll be invited to talk to someone at your local \u003Ca href=\u0022https://apply.army.mod.uk/army-career-centre-finder\u0022\u003Earmy careers centre\u003C/a\u003E about what you want to do. You\u0027ll then attend an assessment, which includes medical and fitness tests.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/directroute/ae5bd82a-d7f6-4a98-a6f5-c56f3bdcefbe\u0027]"
+    },
+    "ContentItemId": "4cpwvxrypw9n81m1cvp673zcnx",
+    "ContentItemVersionId": "48twnccfrvp95zcdfwf4hf9nm3",
+    "ContentType": "DirectRoute",
+    "DisplayText": "Soldier",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Gardener"
+    },
+    "DirectRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003ETo work as a gardener you would need to be able to show employers that you have the gardening skills, knowledge and enthusiasm they are looking for. Experience in gardening or a horticultural role is highly valued by employers.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/directroute/50714b9c-6da7-432d-aba9-22cb35c18448\u0027]"
+    },
+    "ContentItemId": "4dgy1dfvem0yzybqh84b1pt25m",
+    "ContentItemVersionId": "44wpsvx65w4w6rf4vjg6tx13n9",
+    "ContentType": "DirectRoute",
+    "DisplayText": "Gardener",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Cabin crew"
+    },
+    "DirectRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou could apply directly to \u003Ca href=\u0022http://airlinesuk.org/members/\u0022\u003Eairlines\u003C/a\u003E for a cabin crew job. Entry requirements vary but good customer service skills will be expected.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/directroute/0064c5f9-acdc-4928-868f-08892891368a\u0027]"
+    },
+    "ContentItemId": "4xrzptd3gty4k4pxyy28p3trca",
+    "ContentItemVersionId": "4v45vjzk7ayv862ec66ft0kbdb",
+    "ContentType": "DirectRoute",
+    "DisplayText": "Cabin crew",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Bookseller"
+    },
+    "DirectRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou can apply directly for jobs. You\u0027ll usually need 5 GCSEs at grades 9 to 4 (A* to C), including English and maths. Retail, customer service or publishing experience will also be helpful.\u003C/p\u003E\u003Cp\u003EYou\u0027ll need a broad range of reading interests and an enthusiasm for books.\u003C/p\u003E\u003Cp\u003EYou may need a particular qualification or understanding of a certain book type for some specialist bookshops. For example, an in-depth knowledge of comic art for a shop that sells graphic novels, or a background in classic literature for rare book sales.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/directroute/8d8c78a0-1e64-468f-80ea-0233fd9385e4\u0027]"
+    },
+    "ContentItemId": "443shrqsx3dgercg55j0ca334b",
+    "ContentItemVersionId": "43g33cjb50m28smxen5wvzddxq",
+    "ContentType": "DirectRoute",
+    "DisplayText": "Bookseller",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Locksmith"
+    },
+    "DirectRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou could contact local locksmithing companies to see if they\u0027re prepared to take you on as a trainee.\u003C/p\u003E\u003Cp\u003EYou\u0027ll find it helps if you have good practical skills, and experience of\u00A0carpentry, joinery or electronics.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/directroute/eeb73dd6-de26-4d82-ab08-5ede24aaaeca\u0027]"
+    },
+    "ContentItemId": "4dxyrrmnq1rse1z7ryb4nxb8m5",
+    "ContentItemVersionId": "45s4rmzz1f2q3v35bymn5dwbnq",
+    "ContentType": "DirectRoute",
+    "DisplayText": "Locksmith",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Publican"
+    },
+    "DirectRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EThere are no set requirements, but you\u0027ll find it useful to have experience in customer service at a supervisory level, and some experience of bar work.\u003C/p\u003E\u003Cp\u003EYou\u0027ll usually need to do the \u003Ca href=\u0022https://www.bii.org/industry-advice/peat/\u0022\u003EPre-Entry Awareness Training\u003C/a\u003E e-learning course. You\u0027ll also need to complete the British Institute of Innkeeping Awarding Body Level 2 Award for Personal Licence Holders to apply for a \u003Ca href=\u0022https://www.biiab.org/useful-information/apply-for-a-personal-licence/\u0022\u003EPersonal Licence\u003C/a\u003E.\u003C/p\u003E\u003Cp\u003EIt\u0027s possible for anybody with enough financial backing to buy a pub or bar.\u003C/p\u003E\u003Cp\u003EAs a manager of a pub or bar that sells food, you\u0027ll usually need a qualification in food safety accredited by the \u003Ca href=\u0022https://www.cieh.org/cieh-for-business/training-programmes/cieh-food-safety/\u0022\u003EChartered Institute of Environmental Health\u003C/a\u003E.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/directroute/3583c1e2-c887-4b1b-ac42-3570f712409e\u0027]"
+    },
+    "ContentItemId": "4yzcx3be5bwbx41y594651eacv",
+    "ContentItemVersionId": "4pjyr3m3x7wn7vkwrwy2vwstm2",
+    "ContentType": "DirectRoute",
+    "DisplayText": "Publican",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Further education lecturer"
+    },
+    "DirectRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou can apply directly to work in further education if you\u0027re a school teacher with qualified teacher status.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/directroute/12b2bcc1-0137-4df3-94b6-8dc5a7cf4bcc\u0027]"
+    },
+    "ContentItemId": "4yayz34we0y7z3xaaqp21pbgnh",
+    "ContentItemVersionId": "4emf0mspper6v2r9gtgvs4xw5d",
+    "ContentType": "DirectRoute",
+    "DisplayText": "Further education lecturer",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Market trader"
+    },
+    "DirectRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou can contact your \u003Ca href=\u0022https://www.gov.uk/find-local-council\u0022\u003Elocal council\u003C/a\u003E for information on how they let their market stalls, licensing requirements and how to apply. For example, you may have to rent a stall on a casual basis before you can apply for a permanent pitch.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/directroute/a6782289-405e-4763-b936-ccc2579e7732\u0027]"
+    },
+    "ContentItemId": "4ch4v9wyfnxqys60xjq9xwhwmn",
+    "ContentItemVersionId": "4m7kw6pm6875x471hkmmx95h5d",
+    "ContentType": "DirectRoute",
+    "DisplayText": "Market trader",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Interpreter"
+    },
+    "DirectRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may be able to get into this job if you have a non-language degree, providing you\u0027re fluent in English and a second language.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/directroute/6b377958-1c4a-40a2-9e49-dae5dbe36655\u0027]"
+    },
+    "ContentItemId": "4nr5geqb7qke7wyq8m64gn7tnw",
+    "ContentItemVersionId": "4ewdxskbdj7yh0k9184gybs9ms",
+    "ContentType": "DirectRoute",
+    "DisplayText": "Interpreter",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Sales assistant"
+    },
+    "DirectRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou can apply directly for jobs. Employers may ask for some GCSEs at grades 9 to 4 (A* to C), including English and maths. Retail or customer service experience will also be helpful.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/directroute/d3302375-9feb-4fb3-b0f8-e789a6333737\u0027]"
+    },
+    "ContentItemId": "4s88x1xr3nffm052zg2kdmpxmd",
+    "ContentItemVersionId": "4ssgm8q2bmkwa7dt6jwvqq87m8",
+    "ContentType": "DirectRoute",
+    "DisplayText": "Sales assistant",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Insurance risk surveyor"
+    },
+    "DirectRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou can apply directly for jobs if you\u0027ve got relevant qualifications and experience in a related profession like building surveying, health and safety, engineering or fire safety.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/directroute/6847480a-32fb-48e3-9137-2b1f6f0dae1f\u0027]"
+    },
+    "ContentItemId": "4ywyah27kcd46rqgx2bcr9tmx0",
+    "ContentItemVersionId": "4esz0ek0dvb506ces3vf2ejdn1",
+    "ContentType": "DirectRoute",
+    "DisplayText": "Insurance risk surveyor",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Business development manager"
+    },
+    "DirectRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou could apply directly to become a business development manager, as there are no formal entry requirements. Employers may ask for:\u003Cul\u003E\u003Cli\u003EGCSEs at grades 9 to 4 (A* to C) in maths, English and IT\u003C/li\u003E\u003Cli\u003Esales, marketing or business management experience\u003C/li\u003E\u003Cli\u003Ea degree in any subject\u003C/li\u003E\u003C/ul\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/directroute/08dc18cc-26d0-4afa-a182-33fbee6e1c6a\u0027]"
+    },
+    "ContentItemId": "4pe48reh4z8gzzyrr7yppqy1xn",
+    "ContentItemVersionId": "40bnkknz63hd0vc89pab58a9xf",
+    "ContentType": "DirectRoute",
+    "DisplayText": "Business development manager",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Bailiff"
+    },
+    "DirectRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYour employer will give you the training you need to get a Bailiff General Certificate. You\u0027ll need this before you can carry out any bailiff duties by yourself.\u003C/p\u003E\u003Cp\u003EYou\u0027ll need to:\u003Cul\u003E\u003Cli\u003Eprove to a county court judge that you\u2019re a \u2018fit and proper person\u0027, with no criminal or debt record\u003C/li\u003E\u003Cli\u003Ehave knowledge of bailiff law\u003C/li\u003E\u003Cli\u003Eput a \u00A310,000 bond in place with the court - you can take out an insurance policy to cover this\u003C/li\u003E\u003Cli\u003Eprovide 2 references\u003C/li\u003E\u003C/ul\u003E\u003C/p\u003E\u003Cp\u003EYou\u0027ll find it useful to have:\u003Cul\u003E\u003Cli\u003Ework experience in sales, the military, the prison service (HMPPS), housing or the police\u003C/li\u003E\u003Cli\u003Eexperience in dealing with the public in difficult situations\u003C/li\u003E\u003C/ul\u003E\u003C/p\u003E\u003Cp\u003ETo work as a court-appointed bailiff or high court enforcement officer you may also need GCSEs at grades 9 to 4 (A* to C), including English and maths.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/directroute/b72d1364-475b-4c5a-ae22-24ecbe5209f2\u0027]"
+    },
+    "ContentItemId": "4bchfq5s20xmkvb2g9v6r6hjnf",
+    "ContentItemVersionId": "4g413j3kap27x3nmpv0pdhe2cg",
+    "ContentType": "DirectRoute",
+    "DisplayText": "Bailiff",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Insurance claims handler"
+    },
+    "DirectRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EIf you want to apply directly you\u0027ll find it useful to have:\u003Cul\u003E\u003Cli\u003EGCSEs at grades 9 to 4 (A* to C) including English and maths\u003C/li\u003E\u003Cli\u003EIT skills\u003C/li\u003E\u003Cli\u003Eexperience in office work or customer service\u003C/li\u003E\u003C/ul\u003E\u003C/p\u003E\u003Cp\u003ESome companies will test your skills in communication and numbers at the interview stage\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/directroute/ffa25458-4a5a-4d74-8e32-0424f1577f6b\u0027]"
+    },
+    "ContentItemId": "45e2pwapcrefmr26kvp7dcj6w9",
+    "ContentItemVersionId": "45x02s6matyd2t15619ba289de",
+    "ContentType": "DirectRoute",
+    "DisplayText": "Insurance claims handler",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Housing officer"
+    },
+    "DirectRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may be able to apply to a local authority or housing association for a place on a graduate training scheme, if you have a degree.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/directroute/1b995e2e-5b3d-4cf7-973b-336baad85640\u0027]"
+    },
+    "ContentItemId": "4n8h4cp53ndb4vhvapaa6r5dnw",
+    "ContentItemVersionId": "4bn1r75yktc4zy7zkffcjbwdnk",
+    "ContentType": "DirectRoute",
+    "DisplayText": "Housing officer",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Landscaper"
+    },
+    "DirectRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EThere are no formal requirements to be a landscaper, but most employers will expect you to have some horticulture knowledge and experience.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/directroute/369d4167-0483-42bf-973b-1461a04d2505\u0027]"
+    },
+    "ContentItemId": "4naa11av7gtkt0y3y6vktw8r51",
+    "ContentItemVersionId": "4cj6kfynx3t16tjefweqvm0gda",
+    "ContentType": "DirectRoute",
+    "DisplayText": "Landscaper",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Entertainer"
+    },
+    "DirectRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou can apply directly for jobs. The most important thing is to have a skill or talent that an audience will enjoy.\u003C/p\u003E\u003Cp\u003EYou do not need formal qualifications, although you may find it useful to have trained in music, dance or acting, perhaps from taking a performing arts course or graded exams.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/directroute/6030c221-f0a9-4436-84a1-b6e47a851487\u0027]"
+    },
+    "ContentItemId": "4ybkszayqy85y0set08b15m0dg",
+    "ContentItemVersionId": "4gcph7wyr8jctvrggyq3064f4k",
+    "ContentType": "DirectRoute",
+    "DisplayText": "Entertainer",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Online tutor"
+    },
+    "DirectRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou can apply to companies directly if you\u0027ve got the following:\u003Cul\u003E\u003Cli\u003Eexcellent IT skills\u003C/li\u003E\u003Cli\u003Eteaching, training or tutoring experience\u003C/li\u003E\u003Cli\u003Ein-depth knowledge of the subject you\u0027re going to teach\u003C/li\u003E\u003C/ul\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/directroute/279d6f2a-05f7-44a3-b2f5-f023053ef073\u0027]"
+    },
+    "ContentItemId": "43dkgfayqys1hzwyt9605f14m3",
+    "ContentItemVersionId": "4qewfaxw58x84zemgr3d9y6amk",
+    "ContentType": "DirectRoute",
+    "DisplayText": "Online tutor",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Fishing boat deckhand"
+    },
+    "DirectRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EIf you have some sea-going experience, you may be able to find work by contacting vessel skippers directly and training on the job.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/directroute/4099b714-bcd3-43fb-afe1-ed795b7c3780\u0027]"
+    },
+    "ContentItemId": "4jyyd4bdsye801v3vr5svfrk4w",
+    "ContentItemVersionId": "44hys9qggjzhk21g9e9ywh694e",
+    "ContentType": "DirectRoute",
+    "DisplayText": "Fishing boat deckhand",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  }
+      ]
+    }
+  ]
+}

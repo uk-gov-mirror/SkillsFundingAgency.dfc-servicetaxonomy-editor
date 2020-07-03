@@ -1,0 +1,3954 @@
+{
+  "name": "OtherRequirements0_3d6b440a-a0dc-43da-8cef-31f0fee4fed5",
+  "displayName": "OtherRequirements0_3d6b440a-a0dc-43da-8cef-31f0fee4fed5",
+  "description": "",
+  "author": "",
+  "website": "",
+  "version": "",
+  "issetuprecipe": false,
+  "categories": "",
+  "tags": [],
+  "steps": [
+    {
+      "name": "ContentNoCache",
+      "data": [
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll need a full driving licence if you\u0027re going to work as a mobile service engineer."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll need a full driving licence if you\u0027re going to work as a mobile service engineer.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/ed5fb53f-7fa1-4d76-b38c-4c94cebdd8df\u0027]"
+    },
+    "ContentItemId": "40b13f092v6kyt1c843yqj44ng",
+    "ContentItemVersionId": "4dxd0bzknz3v90w98rk2zvfmxj",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll need a full driving licence if you\u0027re going to work as a mobile service engineer.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll usually be expected to have a driving licence."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll usually be expected to have a driving licence.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/0730050d-1384-4268-aff3-2cd5dd2baf0b\u0027]"
+    },
+    "ContentItemId": "4cgzjzzd9thqdvpamktmzvsjcr",
+    "ContentItemVersionId": "4k5234csks6nk5t7m7varntj4g",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll usually be expected to have a driving licence.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll usually need a driving licence to travel from job to job."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll usually need a driving licence to travel from job to job.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/eea831fc-ce3e-40cc-8064-544943f8a0b9\u0027]"
+    },
+    "ContentItemId": "4ddhctr39vgtftve7x1gyxq3dv",
+    "ContentItemVersionId": "4vrjtjsnmed7875jc0md419qc9",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll usually need a driving licence to travel from job to job.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll usually need a driving licence."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll usually need a driving licence.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/01360ff4-03cc-4d2c-b421-2a0538854e94\u0027]"
+    },
+    "ContentItemId": "4q4s7nvd7w41h70ry1p2a3myn9",
+    "ContentItemVersionId": "4z0qw5b5y62vn6pfdvwk8r7y5v",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll usually need a driving licence.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll need to live within 30 minutes of the coastguard rescue location."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll need to live within 30 minutes of the coastguard rescue location.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/81627560-a17f-4f0f-9681-a3547447180a\u0027]"
+    },
+    "ContentItemId": "4xfv2es8q0ftg347pqz3h34nnc",
+    "ContentItemVersionId": "4pjggmtweea9g1fek99r9gnyxm",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll need to live within 30 minutes of the coastguard rescue location.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll usually need some knowledge of first aid."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll usually need some knowledge of first aid.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/ab87bfaa-d2ad-4748-b418-63d4107f8e23\u0027]"
+    },
+    "ContentItemId": "49mtaex8q1f78xt5efg5qawvcs",
+    "ContentItemVersionId": "462xnsz438yy04sj4tn7nppg4n",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll usually need some knowledge of first aid.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll need a large goods vehicle (LGV) licence to work as a bin collection or waste collection driver."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll need a large goods vehicle (LGV) licence to work as a bin collection or waste collection driver.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/790c4a45-206c-453b-9579-f1542c3b3d04\u0027]"
+    },
+    "ContentItemId": "4axyfcwrxdz527znc3mw3h67w1",
+    "ContentItemVersionId": "4rk31p811c3jp0vews06806043",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll need a large goods vehicle (LGV) licence to work as a bin collection or waste collection driver.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "For many roles you may be expected to have a full, clean driving licence."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EFor many roles you may be expected to have a full, clean driving licence.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/a85cca0c-c65e-42ad-a711-bbb52d71b1b8\u0027]"
+    },
+    "ContentItemId": "4jpp86s8pgs5e0ajhv7tn4fz5x",
+    "ContentItemVersionId": "4gbc8z8zjsdtprjespk84gekw6",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "For many roles you may be expected to have a full, clean driving licence.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll usually need a driving licence and your own car or van."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll usually need a driving licence and your own car or van.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/5c8e01db-9539-46a5-9a0e-21257cc545dc\u0027]"
+    },
+    "ContentItemId": "4kpkedqzeqt30vkyy5a53m6gmd",
+    "ContentItemVersionId": "4pxndbjs8ftkmwyawxezzvcv4q",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll usually need a driving licence and your own car or van.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You may need a full driving licence to travel from job to job."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may need a full driving licence to travel from job to job.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/0a80835d-e194-4ffa-8563-642aa91fbf92\u0027]"
+    },
+    "ContentItemId": "4k65rzz22m4xgxszbk0qcehec2",
+    "ContentItemVersionId": "453mxvmxz6har5yyxt1b3grm4g",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You may need a full driving licence to travel from job to job.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You should also be prepared to be vaccinated against hepatitis B."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou should also be prepared to be vaccinated against hepatitis B.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/74429884-a0e0-4c19-9024-9ea36924eac9\u0027]"
+    },
+    "ContentItemId": "4x31a57pn9j8mrzc73ce24ydmz",
+    "ContentItemVersionId": "43d0zpvce3vah7bbba5h8z3vxt",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You should also be prepared to be vaccinated against hepatitis B.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You must retire when you reach 70."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou must retire when you reach 70.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/93d89ee9-b66a-4e5e-9e02-aef23f4e7408\u0027]"
+    },
+    "ContentItemId": "44zwqzndbc5jpxk76k10rb6bm5",
+    "ContentItemVersionId": "4ndsf0htpj9qx499mpms6kxtxq",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You must retire when you reach 70.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll also need:a spare bedroom for each child; the ability to foster full-time - though there may be some exceptions to this"
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll also need:\u003Cul\u003E\u003Cli\u003Ea spare bedroom for each child\u003C/li\u003E\u003Cli\u003Ethe ability to foster full-time - though there may be some exceptions to this\u003C/li\u003E\u003C/ul\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/6b68ef3e-cb85-49b8-b770-abad15a3c71f\u0027]"
+    },
+    "ContentItemId": "41jp8p6nh2ydx5hvhpj10fqn4e",
+    "ContentItemVersionId": "41xb797qcyyrm6gs99ra1hrgw3",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll also need:a spare bedroom for each child; the ability to foster full-time - though there may be some exceptions to this",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You may need to be aged 18 or over for jobs that involve serving alcohol."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may need to be aged 18 or over for jobs that involve serving alcohol.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/ffcfc447-8a6d-41bb-9764-58d377330704\u0027]"
+    },
+    "ContentItemId": "4w86e6m63wvnft085kqh578656",
+    "ContentItemVersionId": "47m80r8rvbj6v6sgybjgy6ad4z",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You may need to be aged 18 or over for jobs that involve serving alcohol.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll need:a good understanding of sports training methods"
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll need:a good understanding of sports training methods\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/065aaa3e-36c3-447a-9783-3cfc57a52430\u0027]"
+    },
+    "ContentItemId": "4zqzwx0ry1dqp2449mak932rwz",
+    "ContentItemVersionId": "4krw6vcg14r2j2cqkc9kj4b3xe",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll need:a good understanding of sports training methods",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You may need to be registered in one of the water industry safety passport schemes, supported by the [Energy \u0026 Utilities Skills Register] (EUSR). The safety passport proves that you are competent to carry out work on the water network."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may need to be registered in one of the water industry safety passport schemes, supported by the \u003Ca href=\u0022https://www.eusr.co.uk/\u0022\u003EEnergy \u0026 Utilities Skills Register\u003C/a\u003E (EUSR). The safety passport proves that you are competent to carry out work on the water network.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/dc39cf25-30e2-4cf0-8831-cc8cdd939ba2\u0027]"
+    },
+    "ContentItemId": "4kk3fpygkd30z45dkftpzcpmdp",
+    "ContentItemVersionId": "4xv1aj5qqzgakw6bphqhgxx3m2",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You may need to be registered in one of the water industry safety passport schemes, supported by the [Energy \u0026 Utilities Skills Register] (EUSR). The safety passport proves that you are competent to carry out work on the water network.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You may need to get a Certificate of Professional Competence - a\n[Driver CPC] - if you\u0027re the operator of a haulage or transport business."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may need to get a Certificate of Professional Competence - a\n\u003Ca href=\u0022https://www.gov.uk/topic/transport/driver-cpc\u0022\u003EDriver CPC\u003C/a\u003E - if you\u0027re the operator of a haulage or transport business.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/5ef03822-9db0-4798-964b-24afa453999a\u0027]"
+    },
+    "ContentItemId": "4yqm24h2brhmj2xejj3vr84h5z",
+    "ContentItemVersionId": "4srhqhtdpfsvjz4t7aqfx0qddj",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You may need to get a Certificate of Professional Competence - a\n[Driver CPC] - if you\u0027re the operator of a haulage or transport business.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll usually need a valid motorcycle licence."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll usually need a valid motorcycle licence.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/0f9edabd-f096-407b-96d3-d4aa9f6c1407\u0027]"
+    },
+    "ContentItemId": "4rx0d93txnm7d3cmv56dhhz2m2",
+    "ContentItemVersionId": "43s4bhshtjgx001hm0fgfxqjw4",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll usually need a valid motorcycle licence.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u2019ll need to have some physical stamina, as you\u0027ll be standing outside for long periods in all types of weather."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u2019ll need to have some physical stamina, as you\u0027ll be standing outside for long periods in all types of weather.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/4ddf8ca0-0a5a-441e-ac96-850b0fb24e39\u0027]"
+    },
+    "ContentItemId": "4y7v8yqfk3dtv4ywpdfwt6eqwh",
+    "ContentItemVersionId": "4tpcanw9sna8v0fvma68z4zkwy",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u2019ll need to have some physical stamina, as you\u0027ll be standing outside for long periods in all types of weather.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Some employers may prefer you to live near the airport or have your own transport. This is because shifts may be at times when public transport is limited."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003ESome employers may prefer you to live near the airport or have your own transport. This is because shifts may be at times when public transport is limited.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/d5357cb7-69cb-423b-83c6-c3e04a67f561\u0027]"
+    },
+    "ContentItemId": "46gcnz54pqbajrfb4mkqdqpkn2",
+    "ContentItemVersionId": "4e007drrm7mszrkxhxdreyvj4p",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "Some employers may prefer you to live near the airport or have your own transport. This is because shifts may be at times when public transport is limited.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "To work as a manager, buyer or importer, you\u2019ll usually need a UK driving licence."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003ETo work as a manager, buyer or importer, you\u2019ll usually need a UK driving licence.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/cdc852ab-2b73-402b-96e2-311109d0543d\u0027]"
+    },
+    "ContentItemId": "4qp1ke5q9sfkfr9bqyh3nxetxf",
+    "ContentItemVersionId": "48bvm47h68qyp5yy1t6rrvjpng",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "To work as a manager, buyer or importer, you\u2019ll usually need a UK driving licence.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Although private investigator licensing is subject to approval, the government\u0027s intention is to regulate this industry, by making it a criminal offence to operate as a private investigator without a licence."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EAlthough private investigator licensing is subject to approval, the government\u0027s intention is to regulate this industry, by making it a criminal offence to operate as a private investigator without a licence.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/0ac5cb00-2fe3-4494-8ca5-17d59959b7bf\u0027]"
+    },
+    "ContentItemId": "4fj4t0jaka45txyjvatsq858na",
+    "ContentItemVersionId": "4nxrx1seyv75hrthpcgm8h4e5j",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "Although private investigator licensing is subject to approval, the government\u0027s intention is to regulate this industry, by making it a criminal offence to operate as a private investigator without a licence.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll usually need a driving licence to travel between sites."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll usually need a driving licence to travel between sites.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/6b6f93b4-7578-4a00-af31-85ced1da6908\u0027]"
+    },
+    "ContentItemId": "4xb53m07y01yy46gh70fcsea5r",
+    "ContentItemVersionId": "4tcq3n1xxkqcb0a9yka0dde1xt",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll usually need a driving licence to travel between sites.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Some employers may ask for a food hygiene certificate, although you can often get this on the job."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003ESome employers may ask for a food hygiene certificate, although you can often get this on the job.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/93c0250b-a565-41d3-88a4-6c5c8020691e\u0027]"
+    },
+    "ContentItemId": "4229k21heknqf2zy8qbmtdgwwj",
+    "ContentItemVersionId": "4k628ks0bfn1v31ay5y8zfdsc3",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "Some employers may ask for a food hygiene certificate, although you can often get this on the job.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll need the [BASIS Certificate in Crop Protection] if you\u0027re advising on or selling pesticides in the UK. This is a legal requirement."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll need the \u003Ca href=\u0022http://www.basis-reg.co.uk/Exams-and-Courses/Course-Listing/CourseAreaID/1c1b92d1-eb07-413c-ab2e-b0e0d2325d64\u0022\u003EBASIS Certificate in Crop Protection\u003C/a\u003E if you\u0027re advising on or selling pesticides in the UK. This is a legal requirement.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/e90fbdec-c77a-4399-9da5-879f480ee4bb\u0027]"
+    },
+    "ContentItemId": "4xthmq0dafwbk7zwy3bqbg955s",
+    "ContentItemVersionId": "4z8jv5644xy9z446eca1z90cnn",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll need the [BASIS Certificate in Crop Protection] if you\u0027re advising on or selling pesticides in the UK. This is a legal requirement.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "All medical sales representatives will need to take The Association of the British Pharmaceutical Industry [Medical Representatives Exam] within 1 year of beginning employment, and pass all units within 2 years."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EAll medical sales representatives will need to take The Association of the British Pharmaceutical Industry \u003Ca href=\u0022https://exams.abpi.org.uk/Pages/home.aspx\u0022\u003EMedical Representatives Exam\u003C/a\u003E within 1 year of beginning employment, and pass all units within 2 years.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/e67deac4-3461-42ae-95f2-8d97083f0653\u0027]"
+    },
+    "ContentItemId": "4mc7j2mnat8802mabmk7xhz05t",
+    "ContentItemVersionId": "4saxw4en6hb9wvmsfm3nq4s843",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "All medical sales representatives will need to take The Association of the British Pharmaceutical Industry [Medical Representatives Exam] within 1 year of beginning employment, and pass all units within 2 years.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You might need a driving licence if your job includes delivery duties."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou might need a driving licence if your job includes delivery duties.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/9b39a3dd-476d-40cd-9911-85bbe03414f8\u0027]"
+    },
+    "ContentItemId": "4hs5bempaay0p5g3rdt9e4tdwp",
+    "ContentItemVersionId": "4fdwpzqpe802w483c0a6zcakna",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You might need a driving licence if your job includes delivery duties.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll need to register both yourself and your premises with the environmental health department of your [local council] for a [piercing licence]."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll need to register both yourself and your premises with the environmental health department of your \u003Ca href=\u0022https://www.gov.uk/find-local-council\u0022\u003Elocal council\u003C/a\u003E for a \u003Ca href=\u0022https://www.gov.uk/skin-piercing-and-tattooing\u0022\u003Epiercing licence\u003C/a\u003E.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/763ce306-a4ff-402d-a899-7bb72f19c008\u0027]"
+    },
+    "ContentItemId": "44db3m2kqxjz148tdk4qmzxgm1",
+    "ContentItemVersionId": "4z3cmfy2x71h15gp701p4p6x51",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll need to register both yourself and your premises with the environmental health department of your [local council] for a [piercing licence].",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "To work as a slaughterman or slaughterwoman you must be [licensed] by the Department for Environment, Food \u0026 Rural Affairs (Defra) and aged 18 or over."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003ETo work as a slaughterman or slaughterwoman you must be \u003Ca href=\u0022https://www.gov.uk/government/collections/welfare-of-animals-at-the-time-of-killing\u0022\u003Elicensed\u003C/a\u003E by the Department for Environment, Food \u0026 Rural Affairs (Defra) and aged 18 or over.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/3606d54b-dfaf-4441-92be-813745000b87\u0027]"
+    },
+    "ContentItemId": "471byhb6t1s8j04sdctks5s8w7",
+    "ContentItemVersionId": "4zvgbdn7snmaa2yvvpqqnp9q4c",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "To work as a slaughterman or slaughterwoman you must be [licensed] by the Department for Environment, Food \u0026 Rural Affairs (Defra) and aged 18 or over.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Your employer will put you through port safety training."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYour employer will put you through port safety training.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/632a9972-199f-4116-ae0e-56b7424da267\u0027]"
+    },
+    "ContentItemId": "46c8ypjmerfj531sk1wq9hqbxe",
+    "ContentItemVersionId": "4bjkyhgenyqnhy44sbk53v07wq",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "Your employer will put you through port safety training.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "To qualify as a pool lifeguard, you\u0027ll need to:be able to swim 50 metres in less than one minute; be able to swim 100 metres on your front and back without stopping; surface dive to the deepest part of the pool"
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003ETo qualify as a pool lifeguard, you\u0027ll need to:\u003Cul\u003E\u003Cli\u003Ebe able to swim 50 metres in less than one minute\u003C/li\u003E\u003Cli\u003Ebe able to swim 100 metres on your front and back without stopping\u003C/li\u003E\u003Cli\u003Esurface dive to the deepest part of the pool\u003C/li\u003E\u003C/ul\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/556ccee1-15de-4c42-b968-d45b15c7bad8\u0027]"
+    },
+    "ContentItemId": "41kkz1jstqz84ztnxfyqv5k2md",
+    "ContentItemVersionId": "457zdwq5skzqqw38wb1zzq4bxw",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "To qualify as a pool lifeguard, you\u0027ll need to:be able to swim 50 metres in less than one minute; be able to swim 100 metres on your front and back without stopping; surface dive to the deepest part of the pool",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "If you work as a security contractor on a building site, you\u0027ll also need a [Construction Skills Certification Scheme card] (CSCS)."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EIf you work as a security contractor on a building site, you\u0027ll also need a \u003Ca href=\u0022https://www.cscs.uk.com/\u0022\u003EConstruction Skills Certification Scheme card\u003C/a\u003E (CSCS).\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/057e327a-2cf5-4341-a2da-4b68ff31342d\u0027]"
+    },
+    "ContentItemId": "4dja4t40anznnyh7m0x75z555b",
+    "ContentItemVersionId": "4np2zyfk25m0asv8z3sjmvhb4t",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "If you work as a security contractor on a building site, you\u0027ll also need a [Construction Skills Certification Scheme card] (CSCS).",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Employers will expect you to work without supervision."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EEmployers will expect you to work without supervision.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/069c1d8e-8e9c-4251-8bf3-a55a7104aff8\u0027]"
+    },
+    "ContentItemId": "4fwhfstm0y8017msfx8pz260nm",
+    "ContentItemVersionId": "4q3g3ay4mr304vswcdrhp5b54q",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "Employers will expect you to work without supervision.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "For private sector work, you may not need to be vetted unless you\u0027re working on government systems."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EFor private sector work, you may not need to be vetted unless you\u0027re working on government systems.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/9324fcfa-210e-4997-80e1-851d79cc60c3\u0027]"
+    },
+    "ContentItemId": "4rdfa7gyjarejxfxztc8w40dc5",
+    "ContentItemVersionId": "4ecetrq9crg06r87ss7ktc2td0",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "For private sector work, you may not need to be vetted unless you\u0027re working on government systems.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll also find it useful to have a driving licence."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll also find it useful to have a driving licence.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/e7bda9ac-ff1a-4162-ba78-21f066fa60ee\u0027]"
+    },
+    "ContentItemId": "4r0b7f7n6zber5nk2vbqz27pme",
+    "ContentItemVersionId": "4z8ft89c3dvf9yk7dkq027vadg",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll also find it useful to have a driving licence.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "There are rules about height and weight - these vary between airlines. As a general guide, most look for people between 5ft 2in (157cm) and 6ft 2in (188cm) with weight in proportion to height."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EThere are rules about height and weight - these vary between airlines. As a general guide, most look for people between 5ft 2in (157cm) and 6ft 2in (188cm) with weight in proportion to height.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/1645a927-8354-414f-9750-d635ced4e7e4\u0027]"
+    },
+    "ContentItemId": "4fxryqzkefsc30ksdnjk09tbnp",
+    "ContentItemVersionId": "4bqteskbk7xzyvwb6mfnrd83c5",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "There are rules about height and weight - these vary between airlines. As a general guide, most look for people between 5ft 2in (157cm) and 6ft 2in (188cm) with weight in proportion to height.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u2019ll need professional indemnity insurance."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u2019ll need professional indemnity insurance.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/a411953d-f876-4be2-a66b-e69d1b8ca724\u0027]"
+    },
+    "ContentItemId": "470v6x8wxxd90z9zezr69f88cm",
+    "ContentItemVersionId": "4gbwp01c5pv8304y6jydj2zdc4",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u2019ll need professional indemnity insurance.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll need to be a member of the [Royal Yachting Association] (RYA) to qualify or revalidate as an RYA instructor."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll need to be a member of the \u003Ca href=\u0022https://www.rya.org.uk/training-support/Pages/membership.aspx\u0022\u003ERoyal Yachting Association\u003C/a\u003E (RYA) to qualify or revalidate as an RYA instructor.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/3e4ad345-96e2-4f00-b120-46a65f5423dd\u0027]"
+    },
+    "ContentItemId": "42azf324wpmnktr54w6kk3zncs",
+    "ContentItemVersionId": "490yv61vftkmevcexb7svhyjcc",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll need to be a member of the [Royal Yachting Association] (RYA) to qualify or revalidate as an RYA instructor.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Due to the sensitive nature of the work, you would have background checks carried out, which could include detailed questions about your life. You would also have to provide work and character references. You can get more information about the vettin"
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EDue to the sensitive nature of the work, you would have background checks carried out, which could include detailed questions about your life. You would also have to provide work and character references. You can get more information about the vetting process and eligibility from the \u003Ca href=\u0022https://www.mi5.gov.uk/careers/applying-for-jobs\u0022\u003ESecurity Service MI5\u003C/a\u003E.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/55f242b0-b1a6-43fb-8f05-5e077de41073\u0027]"
+    },
+    "ContentItemId": "47z4qwre4ra8zvzsmy8hn69xd3",
+    "ContentItemVersionId": "4xsnkyfchhx5pyj50pn6xgfd41",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "Due to the sensitive nature of the work, you would have background checks carried out, which could include detailed questions about your life. You would also have to provide work and character references. You can get more information about the vettin",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "If you\u0027re selling food, you\u0027ll need to:[register with your local environmental health service] at least 28 days before starting; get food hygiene certificates for any staff; complete assessments for [control of substances hazardous to health] (COSHH)"
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EIf you\u0027re selling food, you\u0027ll need to:\u003Ca href=\u0022https://www.food.gov.uk/business-industry/startingup\u0022\u003Eregister with your local environmental health service\u003C/a\u003E at least 28 days before starting; get food hygiene certificates for any staff; complete assessments for \u003Ca href=\u0022http://www.hse.gov.uk/coshh/industry/catering.htm\u0022\u003Econtrol of substances hazardous to health\u003C/a\u003E (COSHH)\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/afb65f4d-12e0-4128-81eb-e7455bab9e8f\u0027]"
+    },
+    "ContentItemId": "4mmawrtmsmdnx4hxvnq49jgdwq",
+    "ContentItemVersionId": "43v83d2ery9watywghgr3nwe5r",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "If you\u0027re selling food, you\u0027ll need to:[register with your local environmental health service] at least 28 days before starting; get food hygiene certificates for any staff; complete assessments for [control of substances hazardous to health] (COSHH)",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll also need to do [The FA Safeguarding Children Workshop]."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll also need to do \u003Ca href=\u0022http://www.thefa.com/get-involved/coach/courses/all-courses/the-fa-safeguarding-children-workshop\u0022\u003EThe FA Safeguarding Children Workshop\u003C/a\u003E.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/464fe915-ea15-4111-a7fd-95744d6b0c4b\u0027]"
+    },
+    "ContentItemId": "4cmfy1axx46z0thpyc0r2j87m3",
+    "ContentItemVersionId": "48wy29p9rbm8qs1rbd1cq3kd5c",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll also need to do [The FA Safeguarding Children Workshop].",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll usually need a driving licence to travel to different sites."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll usually need a driving licence to travel to different sites.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/f14edd10-3b81-479b-821c-2a5ac8eb71e2\u0027]"
+    },
+    "ContentItemId": "414ap7cm4nhha3esxymzbckn5h",
+    "ContentItemVersionId": "4b55486nm7jyf2pzphhjkyssww",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll usually need a driving licence to travel to different sites.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Every 5 years you\u0027ll need to:take 35 hours of [Driver CPC training]; renew your bus driving licence if you\u0027re aged 45 or over"
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EEvery 5 years you\u0027ll need to:take 35 hours of \u003Ca href=\u0022https://www.gov.uk/driver-cpc-training/when-to-take-training\u0022\u003EDriver CPC training\u003C/a\u003E; renew your bus driving licence if you\u0027re aged 45 or over\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/f5c1a7ad-a183-41ea-881a-474bd0c23200\u0027]"
+    },
+    "ContentItemId": "4qhbnh9jswnha4nzwfrzv38edc",
+    "ContentItemVersionId": "4w84vtz209zatrmzq4hnn9cc4k",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "Every 5 years you\u0027ll need to:take 35 hours of [Driver CPC training]; renew your bus driving licence if you\u0027re aged 45 or over",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Some employers will want you to have a Level 2 Award in Food Safety for Retail or Catering. This can be taken as a 1-day course and is widely available through colleges and private training providers."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003ESome employers will want you to have a Level 2 Award in Food Safety for Retail or Catering. This can be taken as a 1-day course and is widely available through colleges and private training providers.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/af08d9ca-7daf-4e54-9a50-83028e7090ef\u0027]"
+    },
+    "ContentItemId": "4v3enekztdq1sz1g9dcn5e7ww3",
+    "ContentItemVersionId": "4t5pb3qnagqjz7t249kx32h1c5",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "Some employers will want you to have a Level 2 Award in Food Safety for Retail or Catering. This can be taken as a 1-day course and is widely available through colleges and private training providers.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You would also need to meet the usual Prison Service entry requirements, which include nationality and security checks. See [Her Majesty\u0027s Prison \u0026 Probation Service] for more details."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou would also need to meet the usual Prison Service entry requirements, which include nationality and security checks. See \u003Ca href=\u0022https://www.gov.uk/government/publications/noms-careers/instructor#about-you\u0022\u003EHer Majesty\u0027s Prison \u0026 Probation Service\u003C/a\u003E for more details.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/c7ae5a83-a8d4-4e25-a897-4f40c7ebc543\u0027]"
+    },
+    "ContentItemId": "4fs4gr8bptfcm1saptqsyys1nx",
+    "ContentItemVersionId": "4mnbf3mzzebsp4pd0rpkam6jmp",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You would also need to meet the usual Prison Service entry requirements, which include nationality and security checks. See [Her Majesty\u0027s Prison \u0026 Probation Service] for more details.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll also need to live close to the rescue team\u0027s operating base, usually within 20 to 40 minutes by car."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll also need to live close to the rescue team\u0027s operating base, usually within 20 to 40 minutes by car.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/313a7a3c-7e77-44bb-872c-49c40aa672cd\u0027]"
+    },
+    "ContentItemId": "4em8rzfh9c08j6j5gphgr5gbmq",
+    "ContentItemVersionId": "44tew3zs58ahfskwtzjseg6jmc",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll also need to live close to the rescue team\u0027s operating base, usually within 20 to 40 minutes by car.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Foreign language skills could be useful if you want to work at airports, ports or tourist destinations."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EForeign language skills could be useful if you want to work at airports, ports or tourist destinations.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/d2ecb779-368f-4c79-b22e-16d7968c44b1\u0027]"
+    },
+    "ContentItemId": "45xmkw2cnpfae4gnd7vf60symj",
+    "ContentItemVersionId": "49eme4wmvgw90sfwksj8zmk7nv",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "Foreign language skills could be useful if you want to work at airports, ports or tourist destinations.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Some employers will ask for you to have a driving licence and be aged 21 or over so that you can drive a company vehicle. Other employers would only ask that you\u0027re able to ride a bicycle supplied by them."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003ESome employers will ask for you to have a driving licence and be aged 21 or over so that you can drive a company vehicle. Other employers would only ask that you\u0027re able to ride a bicycle supplied by them.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/b9ee8e1a-6d1b-4ab3-ba81-30f1f6e8760a\u0027]"
+    },
+    "ContentItemId": "4ydpq6bswar0nxt8yg5kwj0pd4",
+    "ContentItemVersionId": "4mjstny12bq1e3mk0fsdhf30mm",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "Some employers will ask for you to have a driving licence and be aged 21 or over so that you can drive a company vehicle. Other employers would only ask that you\u0027re able to ride a bicycle supplied by them.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You must be fluent in one or more languages as well as English, and have knowledge of the culture in the relevant country, usually gained from living and working there."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou must be fluent in one or more languages as well as English, and have knowledge of the culture in the relevant country, usually gained from living and working there.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/cfd6ec72-2898-456b-9da6-ebfa0c61916d\u0027]"
+    },
+    "ContentItemId": "4bngyv594bz387qt6z17h53cw1",
+    "ContentItemVersionId": "4bapqc8t28kf97sn82fm8rhqcd",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You must be fluent in one or more languages as well as English, and have knowledge of the culture in the relevant country, usually gained from living and working there.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You will need to find an experienced and qualified Healthcare Play Specialist Education Trust (HPSET) Registered Health Play Specialist who is willing to mentor and assess you in the workplace. When you have successfully completed both the work-based"
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou will need to find an experienced and qualified Healthcare Play Specialist Education Trust (HPSET) Registered Health Play Specialist who is willing to mentor and assess you in the workplace. When you have successfully completed both the work-based and academic requirements you will be eligible to register with HPSET. Registration is voluntary but recommended.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/869f74d3-606c-4aef-a5c2-ef0f3833e0eb\u0027]"
+    },
+    "ContentItemId": "44rspv3dj1j5gxthwxpg4j5jdd",
+    "ContentItemVersionId": "4syewz6p7rpecsnyet4xdbcdd3",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You will need to find an experienced and qualified Healthcare Play Specialist Education Trust (HPSET) Registered Health Play Specialist who is willing to mentor and assess you in the workplace. When you have successfully completed both the work-based",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "All jockeys need to [pass a licence course] and renew their licence every year."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EAll jockeys need to \u003Ca href=\u0022https://www.careersinracing.com/course/jockey-training/\u0022\u003Epass a licence course\u003C/a\u003E and renew their licence every year.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/95cc073d-7f5e-47d1-b275-afe849f98cff\u0027]"
+    },
+    "ContentItemId": "4gkbrzqkj4s4r2qg7cbbdzsbwm",
+    "ContentItemVersionId": "4e98kr70evq2v5967hb1hddmww",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "All jockeys need to [pass a licence course] and renew their licence every year.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "If you qualified in another area of the EU or EEA and want to work in the UK, you need to check with the General Optical Council\u00A0that your qualifications meet UK requirements. If your qualifications are accepted, you would then need to contact the [A"
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EIf you qualified in another area of the EU or EEA and want to work in the UK, you need to check with the General Optical Council\u00A0that your qualifications meet UK requirements. If your qualifications are accepted, you would then need to contact the \u003Ca href=\u0022https://www.abdo.org.uk/\u0022\u003EAssociation of British Dispensing Opticians\u003C/a\u003E\u00A0for details of their Professional Qualifying Examination.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/134ada7d-5721-411b-a0f3-c5de1e5d4a65\u0027]"
+    },
+    "ContentItemId": "4nkftq3dwdwyayz6kqdxfp3kdk",
+    "ContentItemVersionId": "48eb3wd0v1wmdzrz2a1kjb83x8",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "If you qualified in another area of the EU or EEA and want to work in the UK, you need to check with the General Optical Council\u00A0that your qualifications meet UK requirements. If your qualifications are accepted, you would then need to contact the [A",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You would then take a further test to allow you to drive vehicles with trailers (category C\u002BE)."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou would then take a further test to allow you to drive vehicles with trailers (category C\u002BE).\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/85b989a3-ae03-4712-94b3-c865eab4a14a\u0027]"
+    },
+    "ContentItemId": "477jtjygwy562vtaxa44kpw8w7",
+    "ContentItemVersionId": "4p2r6vefrs1j974hytnzr229d7",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You would then take a further test to allow you to drive vehicles with trailers (category C\u002BE).",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You may need your own transport to get to and from the airport, as public transport may not cover all of your shift times. Some jobs ask for a full UK driving licence."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may need your own transport to get to and from the airport, as public transport may not cover all of your shift times. Some jobs ask for a full UK driving licence.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/c3a61949-fdd2-4968-943a-70c364d5a095\u0027]"
+    },
+    "ContentItemId": "4a3ket97wbr9w3s8vpawx06fxn",
+    "ContentItemVersionId": "40jy1xk2famagyk98w77y67gxk",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You may need your own transport to get to and from the airport, as public transport may not cover all of your shift times. Some jobs ask for a full UK driving licence.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Some\u00A0[local authorities]\u00A0request that you are licensed to run a nail business."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003ESome\u00A0\u003Ca href=\u0022https://www.gov.uk/find-local-council\u0022\u003Elocal authorities\u003C/a\u003E\u00A0request that you are licensed to run a nail business.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/ff616374-a9b3-4cb6-9de8-20535fb1bcb8\u0027]"
+    },
+    "ContentItemId": "42ngxv6g768xctghq9cnyp4qcx",
+    "ContentItemVersionId": "4w7e25c827wt1z93vrzymjzknf",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "Some\u00A0[local authorities]\u00A0request that you are licensed to run a nail business.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You do not need a Security Industry Authority (SIA) licence for in-house security jobs at your employer\u0027s premises."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou do not need a Security Industry Authority (SIA) licence for in-house security jobs at your employer\u0027s premises.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/3b70b80f-af2a-472a-aee9-1e04ea620dd1\u0027]"
+    },
+    "ContentItemId": "4p7tyy0ye26nc1wqmeywjdx4mz",
+    "ContentItemVersionId": "4ysx97gfd46ert24ctes6rjnxe",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You do not need a Security Industry Authority (SIA) licence for in-house security jobs at your employer\u0027s premises.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "To teach pupils with hearing impairment, vision impairment or multi-sensory impairment, you\u0027ll need further [specialist qualifications]."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003ETo teach pupils with hearing impairment, vision impairment or multi-sensory impairment, you\u0027ll need further \u003Ca href=\u0022https://www.gov.uk/guidance/mandatory-qualifications-specialist-teachers\u0022\u003Especialist qualifications\u003C/a\u003E.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/cee43457-41d2-425c-b885-ff1afd68d29d\u0027]"
+    },
+    "ContentItemId": "48b5h0yr0ymsn4sq0e4xxt8843",
+    "ContentItemVersionId": "49ps0yvyk6bp2tzchcsfjf3kdx",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "To teach pupils with hearing impairment, vision impairment or multi-sensory impairment, you\u0027ll need further [specialist qualifications].",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll have to demonstrate these skills as part of an assessment."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll have to demonstrate these skills as part of an assessment.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/268eb044-f4e4-4666-abcb-9cef8b1d659f\u0027]"
+    },
+    "ContentItemId": "467d2cn0m9z2hrvh6ety6hzkn6",
+    "ContentItemVersionId": "4f36syqfkqggntpg2hx854v1xj",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll have to demonstrate these skills as part of an assessment.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "To be the secretary of a public limited company (PLC), you\u0027ll need to qualify with [ICSA: The Governance Institute] or already be an accountant, solicitor or barrister."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003ETo be the secretary of a public limited company (PLC), you\u0027ll need to qualify with \u003Ca href=\u0022https://www.icsa.org.uk/home\u0022\u003EICSA: The Governance Institute\u003C/a\u003E or already be an accountant, solicitor or barrister.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/7eeaa3e8-6018-411c-8f78-7fdf702ee6c6\u0027]"
+    },
+    "ContentItemId": "4j3f8r12xe37t0kqayt8fhfrmk",
+    "ContentItemVersionId": "4dq385jw4me66rh0t8z041ajdw",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "To be the secretary of a public limited company (PLC), you\u0027ll need to qualify with [ICSA: The Governance Institute] or already be an accountant, solicitor or barrister.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll need a full UK driving licence if you have to make deliveries to customers."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll need a full UK driving licence if you have to make deliveries to customers.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/a66c1099-41e1-4e70-8725-dd47f043da6b\u0027]"
+    },
+    "ContentItemId": "4qxstfhnyx6452z6exjc1x53xq",
+    "ContentItemVersionId": "4dydfxwnzctqhs8gcfdcmwxfch",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll need a full UK driving licence if you have to make deliveries to customers.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You may need a driving licence and access to a vehicle if you\u0027re working late nights or at a motorway service station."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may need a driving licence and access to a vehicle if you\u0027re working late nights or at a motorway service station.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/952de122-2b68-4d77-a390-11f3cb666469\u0027]"
+    },
+    "ContentItemId": "44x3rgeqq7kjf4jtft940q9rw6",
+    "ContentItemVersionId": "49dxbm5gqzye7wa5zkbb0ndnxd",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You may need a driving licence and access to a vehicle if you\u0027re working late nights or at a motorway service station.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll usually need a driving licence to get to work outside of public transport hours."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll usually need a driving licence to get to work outside of public transport hours.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/71eaa909-bd35-4967-9836-ff635c4fc352\u0027]"
+    },
+    "ContentItemId": "4hmdx2kjvcp9331fx21gtsa054",
+    "ContentItemVersionId": "42kmb8jk1mrq74gs70dabb6vn0",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll usually need a driving licence to get to work outside of public transport hours.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll need a Part-66 engineering licence issued through the [Civil Aviation Authority] (CAA)."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll need a Part-66 engineering licence issued through the \u003Ca href=\u0022https://www.caa.co.uk/Commercial-Industry/Aircraft/Airworthiness/Engineer-licences/\u0022\u003ECivil Aviation Authority\u003C/a\u003E (CAA).\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/bfb100e7-3ec8-40eb-995c-0f45ed008ad5\u0027]"
+    },
+    "ContentItemId": "45j01hkp8m9j91r4qxr0bjznx8",
+    "ContentItemVersionId": "49ykdr8m6bg1f7c1atkt2jr84g",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll need a Part-66 engineering licence issued through the [Civil Aviation Authority] (CAA).",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Your local advisory committee can tell you more about these restrictions."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYour local advisory committee can tell you more about these restrictions.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/2a5d6005-c9a8-4fb6-bfc6-3fbbc6fd2046\u0027]"
+    },
+    "ContentItemId": "49q0krasdxcj2wtd2g0dyknyxq",
+    "ContentItemVersionId": "4r79319jvmq61ykdxymt4bre5b",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "Your local advisory committee can tell you more about these restrictions.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "A driving licence will be useful."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EA driving licence will be useful.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/bd1364a2-db1d-4f68-86b3-0a8a883bd7a4\u0027]"
+    },
+    "ContentItemId": "4s2qa9scr3b036wc5vs43x0hwh",
+    "ContentItemVersionId": "4zw27pbxbqds2sz85kxrz1nrxg",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "A driving licence will be useful.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You may need a driving licence and access to your own transport for jobs that involve visiting clients in their own home."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may need a driving licence and access to your own transport for jobs that involve visiting clients in their own home.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/b7439b12-544e-4713-95ca-5aee31f21340\u0027]"
+    },
+    "ContentItemId": "4x0qb6db2gcb9s4tqt1yn476nn",
+    "ContentItemVersionId": "4z394evmas091yb2a7d18ssmcd",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You may need a driving licence and access to your own transport for jobs that involve visiting clients in their own home.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You may need basic computer skills to keep records, and a driving licence for some jobs."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may need basic computer skills to keep records, and a driving licence for some jobs.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/eb5f74d8-27bc-498e-8d20-5852de9e186f\u0027]"
+    },
+    "ContentItemId": "4q17ybjzzbj5m10p2ajc39bmx7",
+    "ContentItemVersionId": "4701af2486eqc5vcjbqb5s2m4m",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You may need basic computer skills to keep records, and a driving licence for some jobs.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll normally need your own transport to get to and from the airport, as public transport may not cover all of your shift times."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll normally need your own transport to get to and from the airport, as public transport may not cover all of your shift times.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/55febcd9-64ec-4c99-b04b-3011152af399\u0027]"
+    },
+    "ContentItemId": "4e16d41q7dhntskfkv6tg7wgx8",
+    "ContentItemVersionId": "4ctteyaph446b7je6z0t6ds6ne",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll normally need your own transport to get to and from the airport, as public transport may not cover all of your shift times.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Find out more about applying for your\u00A0[provisional PCV licence]."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EFind out more about applying for your\u00A0\u003Ca href=\u0022https://www.gov.uk/become-lorry-bus-driver\u0022\u003Eprovisional PCV licence\u003C/a\u003E.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/d5970b69-d86c-433b-a33d-4ea159a3a49a\u0027]"
+    },
+    "ContentItemId": "4ervaq98eapb07hwn714t8yk45",
+    "ContentItemVersionId": "4v3egc7kdwn0p3j3sdn688kam3",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "Find out more about applying for your\u00A0[provisional PCV licence].",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You may need a driving licence and access to a vehicle to reach forest and woodland areas."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may need a driving licence and access to a vehicle to reach forest and woodland areas.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/131866cf-2da8-48c3-8106-603d37d05768\u0027]"
+    },
+    "ContentItemId": "4s2bwfnzhefyj2cex5p9kek3db",
+    "ContentItemVersionId": "47krfhjq20p8csp5ram2yxzj4r",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You may need a driving licence and access to a vehicle to reach forest and woodland areas.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You may need a driving licence."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may need a driving licence.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/2da2dabb-fa22-4227-a937-b1876d424f07\u0027]"
+    },
+    "ContentItemId": "4jv8na23d9g4z1vzqzdmcy19wt",
+    "ContentItemVersionId": "4ah75cfnb8np81hr3881vfkrw9",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You may need a driving licence.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll need to have a positive attitude towards children and enjoy working with them."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll need to have a positive attitude towards children and enjoy working with them.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/77c9c054-6664-42a9-9b75-69bc4eeba2a4\u0027]"
+    },
+    "ContentItemId": "472czry4h2qr43bzfnvgrpsfxd",
+    "ContentItemVersionId": "4xwc2w8ksc0ge62frzc647dzwd",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll need to have a positive attitude towards children and enjoy working with them.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You may need a security licence issued by the [Security Industry Authority] (SIA) for certain jobs. You can complete relevant SIA approved training if you need to get one."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may need a security licence issued by the \u003Ca href=\u0022https://www.sia.homeoffice.gov.uk/Pages/licensing.aspx\u0022\u003ESecurity Industry Authority\u003C/a\u003E (SIA) for certain jobs. You can complete relevant SIA approved training if you need to get one.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/752d405d-8f8e-4ce9-9826-7966af5f49c9\u0027]"
+    },
+    "ContentItemId": "4sc86edyza6fmzxrfmmgmx55c3",
+    "ContentItemVersionId": "4pfjm2834xpvx1hsffky32n5wj",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You may need a security licence issued by the [Security Industry Authority] (SIA) for certain jobs. You can complete relevant SIA approved training if you need to get one.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "For some roles you\u0027ll need to visit clients in their homes, so you\u0027ll need a driving licence."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EFor some roles you\u0027ll need to visit clients in their homes, so you\u0027ll need a driving licence.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/fb5f443e-7b3a-4a15-85ae-2b1bf19b4b79\u0027]"
+    },
+    "ContentItemId": "4qb6jemwkb2s805tfsgfggx3ww",
+    "ContentItemVersionId": "4qa02tdzw7skcvc4z63bttned0",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "For some roles you\u0027ll need to visit clients in their homes, so you\u0027ll need a driving licence.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You may need a driving licence and your own vehicle, especially if you\u0027re self-employed."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may need a driving licence and your own vehicle, especially if you\u0027re self-employed.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/fb892015-1efd-4d70-a2f7-63842ab708b0\u0027]"
+    },
+    "ContentItemId": "4ztkpgcwr05fe76rwg1gnmwbd2",
+    "ContentItemVersionId": "4je99g9fgdk237s129069qjy4g",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You may need a driving licence and your own vehicle, especially if you\u0027re self-employed.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You should be eligible to work in the UK."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou should be eligible to work in the UK.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/d4e1f09f-788d-4b4f-b844-2c9114459f0b\u0027]"
+    },
+    "ContentItemId": "4f3hjhkb387xarvz79fhnfdc4d",
+    "ContentItemVersionId": "47y27ncwm3bycvngdxfnpyqmdk",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You should be eligible to work in the UK.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll use your own motorbike if you want to work as a motorcycle courier."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll use your own motorbike if you want to work as a motorcycle courier.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/32a17201-bcf7-4eee-b4a0-c2983ec9e28d\u0027]"
+    },
+    "ContentItemId": "4j59bfv2pav5wwz14c0gwz2f5f",
+    "ContentItemVersionId": "47ve9ye91p8g3va3ttsp7157d4",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll use your own motorbike if you want to work as a motorcycle courier.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "An employer will carry out checks on your personal and work history up to 10 years. You need to let them know about any criminal convictions before you apply for a security licence."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EAn employer will carry out checks on your personal and work history up to 10 years. You need to let them know about any criminal convictions before you apply for a security licence.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/55011808-8ea9-43cd-a5a1-eaf359d18cfe\u0027]"
+    },
+    "ContentItemId": "41jf2qr993k0t0fmym8d1wenw4",
+    "ContentItemVersionId": "4557k04nwn8p7xfsytj4r0tq53",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "An employer will carry out checks on your personal and work history up to 10 years. You need to let them know about any criminal convictions before you apply for a security licence.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Following checks, your social worker would prepare a report that\u0027s presented to an independent fostering panel to decide whether you could become a foster carer."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EFollowing checks, your social worker would prepare a report that\u0027s presented to an independent fostering panel to decide whether you could become a foster carer.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/4d467baf-6198-45a5-8247-e5c48477f8f5\u0027]"
+    },
+    "ContentItemId": "43wjn9pq7x62p5g64933p9mdcn",
+    "ContentItemVersionId": "4q92w0x0pa02j1tydp8tzkn1ns",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "Following checks, your social worker would prepare a report that\u0027s presented to an independent fostering panel to decide whether you could become a foster carer.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You might need a forklift licence for some some jobs, if you have to move finished products to factory storage areas."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou might need a forklift licence for some some jobs, if you have to move finished products to factory storage areas.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/fd240e32-e09d-4375-a821-853b3889d2c6\u0027]"
+    },
+    "ContentItemId": "411s19266fcjvv8yyz1gaj7w5j",
+    "ContentItemVersionId": "46ckh9028fp0m5vhr3grm03p44",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You might need a forklift licence for some some jobs, if you have to move finished products to factory storage areas.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You may need your own transport to get to work, as quarries are usually in the countryside."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may need your own transport to get to work, as quarries are usually in the countryside.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/378ec91f-2277-4d98-aeeb-064aef2a3ee2\u0027]"
+    },
+    "ContentItemId": "42t7d7dzf24mw61cb45w0xdwcb",
+    "ContentItemVersionId": "4bdnds5spdh4a2pqzbnr0z4sng",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You may need your own transport to get to work, as quarries are usually in the countryside.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You may have to take an aptitude test to assess your existing skills and knowledge."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may have to take an aptitude test to assess your existing skills and knowledge.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/0bfbb3ba-721e-470b-8150-562530d52c0e\u0027]"
+    },
+    "ContentItemId": "4qbzqzn8cctbw7g9gj9bcwnk4h",
+    "ContentItemVersionId": "4sxkn88swvdnwxybgcgge6new3",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You may have to take an aptitude test to assess your existing skills and knowledge.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You must gain a trainer licence issued by the [British Horseracing Authority]."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou must gain a trainer licence issued by the \u003Ca href=\u0022https://www.britishhorseracing.com/regulation/licensing/about-licensing/\u0022\u003EBritish Horseracing Authority\u003C/a\u003E.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/ad1daa80-998a-4997-a5f5-581e261583d5\u0027]"
+    },
+    "ContentItemId": "4jp5qw33c4bxzsc3j4dsr9gf5y",
+    "ContentItemVersionId": "4bs215mn072hn7qg5cgcwj6xnq",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You must gain a trainer licence issued by the [British Horseracing Authority].",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Amateur riders need to get an Amateurs Riding Permit."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EAmateur riders need to get an Amateurs Riding Permit.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/f6d274a7-e6cd-41bb-b0c0-4ff09ed74f03\u0027]"
+    },
+    "ContentItemId": "4mnnfhxb9rk9dt3m53dxrxkzd2",
+    "ContentItemVersionId": "4xa0ex7qe06dv44tvmpgzdsyxr",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "Amateur riders need to get an Amateurs Riding Permit.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You must register your premises with the environmental health department of your [local council]."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou must register your premises with the environmental health department of your \u003Ca href=\u0022https://www.gov.uk/find-local-council\u0022\u003Elocal council\u003C/a\u003E.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/e81b8e44-902c-4f85-87eb-cdb8e284c171\u0027]"
+    },
+    "ContentItemId": "4rm5bzyhkw9d8zbm0ww5ewhjw4",
+    "ContentItemVersionId": "4jphgtrbn4tpb2b7f5qkzas5w7",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You must register your premises with the environmental health department of your [local council].",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You may need to join the [Street Works Qualifications Register] and get a safety card, depending on your job."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may need to join the \u003Ca href=\u0022https://www.swqr.org.uk/SWQR/About\u0022\u003EStreet Works Qualifications Register\u003C/a\u003E and get a safety card, depending on your job.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/b43f252c-940b-4dd7-99a6-389f3664014c\u0027]"
+    },
+    "ContentItemId": "4y3g83ff6erxgyks7j2qm7h25s",
+    "ContentItemVersionId": "45ad40e7b6zct66t2yvhdceb5q",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You may need to join the [Street Works Qualifications Register] and get a safety card, depending on your job.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You will also need the right to live and work in the UK without restrictions."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou will also need the right to live and work in the UK without restrictions.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/20f2bb1d-3deb-40cf-af1b-b17a82905e3a\u0027]"
+    },
+    "ContentItemId": "4tttw5thcv686trazb559r9kdt",
+    "ContentItemVersionId": "49k43hhdttx0kzzrbjp2t49bw2",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You will also need the right to live and work in the UK without restrictions.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You may also need the certificates of competence for your work like chainsaw use, chipper use or operation of specialist equipment like a tree harvester."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may also need the certificates of competence for your work like chainsaw use, chipper use or operation of specialist equipment like a tree harvester.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/9a6c4a13-e49c-416a-9f6b-9c2f566bd09a\u0027]"
+    },
+    "ContentItemId": "4qb1k5gdjqeyc5296d7venex5j",
+    "ContentItemVersionId": "4ze5vq4zcz8aaz4bfh7tkadhna",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You may also need the certificates of competence for your work like chainsaw use, chipper use or operation of specialist equipment like a tree harvester.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Usually you\u0027ll also be expected to:have a smart appearance; have a valid passport with no restrictions for the countries the airline travels to; live within 90 minutes of your base"
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EUsually you\u0027ll also be expected to:\u003Cul\u003E\u003Cli\u003Ehave a smart appearance\u003C/li\u003E\u003Cli\u003Ehave a valid passport with no restrictions for the countries the airline travels to\u003C/li\u003E\u003Cli\u003Elive within 90 minutes of your base\u003C/li\u003E\u003C/ul\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/52145ae8-4fff-49c9-be8b-4f53032426ab\u0027]"
+    },
+    "ContentItemId": "4re0wvdjh3pa0ta7z7fwj2r7xk",
+    "ContentItemVersionId": "4p30cgeh4p51prs82vaww2e9dy",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "Usually you\u0027ll also be expected to:have a smart appearance; have a valid passport with no restrictions for the countries the airline travels to; live within 90 minutes of your base",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Doctors, midwives, ministers of religion, funeral directors and anyone working in the life assurance industry are not allowed to become registrars."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EDoctors, midwives, ministers of religion, funeral directors and anyone working in the life assurance industry are not allowed to become registrars.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/49040884-5324-4e8f-a2b9-066bc84ed63c\u0027]"
+    },
+    "ContentItemId": "4f96gfn424fjd4rz18dettcmm9",
+    "ContentItemVersionId": "42dy0vns0w4zgzj14qk936h8cw",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "Doctors, midwives, ministers of religion, funeral directors and anyone working in the life assurance industry are not allowed to become registrars.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "To work with plant machinery like excavators or dumper trucks, you\u0027ll need to be 18 or over and have a driving licence."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003ETo work with plant machinery like excavators or dumper trucks, you\u0027ll need to be 18 or over and have a driving licence.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/34eab699-867c-427a-8ca7-1a1036d72cda\u0027]"
+    },
+    "ContentItemId": "4rxe75265py0a522qxdc5xrtw3",
+    "ContentItemVersionId": "42y5cjrhv7qff46s4d25kxzqxp",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "To work with plant machinery like excavators or dumper trucks, you\u0027ll need to be 18 or over and have a driving licence.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "British nationality is not required but you should be willing to take the Oath of Allegiance to the Crown."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EBritish nationality is not required but you should be willing to take the Oath of Allegiance to the Crown.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/6c2b3874-5084-4d17-9925-e1fb0c19b1a9\u0027]"
+    },
+    "ContentItemId": "4m8gm5vfza8tn074a8zw4wg54q",
+    "ContentItemVersionId": "4x784j6khryzd31mt22b2wdbdj",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "British nationality is not required but you should be willing to take the Oath of Allegiance to the Crown.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You would need to have colour-normal vision for electrical work."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou would need to have colour-normal vision for electrical work.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/76c6e492-9d6b-4e1d-8fa4-5254fa30e2b9\u0027]"
+    },
+    "ContentItemId": "4667e62n7cdvvvy2zc5mys55cj",
+    "ContentItemVersionId": "4cwkp54jcaq20ryk0cjembm45m",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You would need to have colour-normal vision for electrical work.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You are likely to need a driving licence for this job."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou are likely to need a driving licence for this job.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/769bddc1-207c-4494-bc50-f08a8c90f92d\u0027]"
+    },
+    "ContentItemId": "4ez2nsadamc9f08v8n3asbrmm9",
+    "ContentItemVersionId": "4tvn29pfeskwr172eft1z5gyn1",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You are likely to need a driving licence for this job.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "If you\u0027re a private hire driver, you\u0027ll need hire or reward insurance. You may also want to take out public liability insurance."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EIf you\u0027re a private hire driver, you\u0027ll need hire or reward insurance. You may also want to take out public liability insurance.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/11da8075-8864-4f48-8f35-47c92c6ce0ac\u0027]"
+    },
+    "ContentItemId": "4cqtm1exa1hjfrj48mgza1zdw8",
+    "ContentItemVersionId": "4r47918xp9pn65q35jj452ht4z",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "If you\u0027re a private hire driver, you\u0027ll need hire or reward insurance. You may also want to take out public liability insurance.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "For some sports you\u2019ll need to meet very specific entry requirements, for instance:horse racing requires jockeys to be a certain height and weight; boxing has divisions according to weight"
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EFor some sports you\u2019ll need to meet very specific entry requirements, for instance:\u003Cul\u003E\u003Cli\u003Ehorse racing requires jockeys to be a certain height and weight\u003C/li\u003E\u003Cli\u003Eboxing has divisions according to weight\u003C/li\u003E\u003C/ul\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/be9bb5d1-ff03-4d13-a74c-c370e1591b9c\u0027]"
+    },
+    "ContentItemId": "4h96ftf3cm4bkv6s5kt8bhcrcz",
+    "ContentItemVersionId": "43eabtaf6fqw7zhpvjyjp6khdn",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "For some sports you\u2019ll need to meet very specific entry requirements, for instance:horse racing requires jockeys to be a certain height and weight; boxing has divisions according to weight",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll need a minimum of a level 3 qualification in the subject you wish to teach, like an A level in maths to teach numeracy."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll need a minimum of a level 3 qualification in the subject you wish to teach, like an A level in maths to teach numeracy.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/7e300c4f-c141-4e7a-8442-c1457b745aef\u0027]"
+    },
+    "ContentItemId": "4j2dxyzxepm6h7v2svv9twj55j",
+    "ContentItemVersionId": "4hqb41v7t5m2rvjheaynqrgewc",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll need a minimum of a level 3 qualification in the subject you wish to teach, like an A level in maths to teach numeracy.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "For some jobs you\u2019ll also need a [digital tachograph card]."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EFor some jobs you\u2019ll also need a \u003Ca href=\u0022https://www.gov.uk/apply-for-a-digital-tachograph-driver-smart-card\u0022\u003Edigital tachograph card\u003C/a\u003E.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/d757aee6-6e78-4f26-b800-23312a015103\u0027]"
+    },
+    "ContentItemId": "4fgpm8j5x3mxbz6vrktwxph1mc",
+    "ContentItemVersionId": "4gkjt9jbtd2br4j20p59bt86m3",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "For some jobs you\u2019ll also need a [digital tachograph card].",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "To qualify as a beach lifeguard you must have a good level of fitness and be able to swim in the sea to take the National Vocational Beach Lifeguard Qualification. You\u0027ll also be expected to meet more standards, such as:completion of a 400m pool swim"
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003ETo qualify as a beach lifeguard you must have a good level of fitness and be able to swim in the sea to take the National Vocational Beach Lifeguard Qualification. You\u0027ll also be expected to meet more standards, such as:\u003Cul\u003E\u003Cli\u003Ecompletion of a 400m pool swim in less than eight minutes\u003C/li\u003E\u003Cli\u003Emaking a surface dive to a depth of 1.5 metres\u003C/li\u003E\u003Cli\u003Etreading water for two minutes\u003C/li\u003E\u003Cli\u003Eclimbing out of deep water unaided\u003C/li\u003E\u003C/ul\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/584206c6-214c-4abd-9a04-7f760a86eae9\u0027]"
+    },
+    "ContentItemId": "45ax13r59k4tzy7fpje0m93amc",
+    "ContentItemVersionId": "4eye29w5ambth0crdhrrs1r048",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "To qualify as a beach lifeguard you must have a good level of fitness and be able to swim in the sea to take the National Vocational Beach Lifeguard Qualification. You\u0027ll also be expected to meet more standards, such as:completion of a 400m pool swim",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll need a license from your [local council], if you start modelling before the legal school leaving age."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll need a license from your \u003Ca href=\u0022https://www.local.gov.uk/our-support/guidance-and-resources/communications-support/digital-councils/social-media/go-further/a-z-councils-online\u0022\u003Elocal council\u003C/a\u003E, if you start modelling before the legal school leaving age.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/43eeaae8-2d19-492b-8f2f-6378a9894e6d\u0027]"
+    },
+    "ContentItemId": "47ac3g0g55cdkr8nk9p2yrm651",
+    "ContentItemVersionId": "4k3rhwq3tpr1b1t8sv5vt0dcxd",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll need a license from your [local council], if you start modelling before the legal school leaving age.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll also need [safety training] to work on wind turbines. This could include sea survival if you\u0027re working offshore. Employers will advise you on what\u0027s required."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll also need \u003Ca href=\u0022https://www.globalwindsafety.org/standards/basic-safety-training-standard\u0022\u003Esafety training\u003C/a\u003E to work on wind turbines. This could include sea survival if you\u0027re working offshore. Employers will advise you on what\u0027s required.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/5c986d00-5140-4e8c-bf52-65b971caba0d\u0027]"
+    },
+    "ContentItemId": "4p2r6wnxwzg16r87xpdaf0n449",
+    "ContentItemVersionId": "41r70xf0erkz6vm9w2gwdpn6nn",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll also need [safety training] to work on wind turbines. This could include sea survival if you\u0027re working offshore. Employers will advise you on what\u0027s required.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll need to meet certain nationality rules to apply. All jobs are open to British nationals and many are also open to Commonwealth citizens."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll need to meet certain nationality rules to apply. All jobs are open to British nationals and many are also open to Commonwealth citizens.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/3f25907c-694e-45fb-9f70-12a38af46cdb\u0027]"
+    },
+    "ContentItemId": "4g5f0dzx3ja6pvzramdmn3hyc6",
+    "ContentItemVersionId": "46d9t4reearqkte8m56kzf0nww",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll need to meet certain nationality rules to apply. All jobs are open to British nationals and many are also open to Commonwealth citizens.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "For public sector work, you may need to go through [UK vetting] for a:security check (SC) - for access to information classified as \u0027secret\u0027; developed vetting (DV) - for access to information classified as \u0027top secret\u0027"
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EFor public sector work, you may need to go through \u003Ca href=\u0022https://www.gov.uk/guidance/security-vetting-and-clearance\u0022\u003EUK vetting\u003C/a\u003E for a:\u003Cul\u003E\u003Cli\u003Esecurity check (SC) - for access to information classified as \u0027secret\u0027\u003C/li\u003E\u003Cli\u003Edeveloped vetting (DV) - for access to information classified as \u0027top secret\u0027\u003C/li\u003E\u003C/ul\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/ff71c537-e6c0-46d7-9613-c9704e4c5d3d\u0027]"
+    },
+    "ContentItemId": "4nn2x57b6tgkd5t4m8nsejcmmj",
+    "ContentItemVersionId": "4sp2p2558pspjrrhjpz2zgvzx7",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "For public sector work, you may need to go through [UK vetting] for a:security check (SC) - for access to information classified as \u0027secret\u0027; developed vetting (DV) - for access to information classified as \u0027top secret\u0027",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You may need a [private hire vehicle licence] for some jobs."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may need a \u003Ca href=\u0022https://www.gov.uk/taxi-driver-licence\u0022\u003Eprivate hire vehicle licence\u003C/a\u003E for some jobs.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/8c0b814c-181b-4442-9106-40238d937815\u0027]"
+    },
+    "ContentItemId": "40j3h10zr6n860t5n2nyhzt9my",
+    "ContentItemVersionId": "47desb4wqmm0y4szan7fmce6nm",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You may need a [private hire vehicle licence] for some jobs.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You could choose to [register with Ofsted]. This is voluntary for nannies but may help you to get more work."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou could choose to \u003Ca href=\u0022https://www.gov.uk/become-childminder-nanny/register-nanny\u0022\u003Eregister with Ofsted\u003C/a\u003E. This is voluntary for nannies but may help you to get more work.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/db34d457-ac44-4dad-ba91-ea66ad36a500\u0027]"
+    },
+    "ContentItemId": "4gc6g2h281y3d7z929apza6344",
+    "ContentItemVersionId": "4sx35jyr2e4ccsxanmzpjnj64e",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You could choose to [register with Ofsted]. This is voluntary for nannies but may help you to get more work.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "There are different categories to the licence, depending on the type of work you want to do, but common ones are:B1 mechanical \u2013 for work on an aircraft\u2019s structure and electrical systems; B2 avionics \u2013 for work on navigation, communication and elect"
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EThere are different categories to the licence, depending on the type of work you want to do, but common ones are:\u003Cul\u003E\u003Cli\u003EB1 mechanical \u2013 for work on an aircraft\u2019s structure and electrical systems\u003C/li\u003E\u003Cli\u003EB2 avionics \u2013 for work on navigation, communication and electronic instruments\u003C/li\u003E\u003C/ul\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/7bcd1570-5696-44f0-865a-79062bf48179\u0027]"
+    },
+    "ContentItemId": "4aefbxta6qpt5s9d9aa1x1rs5d",
+    "ContentItemVersionId": "4hshztp1kz1w824jtfy0vx7enr",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "There are different categories to the licence, depending on the type of work you want to do, but common ones are:B1 mechanical \u2013 for work on an aircraft\u2019s structure and electrical systems; B2 avionics \u2013 for work on navigation, communication and elect",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You must be prepared to work anywhere in the UK."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou must be prepared to work anywhere in the UK.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/73c85635-1c75-430f-bbf1-31c46fd790df\u0027]"
+    },
+    "ContentItemId": "4ddq8vv36sw5a633qwz1r0h8cv",
+    "ContentItemVersionId": "4s0gztj8sh8zp4t59tyr285vng",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You must be prepared to work anywhere in the UK.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Taxidermy is governed by strict regulations, covered by the Wildlife and Countryside Act 1981 and the Convention on International Trade in Endangered Species of Wild Fauna and Flora."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003ETaxidermy is governed by strict regulations, covered by the Wildlife and Countryside Act 1981 and the Convention on International Trade in Endangered Species of Wild Fauna and Flora.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/a0ded799-656b-4922-8e28-6922f3638048\u0027]"
+    },
+    "ContentItemId": "4vxt8r4jcg7px6grfm76fqqy44",
+    "ContentItemVersionId": "4g71x9ndvwtks0wcm9hkhwv8mq",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "Taxidermy is governed by strict regulations, covered by the Wildlife and Countryside Act 1981 and the Convention on International Trade in Endangered Species of Wild Fauna and Flora.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You may need a forklift truck licence for certain jobs."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may need a forklift truck licence for certain jobs.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/1d777ec2-40fa-44a4-8412-5de9087d1e2f\u0027]"
+    },
+    "ContentItemId": "4k9e0yn02648rvqn12m7tkbsxd",
+    "ContentItemVersionId": "4kg1hdh0p9vvhwxrdy1ngxt052",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You may need a forklift truck licence for certain jobs.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You could be travelling abroad so it would be useful if you could speak a second language, though it\u0027s not essential."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou could be travelling abroad so it would be useful if you could speak a second language, though it\u0027s not essential.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/a07487d2-431c-4315-8dd0-549c160249f2\u0027]"
+    },
+    "ContentItemId": "4cz3zad7fe2mxsns6saj7t5zmp",
+    "ContentItemVersionId": "4mg235a9xbkxcr226az5ahxtmb",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You could be travelling abroad so it would be useful if you could speak a second language, though it\u0027s not essential.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Driving other vehicles like lorries, tractors, harvesters and fork lift trucks can also be part of your work. You can find out more about driving specialist vehicles from [GOV.UK]."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EDriving other vehicles like lorries, tractors, harvesters and fork lift trucks can also be part of your work. You can find out more about driving specialist vehicles from \u003Ca href=\u0022https://www.gov.uk/learning-to-drive-a-tractor-or-specialist-vehicle\u0022\u003EGOV.UK\u003C/a\u003E.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/4e6faa56-fbcc-4fd8-a714-6d7df5eef5c6\u0027]"
+    },
+    "ContentItemId": "4g9qmzv5pkt1p5q8mk7hjj4mw2",
+    "ContentItemVersionId": "48gm4jqjce4bvw0znj1e5jfwx0",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "Driving other vehicles like lorries, tractors, harvesters and fork lift trucks can also be part of your work. You can find out more about driving specialist vehicles from [GOV.UK].",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You might also need a driving licence and access to a vehicle."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou might also need a driving licence and access to a vehicle.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/f0e47b17-759f-48bc-aef0-d23caa8df088\u0027]"
+    },
+    "ContentItemId": "4m39vzt9xj5zcs55h1g0jyvswy",
+    "ContentItemVersionId": "48jwx4w2z1js93j02bpn9n295e",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You might also need a driving licence and access to a vehicle.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You do not need a qualification in the second language, but you\u0027ll be tested during the recruitment process.  Sample tests can be found on [EU Careers]."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou do not need a qualification in the second language, but you\u0027ll be tested during the recruitment process.  Sample tests can be found on \u003Ca href=\u0022https://epso.europa.eu/how-to-apply/sample-tests_en\u0022\u003EEU Careers\u003C/a\u003E.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/791498c6-8649-421c-86a4-e80b6fd15e32\u0027]"
+    },
+    "ContentItemId": "4fezvt8mvpths0vgn607xz5e56",
+    "ContentItemVersionId": "4b97jxymrkf5ks7z3t4q29hn5a",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You do not need a qualification in the second language, but you\u0027ll be tested during the recruitment process.  Sample tests can be found on [EU Careers].",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "If you have a criminal record, this does not necessarily mean that you will not be granted a licence. The [Security Industry Authority] has more detailed information."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EIf you have a criminal record, this does not necessarily mean that you will not be granted a licence. The \u003Ca href=\u0022https://www.sia.homeoffice.gov.uk/Pages/licensing-other-checks.aspx\u0022\u003ESecurity Industry Authority\u003C/a\u003E has more detailed information.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/52c804f2-8a1a-4183-bd17-88b4b7f3d4f2\u0027]"
+    },
+    "ContentItemId": "4e4p2gb06hf0n76w71j99wtvx4",
+    "ContentItemVersionId": "40ppp0fjj4tbrth5gnyfkaedcp",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "If you have a criminal record, this does not necessarily mean that you will not be granted a licence. The [Security Industry Authority] has more detailed information.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Some job opportunities are on overseas contracts, so you may need to move abroad for work."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003ESome job opportunities are on overseas contracts, so you may need to move abroad for work.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/30fcc51b-5910-4e6b-a43f-6e7508c028f5\u0027]"
+    },
+    "ContentItemId": "4674tqm8kwemk5xknq6xm3fq5n",
+    "ContentItemVersionId": "44e2v73f5qgqe24wbfswfnz4w5",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "Some job opportunities are on overseas contracts, so you may need to move abroad for work.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll usually need your own transport to get to and from work, as you may not be able to get public transport to suit your shift times."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll usually need your own transport to get to and from work, as you may not be able to get public transport to suit your shift times.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/986a75ed-7516-462a-a87e-133c67c2bc5f\u0027]"
+    },
+    "ContentItemId": "4e9tpz29bsm277jdsjtbfs9qm6",
+    "ContentItemVersionId": "4d93rpeg1rtvv5g6y34rmy40d2",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll usually need your own transport to get to and from work, as you may not be able to get public transport to suit your shift times.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll need a licence for the type of vehicle you\u0027ll be driving and a good driving record. Your employer may supply you with a delivery van, but if you\u0027re self-employed you\u0027ll need your own vehicle."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll need a licence for the type of vehicle you\u0027ll be driving and a good driving record. Your employer may supply you with a delivery van, but if you\u0027re self-employed you\u0027ll need your own vehicle.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/a0579c8c-5640-43c4-ac6d-d19d29438064\u0027]"
+    },
+    "ContentItemId": "42m9y93179th8yf6zr2fny80w4",
+    "ContentItemVersionId": "43btw959jqkzs0s84c95n4qmd2",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll need a licence for the type of vehicle you\u0027ll be driving and a good driving record. Your employer may supply you with a delivery van, but if you\u0027re self-employed you\u0027ll need your own vehicle.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You may need a full driving licence to travel to work, collect feed and equipment, and make deliveries to local buyers."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may need a full driving licence to travel to work, collect feed and equipment, and make deliveries to local buyers.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/d1f57eb9-a375-4e13-ad21-17fc5a973edd\u0027]"
+    },
+    "ContentItemId": "4vtq61fhrr62drvgwfj0425n5a",
+    "ContentItemVersionId": "4mkp50e1mnbgjtd8kjafdb8pwh",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You may need a full driving licence to travel to work, collect feed and equipment, and make deliveries to local buyers.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Certain people are not allowed to stand as an MP, for example someone convicted of electoral fraud. You can check with the [Electoral Commission] for more information about this."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003ECertain people are not allowed to stand as an MP, for example someone convicted of electoral fraud. You can check with the \u003Ca href=\u0022https://www.electoralcommission.org.uk/i-am-a/candidate-or-agent\u0022\u003EElectoral Commission\u003C/a\u003E for more information about this.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/ed4738fe-8a02-4daa-a8cf-c17bb50afa69\u0027]"
+    },
+    "ContentItemId": "474kpcmba4jnjre2wk7eks4mmr",
+    "ContentItemVersionId": "4qv9wdtcys2ga6gnjkwxdjf2m4",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "Certain people are not allowed to stand as an MP, for example someone convicted of electoral fraud. You can check with the [Electoral Commission] for more information about this.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "The LGV licence test is divided into two categories:Category C1 allows you to drive rigid vehicles up to 7.5 tonnes; Category C allows you to drive rigid vehicles over 7.5 tonnes"
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EThe LGV licence test is divided into two categories:\u003Cul\u003E\u003Cli\u003ECategory C1 allows you to drive rigid vehicles up to 7.5 tonnes\u003C/li\u003E\u003Cli\u003ECategory C allows you to drive rigid vehicles over 7.5 tonnes\u003C/li\u003E\u003C/ul\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/211cf7de-3db3-46c4-8579-02a5408c1f36\u0027]"
+    },
+    "ContentItemId": "4kb3raqxd4b07s0y9sat47exdw",
+    "ContentItemVersionId": "4apmqcb86dp3st5ra87emwtpdz",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "The LGV licence test is divided into two categories:Category C1 allows you to drive rigid vehicles up to 7.5 tonnes; Category C allows you to drive rigid vehicles over 7.5 tonnes",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll need to hold a personal functional licence (PFL) from the [Gambling Commission]."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll need to hold a personal functional licence (PFL) from the \u003Ca href=\u0022https://www.gamblingcommission.gov.uk/for-gambling-businesses/Do-I-need-a-licence/Personal-functional-licence.aspx\u0022\u003EGambling Commission\u003C/a\u003E.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/5be2a56a-dbe2-4c29-b64e-772c962bebd6\u0027]"
+    },
+    "ContentItemId": "4mwp8bvvqhtra045j9ymbc9gdd",
+    "ContentItemVersionId": "4hrxxcbv5b3gk7dqz71t98wemf",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll need to hold a personal functional licence (PFL) from the [Gambling Commission].",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Your current job or business interests may lead to a conflict of interest and bar you from becoming a magistrate. For example if you\u2019re a police officer or prison officer you cannot become a magistrate in the criminal court."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYour current job or business interests may lead to a conflict of interest and bar you from becoming a magistrate. For example if you\u2019re a police officer or prison officer you cannot become a magistrate in the criminal court.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/557a2083-f533-41c9-b444-f2441caadc9b\u0027]"
+    },
+    "ContentItemId": "4ar4v14nqavzt4v72vct94t6xs",
+    "ContentItemVersionId": "42fn8q6qe28pd1k59phv8tze4m",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "Your current job or business interests may lead to a conflict of interest and bar you from becoming a magistrate. For example if you\u2019re a police officer or prison officer you cannot become a magistrate in the criminal court.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "If there are 2 adults in your household who want to become foster parents, you\u0027d both be expected to pass the relevant assessments."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EIf there are 2 adults in your household who want to become foster parents, you\u0027d both be expected to pass the relevant assessments.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/469f31af-cf65-4598-9953-e8185ddcda4f\u0027]"
+    },
+    "ContentItemId": "41k70549zfwfpvrgddvqahm8x8",
+    "ContentItemVersionId": "4nh0aj71p5dxfwtjwjcf61egms",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "If there are 2 adults in your household who want to become foster parents, you\u0027d both be expected to pass the relevant assessments.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You may need a C1 licence in some jobs to drive service trucks up to 7.5 tonnes."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may need a C1 licence in some jobs to drive service trucks up to 7.5 tonnes.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/6fe93db9-b023-48a4-b903-798acbf1082a\u0027]"
+    },
+    "ContentItemId": "4adf4ffswcmfayf7kn2dbqn5mk",
+    "ContentItemVersionId": "46gj5v5kk5fwktskg4dr60p9w5",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You may need a C1 licence in some jobs to drive service trucks up to 7.5 tonnes.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You may find it useful if you can speak a second language for some jobs."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may find it useful if you can speak a second language for some jobs.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/e0fd86db-ec1a-4c58-a121-e202818e14c0\u0027]"
+    },
+    "ContentItemId": "48jkqp0wxq97rtc82fb89myz5k",
+    "ContentItemVersionId": "4shz7hsq1x7d6swq1n39bkgkxb",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You may find it useful if you can speak a second language for some jobs.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Depending on where you work, you\u2019ll need to apply to your local council for:a [market stall licence]; a [street trading licence]"
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EDepending on where you work, you\u2019ll need to apply to your local council for:a \u003Ca href=\u0022https://www.gov.uk/market-stall-licence\u0022\u003Emarket stall licence\u003C/a\u003E; a \u003Ca href=\u0022https://www.gov.uk/street-trading-licence\u0022\u003Estreet trading licence\u003C/a\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/778b2fef-edb3-42ad-8d8a-c4a94227989e\u0027]"
+    },
+    "ContentItemId": "449vg25r3zdevrmfwv6qvvy5nk",
+    "ContentItemVersionId": "4yp6kdbj2e34my486yd256t9na",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "Depending on where you work, you\u2019ll need to apply to your local council for:a [market stall licence]; a [street trading licence]",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "To apply for a licence, you\u0027ll need to meet several criteria, including:completing the level 3 diploma in racehorse care and management; having a minimum of 5 years\u0027 experience in a racing yard; passing pre-licence training courses with the British R"
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003ETo apply for a licence, you\u0027ll need to meet several criteria, including:\u003Cul\u003E\u003Cli\u003Ecompleting the level 3 diploma in racehorse care and management\u003C/li\u003E\u003Cli\u003Ehaving a minimum of 5 years\u0027 experience in a racing yard\u003C/li\u003E\u003Cli\u003Epassing pre-licence training courses with the British Racing School at Newmarket, or the Northern Racing College at Doncaster\u003C/li\u003E\u003C/ul\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/9bdda4c2-209a-4c45-b2bf-9e89305f41a8\u0027]"
+    },
+    "ContentItemId": "4w3g851y29k1eza3xy4tghc1d7",
+    "ContentItemVersionId": "4d6jxdy7g2h6x20avk7x142946",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "To apply for a licence, you\u0027ll need to meet several criteria, including:completing the level 3 diploma in racehorse care and management; having a minimum of 5 years\u0027 experience in a racing yard; passing pre-licence training courses with the British R",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You may be given a company car or van if you\u0027re directly employed. You\u0027ll need your own vehicle if you work for yourself."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may be given a company car or van if you\u0027re directly employed. You\u0027ll need your own vehicle if you work for yourself.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/e26a030f-d40d-44d3-bdd5-3f56adaf5522\u0027]"
+    },
+    "ContentItemId": "42h1ctp4n5dpeswnnkza70cvmx",
+    "ContentItemVersionId": "4yzpd6pwefqm91xnsjk8erpk4t",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You may be given a company car or van if you\u0027re directly employed. You\u0027ll need your own vehicle if you work for yourself.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll need IT skills and a knowledge of computer-aided design and manufacturing (CAD/CAM)."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll need IT skills and a knowledge of computer-aided design and manufacturing (CAD/CAM).\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/0256ce9e-115a-40e3-ac91-005d5b6e7339\u0027]"
+    },
+    "ContentItemId": "4v0sg6zpvqn3f6jqx2hzwq4nm4",
+    "ContentItemVersionId": "49c4bwyr6233drp8q31aerjnwp",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll need IT skills and a knowledge of computer-aided design and manufacturing (CAD/CAM).",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll have to register with a [water industry safety scheme]."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll have to register with a \u003Ca href=\u0022http://www.eusr.co.uk/schemes\u0022\u003Ewater industry safety scheme\u003C/a\u003E.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/987e8605-555c-4b5b-9e10-5a3d545d4e59\u0027]"
+    },
+    "ContentItemId": "4wakqpvebsjg44xt91b3g2s24q",
+    "ContentItemVersionId": "4k4zpzbf0efqswz7fe5mk8p5ns",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll have to register with a [water industry safety scheme].",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Once you\u0027re qualified you have to complete 50 hours of continuous professional development each year and sit a renewal exam every 6 years."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EOnce you\u0027re qualified you have to complete 50 hours of continuous professional development each year and sit a renewal exam every 6 years.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/da096ed9-2fd8-4ae7-90f0-6a7b959cf383\u0027]"
+    },
+    "ContentItemId": "4x10jzw160m8k6njrp5ckkexw3",
+    "ContentItemVersionId": "4219hf6vftkp5shd7d33as65wp",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "Once you\u0027re qualified you have to complete 50 hours of continuous professional development each year and sit a renewal exam every 6 years.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll need to vaccinated against [hepatitis B]."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll need to vaccinated against \u003Ca href=\u0022http://www.nhs.uk/conditions/Hepatitis-B/Pages/Introduction.aspx\u0022\u003Ehepatitis B\u003C/a\u003E.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/6c7bf755-ae48-4683-b648-46602ec5b1c7\u0027]"
+    },
+    "ContentItemId": "4h4z7fwrvvk3xygd39dvbc4bwm",
+    "ContentItemVersionId": "4g4zhpatczs5ntjgy4bz34xmdv",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll need to vaccinated against [hepatitis B].",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You must be over 18 and under 65 when appointed. You\u2019ll be expected to serve for at least 5 years. You must retire when you reach 70."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou must be over 18 and under 65 when appointed. You\u2019ll be expected to serve for at least 5 years. You must retire when you reach 70.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/85c6b451-6205-4e67-9868-942bce28c39f\u0027]"
+    },
+    "ContentItemId": "4gkank2thm32t7rtjnr8ggjbn2",
+    "ContentItemVersionId": "42v0abpe72zvc4my7cbyw37rc1",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You must be over 18 and under 65 when appointed. You\u2019ll be expected to serve for at least 5 years. You must retire when you reach 70.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "If you\u0027re working with hazardous goods, for example fuel oil, you\u0027ll also need an ADR driver training certificate. ADR is the shortened name for the European Agreement on the International Carriage of Dangerous Goods by Road."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EIf you\u0027re working with hazardous goods, for example fuel oil, you\u0027ll also need an ADR driver training certificate. ADR is the shortened name for the European Agreement on the International Carriage of Dangerous Goods by Road.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/f9d811ed-39ad-4104-8978-9667e8b9a911\u0027]"
+    },
+    "ContentItemId": "4hggnbx1rfhng6ch0yvbke9q54",
+    "ContentItemVersionId": "4r82v8g1b2fz3x97kabf1hadw5",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "If you\u0027re working with hazardous goods, for example fuel oil, you\u0027ll also need an ADR driver training certificate. ADR is the shortened name for the European Agreement on the International Carriage of Dangerous Goods by Road.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "The Security Industry Authority may make other checks to decide if you\u0027re a suitable person to hold a licence."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EThe Security Industry Authority may make other checks to decide if you\u0027re a suitable person to hold a licence.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/280bedbf-fcd6-4abb-a841-f751a6331cfe\u0027]"
+    },
+    "ContentItemId": "4yfe5rdrrc223s1f4w8de7ns4c",
+    "ContentItemVersionId": "4s3sktbyxk60r69aekhfwvy3x1",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "The Security Industry Authority may make other checks to decide if you\u0027re a suitable person to hold a licence.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You may have to pass enhanced background checks if your work is related to national security."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may have to pass enhanced background checks if your work is related to national security.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/fd7cfefd-d3ab-41d6-a3e1-5c4a661a90e1\u0027]"
+    },
+    "ContentItemId": "4py7d64sdn3axx9daxmv3ge8ww",
+    "ContentItemVersionId": "4b7h5n65gb6asx7t6nck8xt9x9",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You may have to pass enhanced background checks if your work is related to national security.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll need a driving licence if your role involves delivering beer."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll need a driving licence if your role involves delivering beer.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/a609bdb9-531e-4ae5-aa1b-e73308fd2be2\u0027]"
+    },
+    "ContentItemId": "42m1apnagp771ze2ftsnw14pw6",
+    "ContentItemVersionId": "4xxepm3gj861d5tzbap30fm7mv",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll need a driving licence if your role involves delivering beer.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll usually need public indemnity and professional liability insurance, if you\u0027re self-employed."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll usually need public indemnity and professional liability insurance, if you\u0027re self-employed.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/8d2f1ba7-f166-4a61-a295-7c2607d40e39\u0027]"
+    },
+    "ContentItemId": "47wte9secy6610q3sbk3h4v5x9",
+    "ContentItemVersionId": "4mmnh2fn99fzf0tvzdremdp259",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll usually need public indemnity and professional liability insurance, if you\u0027re self-employed.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You may need a driving licence, which might include LGV (lorries) or PCV (buses), depending on the vehicles you work with."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may need a driving licence, which might include LGV (lorries) or PCV (buses), depending on the vehicles you work with.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/58bda0fd-936f-4428-8146-737de9166204\u0027]"
+    },
+    "ContentItemId": "4pd1twwaa0x1w2vdp36xq8rc4p",
+    "ContentItemVersionId": "4k7dav94p8c525gxj2fmc061w8",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You may need a driving licence, which might include LGV (lorries) or PCV (buses), depending on the vehicles you work with.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "For production line work, you need to be at least 16."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EFor production line work, you need to be at least 16.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/085ace9d-e7b1-4673-b6d1-3669222afca1\u0027]"
+    },
+    "ContentItemId": "4xmc22h7kvt9n3vdeyg950m4dy",
+    "ContentItemVersionId": "4t71ez9w8tz3bx0g7ka0he90nf",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "For production line work, you need to be at least 16.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Many airlines also ask that you\u0027re able to swim up to 25 metres."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EMany airlines also ask that you\u0027re able to swim up to 25 metres.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/1c66e7ee-537f-40bb-9fab-669d657c6b6b\u0027]"
+    },
+    "ContentItemId": "4kapkfp5fras34pnxj68311442",
+    "ContentItemVersionId": "4btkzrn7gz1c766vv14hadhcnv",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "Many airlines also ask that you\u0027re able to swim up to 25 metres.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "A driving licence could be useful."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EA driving licence could be useful.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/3a9fe4ce-e918-4085-b599-f46dc91c5252\u0027]"
+    },
+    "ContentItemId": "4g2yryerk81p35hv140x9kve4v",
+    "ContentItemVersionId": "4w6bxnw4r05rnsj497rec04qcb",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "A driving licence could be useful.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll usually need to be over 18 to meet shiftwork regulations."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll usually need to be over 18 to meet shiftwork regulations.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/548ba7fb-48df-46e4-8a31-a27d636f080d\u0027]"
+    },
+    "ContentItemId": "42404f7ey9t8c723b152x746mk",
+    "ContentItemVersionId": "4batpy1q0nvbwv60ak2v1vv14m",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll usually need to be over 18 to meet shiftwork regulations.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "As a student you must join the student register of the General Optical Council before you carry out any clinical work."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EAs a student you must join the student register of the General Optical Council before you carry out any clinical work.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/d1da0ce4-0ff8-4b97-948a-4149b239606a\u0027]"
+    },
+    "ContentItemId": "4frbz2vpr3t1pyqt1crzg0mad0",
+    "ContentItemVersionId": "4j8krd55sfqwm5cmjbcx5em4dg",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "As a student you must join the student register of the General Optical Council before you carry out any clinical work.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "For retail sales you must be at least 18 years old."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EFor retail sales you must be at least 18 years old.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/80592cd3-d3c2-4922-9167-8b72e11ff2bd\u0027]"
+    },
+    "ContentItemId": "4t4hhdcf916nszg7ty2cfdqsc1",
+    "ContentItemVersionId": "4r9dz7xj609m2z411p867k6scy",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "For retail sales you must be at least 18 years old.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You may need a driving licence for some jobs."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may need a driving licence for some jobs.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/95f2791d-9b38-4d52-86df-7a274749c0a1\u0027]"
+    },
+    "ContentItemId": "4te9d0rny548pssthgnekc26cp",
+    "ContentItemVersionId": "4kpq72rqw934jwj2n2pc8kfmmp",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You may need a driving licence for some jobs.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You may have to complete a medical questionnaire and take an eyesight test as part of the recruitment process."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may have to complete a medical questionnaire and take an eyesight test as part of the recruitment process.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/4617b84b-f99c-4334-87f0-2d96f2d44eed\u0027]"
+    },
+    "ContentItemId": "426vfnqd9tgdmsphesfqvfy0dx",
+    "ContentItemVersionId": "4aw5f5rk0gavc5ps20fc6rkpdk",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You may have to complete a medical questionnaire and take an eyesight test as part of the recruitment process.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "It would be helpful to have a driving licence. You may have an advantage if you have a Large Goods Vehicle (LGV) licence or Passenger Carrying Vehicle (PCV) licence, which would allow you to drive tour buses and lorries. Fork lift truck training and "
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EIt would be helpful to have a driving licence. You may have an advantage if you have a Large Goods Vehicle (LGV) licence or Passenger Carrying Vehicle (PCV) licence, which would allow you to drive tour buses and lorries. Fork lift truck training and experience could also be useful.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/feba2ef8-704c-4f82-b269-f86002d4e542\u0027]"
+    },
+    "ContentItemId": "4941pf7feqdjyyr2p1fj2j6sxr",
+    "ContentItemVersionId": "4fpy59rs39w8732pr3qx03c05n",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "It would be helpful to have a driving licence. You may have an advantage if you have a Large Goods Vehicle (LGV) licence or Passenger Carrying Vehicle (PCV) licence, which would allow you to drive tour buses and lorries. Fork lift truck training and ",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll need a large goods vehicle (LGV) licence if your job involves driving a lorry to collect metal waste."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll need a large goods vehicle (LGV) licence if your job involves driving a lorry to collect metal waste.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/0e0ef3e5-2d55-4444-b233-dde4d515df10\u0027]"
+    },
+    "ContentItemId": "40jrfavqtjrmjwt86bhrpaw0xq",
+    "ContentItemVersionId": "4n0mz8m1xkrjt7m2bya21rn3ds",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll need a large goods vehicle (LGV) licence if your job involves driving a lorry to collect metal waste.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You must live within 60 minutes travelling distance of a club to join its youth development programme, if you\u0027re under 12. If you\u0027re under 16, this rises to 90 minutes. There is no time restriction for under 17s and older."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou must live within 60 minutes travelling distance of a club to join its youth development programme, if you\u0027re under 12. If you\u0027re under 16, this rises to 90 minutes. There is no time restriction for under 17s and older.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/cec44199-a016-4acf-b9b2-0f17aeab32cf\u0027]"
+    },
+    "ContentItemId": "4egqv74581wyt5hn3ecc1ycmcz",
+    "ContentItemVersionId": "48rwk6mzekdk5wkb4jrkdbt04f",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You must live within 60 minutes travelling distance of a club to join its youth development programme, if you\u0027re under 12. If you\u0027re under 16, this rises to 90 minutes. There is no time restriction for under 17s and older.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027re likely to need a full, clean driving licence for this job."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027re likely to need a full, clean driving licence for this job.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/96c3d240-a941-4ad2-a377-29cf2adadbb7\u0027]"
+    },
+    "ContentItemId": "40jndzyr0r6pb216xan0dv10cc",
+    "ContentItemVersionId": "4yjxbdm939kn5055rbtp2ypc4g",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027re likely to need a full, clean driving licence for this job.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll usually need to have a driving licence."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll usually need to have a driving licence.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/64390545-4c4d-4130-a5df-25b94e8e75fb\u0027]"
+    },
+    "ContentItemId": "45y9hxk49b10trvg6v4w5jq3x5",
+    "ContentItemVersionId": "4c32ef8d93v97ty222b17bvjnx",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll usually need to have a driving licence.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "For some jobs you\u0027ll need to have a C1 licence to drive trucks up to 7.5 tonnes."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EFor some jobs you\u0027ll need to have a C1 licence to drive trucks up to 7.5 tonnes.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/29f44640-098c-4bc2-882c-5d2499eb6416\u0027]"
+    },
+    "ContentItemId": "4y5zr2r0e4b2svmytv5aj9r8db",
+    "ContentItemVersionId": "4sv7e3j3pb68r3j5zwgm838hmh",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "For some jobs you\u0027ll need to have a C1 licence to drive trucks up to 7.5 tonnes.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll need to know structured query language (SQL) and database management systems (DBMS)."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll need to know structured query language (SQL) and database management systems (DBMS).\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/78266cfd-e15f-4429-aacb-4a5a8558a73c\u0027]"
+    },
+    "ContentItemId": "4j2zjgesv484w6gwy8ed4k83wr",
+    "ContentItemVersionId": "4btf2rdjdx2qfxde9030fszf4t",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll need to know structured query language (SQL) and database management systems (DBMS).",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll need a firearms or shotgun certificate for some jobs."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll need a firearms or shotgun certificate for some jobs.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/4fa56867-d33b-4dab-87d6-c12bb49ec4c7\u0027]"
+    },
+    "ContentItemId": "4hvhdghah6nfmy53fxqzyaned0",
+    "ContentItemVersionId": "40fnhyzrzc1tnr16465zy8b3cp",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll need a firearms or shotgun certificate for some jobs.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Employers will carry out checks on your personal and work history, which could go back up to 10 years."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EEmployers will carry out checks on your personal and work history, which could go back up to 10 years.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/89a8257e-228b-4d75-8128-54703d06e82f\u0027]"
+    },
+    "ContentItemId": "4pv4z6g1dfz80vnh4dt42ts1mq",
+    "ContentItemVersionId": "4ftva5g1hpq7t2w2n0yateebxx",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "Employers will carry out checks on your personal and work history, which could go back up to 10 years.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You may need a driving licence and access to a vehicle to travel to jobs."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may need a driving licence and access to a vehicle to travel to jobs.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/edaf144d-c830-400c-bfe7-7a37256b0fe5\u0027]"
+    },
+    "ContentItemId": "44cgd33cesg340fhvrw6ghvwx0",
+    "ContentItemVersionId": "4zf98wpd7d8s4t1ep10kjhszdh",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You may need a driving licence and access to a vehicle to travel to jobs.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You must register both yourself and your premises with your [local council] for a [tattoo, piercing and electrolysis licence]."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou must register both yourself and your premises with your \u003Ca href=\u0022https://www.gov.uk/find-local-council\u0022\u003Elocal council\u003C/a\u003E for a \u003Ca href=\u0022https://www.gov.uk/skin-piercing-and-tattooing\u0022\u003Etattoo, piercing and electrolysis licence\u003C/a\u003E.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/5251bf20-50b5-42b0-bcf3-5d3b9da77613\u0027]"
+    },
+    "ContentItemId": "4wmrvanp21b4ez6p93mtva89dd",
+    "ContentItemVersionId": "4a76py3yx3dxn095bfdk16gdn8",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You must register both yourself and your premises with your [local council] for a [tattoo, piercing and electrolysis licence].",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Some fire services may only accept applications from people living in the local and surrounding areas."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003ESome fire services may only accept applications from people living in the local and surrounding areas.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/addedc4d-1475-404f-8d28-8ae10160a5b9\u0027]"
+    },
+    "ContentItemId": "4jp826wxsr34c3z6ckaeqyyzxc",
+    "ContentItemVersionId": "42gyzq7j709pqwzyzzj1j5hbc2",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "Some fire services may only accept applications from people living in the local and surrounding areas.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Before you can register with the General Osteopathic Council you will need to provide both health and character references."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EBefore you can register with the General Osteopathic Council you will need to provide both health and character references.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/b643575d-adb4-4e3e-8760-59f4da3347e6\u0027]"
+    },
+    "ContentItemId": "414te9yyns62y3nhbg5g8x1xxz",
+    "ContentItemVersionId": "4a0vwbgyrf0ka0qsy7kwmn6txa",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "Before you can register with the General Osteopathic Council you will need to provide both health and character references.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You may need a driving licence to transport yourself and your equipment from job to job."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may need a driving licence to transport yourself and your equipment from job to job.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/2d997bf1-0076-4c09-8480-6f4ae5d67a93\u0027]"
+    },
+    "ContentItemId": "48a6hxkg665dq1rs7tmeq26k5s",
+    "ContentItemVersionId": "4vsz6694rchy623wya5x0xsjmv",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You may need a driving licence to transport yourself and your equipment from job to job.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You might also need a forklift operator certificate, though your employer may put you through that training when you start work."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou might also need a forklift operator certificate, though your employer may put you through that training when you start work.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/39bda1d9-4d5a-451a-9f52-0dca73bde64e\u0027]"
+    },
+    "ContentItemId": "4r2nbtt55hsbswbdgpvvsh684x",
+    "ContentItemVersionId": "4hwkbhzhy3bce6am1hdbtm7v5v",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You might also need a forklift operator certificate, though your employer may put you through that training when you start work.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll need to register as a brewer with [HM Revenue and Customs] to pay alcohol duty. You\u0027ll also have to join the [Alcohol Wholesaler Registration Scheme], if you plan to sell to other businesses."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll need to register as a brewer with \u003Ca href=\u0022https://www.gov.uk/topic/business-tax/alcohol-duties\u0022\u003EHM Revenue and Customs\u003C/a\u003E to pay alcohol duty. You\u0027ll also have to join the \u003Ca href=\u0022https://www.gov.uk/guidance/the-alcohol-wholesaler-registration-scheme-awrs\u0022\u003EAlcohol Wholesaler Registration Scheme\u003C/a\u003E, if you plan to sell to other businesses.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/1a67e308-fbce-48ad-93a9-3268319209d4\u0027]"
+    },
+    "ContentItemId": "4zyjhwnc76xyt0z29c9n4z91nv",
+    "ContentItemVersionId": "4y6yeddemqn6k4k4pc3bnnf0nk",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "You\u0027ll need to register as a brewer with [HM Revenue and Customs] to pay alcohol duty. You\u0027ll also have to join the [Alcohol Wholesaler Registration Scheme], if you plan to sell to other businesses.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "A large goods vehicle (LGV) driving licence may also be useful if you\u2019re working in a travelling fair."
+    },
+    "OtherRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EA large goods vehicle (LGV) driving licence may also be useful if you\u2019re working in a travelling fair.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/otherrequirement/68f2ca5a-f1a2-4862-b922-fd0a27d77edc\u0027]"
+    },
+    "ContentItemId": "4hvkvbsxv6v5dvmn699n3v8xxg",
+    "ContentItemVersionId": "4hbf5a9bgqgpsrkyvtdda5vw5c",
+    "ContentType": "OtherRequirement",
+    "DisplayText": "A large goods vehicle (LGV) driving licence may also be useful if you\u2019re working in a travelling fair.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  }
+      ]
+    }
+  ]
+}

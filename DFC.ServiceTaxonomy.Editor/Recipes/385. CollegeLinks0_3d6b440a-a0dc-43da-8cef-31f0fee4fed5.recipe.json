@@ -1,0 +1,193 @@
+{
+  "name": "CollegeLinks0_3d6b440a-a0dc-43da-8cef-31f0fee4fed5",
+  "displayName": "CollegeLinks0_3d6b440a-a0dc-43da-8cef-31f0fee4fed5",
+  "description": "",
+  "author": "",
+  "website": "",
+  "version": "",
+  "issetuprecipe": false,
+  "categories": "",
+  "tags": [],
+  "steps": [
+    {
+      "name": "ContentNoCache",
+      "data": [
+  {
+    "CollegeLink": {
+      "Link": {
+        "Url": "https://www.gov.uk/student-finance",
+        "Text": "funding advice for higher education courses in college"
+      }
+    },
+    "TitlePart": {
+      "Title": "Financial help for HNC-HND-FD "
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/collegelink/56068434-a930-4e9f-aa61-4a9fcbfe7e15\u0027]"
+    },
+    "ContentItemId": "4wkd1ymzaww6226ffgba7wsmcb",
+    "ContentItemVersionId": "4t3jwne2wwxqzz8qkmgdr3mwxv",
+    "ContentType": "CollegeLink",
+    "DisplayText": "Financial help for HNC-HND-FD ",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "CollegeLink": {
+      "Link": {
+        "Url": "https://www.gov.uk/further-education-courses/financial-help",
+        "Text": "funding advice"
+      }
+    },
+    "TitlePart": {
+      "Title": "Financial Help FE"
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/collegelink/59ffaeed-69bc-4de6-9eb7-d6ca3085f0f3\u0027]"
+    },
+    "ContentItemId": "406pacw0sy46dybehbhsakvt5e",
+    "ContentItemVersionId": "4esd085ebfbt76wpqngc2tjfd5",
+    "ContentType": "CollegeLink",
+    "DisplayText": "Financial Help FE",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "CollegeLink": {
+      "Link": {
+        "Url": "https://www.tlevels.gov.uk/find",
+        "Text": "search for T Level courses"
+      }
+    },
+    "TitlePart": {
+      "Title": "search for T Level courses"
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/collegelink/855b7c8c-8cd0-402c-b4f7-15d34f14c5aa\u0027]"
+    },
+    "ContentItemId": "4tcspbs69qtdeyynde636z78dg",
+    "ContentItemVersionId": "4pf9mj4jfntygvx9e5m71de4c4",
+    "ContentType": "CollegeLink",
+    "DisplayText": "search for T Level courses",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "CollegeLink": {
+      "Link": {
+        "Url": "https://nlbc.uk/partners/members/",
+        "Text": "search for agricultural colleges"
+      }
+    },
+    "TitlePart": {
+      "Title": "NLBC agri colleges"
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/collegelink/9bf07cf6-2a8a-4ab5-8a4f-0069b83d4ac9\u0027]"
+    },
+    "ContentItemId": "46ygpa8wwvcd34b5y82ng1gkcw",
+    "ContentItemVersionId": "4spjj0k01kz86zrk2czj2a65d8",
+    "ContentType": "CollegeLink",
+    "DisplayText": "NLBC agri colleges",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "CollegeLink": {
+      "Link": {
+        "Url": "https://www.tlevels.gov.uk/",
+        "Text": "guide to T levels"
+      }
+    },
+    "TitlePart": {
+      "Title": "Guide to T levels"
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/collegelink/3953e047-57d1-4357-9f72-82f1193103f3\u0027]"
+    },
+    "ContentItemId": "4yny6606ppvt84s5b3z295284q",
+    "ContentItemVersionId": "49k11bhe9xw64s7skschnswyct",
+    "ContentType": "CollegeLink",
+    "DisplayText": "Guide to T levels",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "CollegeLink": {
+      "Link": {
+        "Url": "/find-a-course",
+        "Text": "search for courses"
+      }
+    },
+    "TitlePart": {
+      "Title": "Find a course"
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/collegelink/1113a97c-1ad5-4025-8f22-3b1c35208a40\u0027]"
+    },
+    "ContentItemId": "43va6kzjfqfpqwn146acjafmc2",
+    "ContentItemVersionId": "496709qvdrn07xh6c2t8p0cvw7",
+    "ContentType": "CollegeLink",
+    "DisplayText": "Find a course",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "CollegeLink": {
+      "Link": {
+        "Url": "https://www.gov.uk/what-different-qualification-levels-mean/list-of-qualification-levels",
+        "Text": "equivalent entry requirements"
+      }
+    },
+    "TitlePart": {
+      "Title": "Show Equiv Entry Reqs"
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/collegelink/afc671d7-2d3b-45e8-9c90-9d1b901dac4d\u0027]"
+    },
+    "ContentItemId": "46730dqx559cer3y0vzxt0d2d1",
+    "ContentItemVersionId": "4febepz44w4d949ebb9634a1xx",
+    "ContentType": "CollegeLink",
+    "DisplayText": "Show Equiv Entry Reqs",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  }
+      ]
+    }
+  ]
+}

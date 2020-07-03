@@ -1,0 +1,282 @@
+{
+  "name": "RequirementsPrefixes0_3d6b440a-a0dc-43da-8cef-31f0fee4fed5",
+  "displayName": "RequirementsPrefixes0_3d6b440a-a0dc-43da-8cef-31f0fee4fed5",
+  "description": "",
+  "author": "",
+  "website": "",
+  "version": "",
+  "issetuprecipe": false,
+  "categories": "",
+  "tags": [],
+  "steps": [
+    {
+      "name": "ContentNoCache",
+      "data": [
+  {
+    "TitlePart": {
+      "Title": "Most people following this route have:"
+    },
+    "RequirementsPrefix": {
+      "Description": {
+        "Html": "\u003Cp\u003EMost people following this route have:\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/requirementsprefix/bc1d8c0d-9241-474f-a21b-587e3c5f6145\u0027]"
+    },
+    "ContentItemId": "40a0srr2pd8381wp4xg0khkr5v",
+    "ContentItemVersionId": "4pzmg2dnsag1v5shkmane61kdc",
+    "ContentType": "RequirementsPrefix",
+    "DisplayText": "Most people following this route have:",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll need:"
+    },
+    "RequirementsPrefix": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll need:\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/requirementsprefix/7512e062-f376-47bb-878f-481212d8de74\u0027]"
+    },
+    "ContentItemId": "46kpnbvfst8mxy7z7843dp8m45",
+    "ContentItemVersionId": "43ec46syvec1p7meaps7bd0gde",
+    "ContentType": "RequirementsPrefix",
+    "DisplayText": "You\u0027ll need:",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You may need:"
+    },
+    "RequirementsPrefix": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou may need:\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/requirementsprefix/27c2891e-85d6-423d-bb96-aea04ee3566d\u0027]"
+    },
+    "ContentItemId": "4ff64nd0f9cjez8hr17bfbz1cq",
+    "ContentItemVersionId": "48wz6y9d1mh7g3mv3a6fd9vym7",
+    "ContentType": "RequirementsPrefix",
+    "DisplayText": "You may need:",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Entry requirements for these courses vary."
+    },
+    "RequirementsPrefix": {
+      "Description": {
+        "Html": "\u003Cp\u003EEntry requirements for these courses vary.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/requirementsprefix/9715dd50-5704-42b5-8365-474e395654ac\u0027]"
+    },
+    "ContentItemId": "4w4kne3zyzwn2spzc1n10q6ndz",
+    "ContentItemVersionId": "4b7csnejmg4hcyt5j23f3rgc44",
+    "ContentType": "RequirementsPrefix",
+    "DisplayText": "Entry requirements for these courses vary.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "There are no set entry requirements for this route but it may help you to get in if you have:"
+    },
+    "RequirementsPrefix": {
+      "Description": {
+        "Html": "\u003Cp\u003EThere are no set entry requirements for this route but it may help you to get in if you have:\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/requirementsprefix/f752fe79-d9e1-4791-a54e-885174d3e393\u0027]"
+    },
+    "ContentItemId": "49s35tygs9c8nxn5tchjyhypcy",
+    "ContentItemVersionId": "484qcnfcpx2jhz4vh4rmp57j49",
+    "ContentType": "RequirementsPrefix",
+    "DisplayText": "There are no set entry requirements for this route but it may help you to get in if you have:",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Employers will set their own entry requirements."
+    },
+    "RequirementsPrefix": {
+      "Description": {
+        "Html": "\u003Cp\u003EEmployers will set their own entry requirements.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/requirementsprefix/1b7c4d3e-f8e6-4fc9-b9f4-c9fd449ebe1c\u0027]"
+    },
+    "ContentItemId": "4kd7ecxja80mazavc3cwmqvwd3",
+    "ContentItemVersionId": "4e65kfar31330x08gpddx6ftw9",
+    "ContentType": "RequirementsPrefix",
+    "DisplayText": "Employers will set their own entry requirements.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "You\u0027ll usually need:"
+    },
+    "RequirementsPrefix": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou\u0027ll usually need:\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/requirementsprefix/108046ba-d593-46c1-b372-3c3311556635\u0027]"
+    },
+    "ContentItemId": "4sqvsv59dfh8vstqsk351bmddn",
+    "ContentItemVersionId": "4xwy0e63bak3qyezch0d4jgrc6",
+    "ContentType": "RequirementsPrefix",
+    "DisplayText": "You\u0027ll usually need:",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "To do this apprenticeship, you\u0027ll need:"
+    },
+    "RequirementsPrefix": {
+      "Description": {
+        "Html": "\u003Cp\u003ETo do this apprenticeship, you\u0027ll need:\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/requirementsprefix/b505c5b7-1f37-4e8b-9599-05b3f1eaffd4\u0027]"
+    },
+    "ContentItemId": "4rx3k3kq8mhc0sv80cgtqv2t5x",
+    "ContentItemVersionId": "4gnehr2mmhzaaw78ykrffyhdck",
+    "ContentType": "RequirementsPrefix",
+    "DisplayText": "To do this apprenticeship, you\u0027ll need:",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "There are no set entry requirements for this route."
+    },
+    "RequirementsPrefix": {
+      "Description": {
+        "Html": "\u003Cp\u003EThere are no set entry requirements for this route.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/requirementsprefix/027db362-407f-46cd-bf99-57c036c434d5\u0027]"
+    },
+    "ContentItemId": "49hv0eq9n79b858xse6h8a2g4y",
+    "ContentItemVersionId": "4bs72q1ss6g0k3n3sdcd02wq51",
+    "ContentType": "RequirementsPrefix",
+    "DisplayText": "There are no set entry requirements for this route.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "To get onto an apprenticeship, you\u0027ll find it useful to have:"
+    },
+    "RequirementsPrefix": {
+      "Description": {
+        "Html": "\u003Cp\u003ETo get onto an apprenticeship, you\u0027ll find it useful to have:\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/requirementsprefix/9a468360-0bf2-448d-8d55-60081663c4f8\u0027]"
+    },
+    "ContentItemId": "4bsm2ts3mgy4vyg7188bqwmgxe",
+    "ContentItemVersionId": "4wp4g23m67a6d2txs60dhv77cp",
+    "ContentType": "RequirementsPrefix",
+    "DisplayText": "To get onto an apprenticeship, you\u0027ll find it useful to have:",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "There are no set entry requirements but it may help you to get in if you have:"
+    },
+    "RequirementsPrefix": {
+      "Description": {
+        "Html": "\u003Cp\u003EThere are no set entry requirements but it may help you to get in if you have:\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/requirementsprefix/2ad5ad70-5fae-4944-8879-22e5a733b261\u0027]"
+    },
+    "ContentItemId": "4chv93xpj1qv35q1c1yy42b4c7",
+    "ContentItemVersionId": "4kggbr83r2bcb2phjt28qdppny",
+    "ContentType": "RequirementsPrefix",
+    "DisplayText": "There are no set entry requirements but it may help you to get in if you have:",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "name": "WorkingUniforms0_3d6b440a-a0dc-43da-8cef-31f0fee4fed5",
+  "displayName": "WorkingUniforms0_3d6b440a-a0dc-43da-8cef-31f0fee4fed5",
+  "description": "",
+  "author": "",
+  "website": "",
+  "version": "",
+  "issetuprecipe": false,
+  "categories": "",
+  "tags": [],
+  "steps": [
+    {
+      "name": "ContentNoCache",
+      "data": [
+  {
+    "TitlePart": {
+      "Title": "Sports kit"
+    },
+    "WorkingUniform": {
+      "Description": {
+        "Html": "\u003Cp\u003Ea sports kit\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/workinguniform/553c2927-46de-4054-86f5-36aeccfdffa0\u0027]"
+    },
+    "ContentItemId": "4xdet0fbh6cxf3aqv6jr8v83mz",
+    "ContentItemVersionId": "4w30nrcvpqa83rqdkvf4qyx3cq",
+    "ContentType": "WorkingUniform",
+    "DisplayText": "Sports kit",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Protective Clothing"
+    },
+    "WorkingUniform": {
+      "Description": {
+        "Html": "\u003Cp\u003Eprotective clothing\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/workinguniform/a735ca22-95a3-4f3f-9a4e-f2912d313cd5\u0027]"
+    },
+    "ContentItemId": "4wms15ftdt45mt45pyxbv172mp",
+    "ContentItemVersionId": "4vwkve4jpypcrzqje63w7rnj4h",
+    "ContentType": "WorkingUniform",
+    "DisplayText": "Protective Clothing",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Safety Clothing and Equipment"
+    },
+    "WorkingUniform": {
+      "Description": {
+        "Html": "\u003Cp\u003Esafety clothing and use safety equipment\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/workinguniform/f3e1a034-f270-46dc-bc1f-addabde28946\u0027]"
+    },
+    "ContentItemId": "4bvmd3mdqsa2g4tr1pshxd7k5s",
+    "ContentItemVersionId": "4pzqbja1wtjhe6m0mpz2tvdcdj",
+    "ContentType": "WorkingUniform",
+    "DisplayText": "Safety Clothing and Equipment",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "safety clothing and use safety equipment and a uniform"
+    },
+    "WorkingUniform": {
+      "Description": {
+        "Html": "\u003Cp\u003Esafety clothing and use safety equipment and a uniform\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/workinguniform/c4c9e961-e4c5-4933-aabc-9ae2085785a3\u0027]"
+    },
+    "ContentItemId": "466raz9x0s4ca7qfc7tef6644a",
+    "ContentItemVersionId": "4zj72ces2g31t0r4pd3xxqr3x0",
+    "ContentType": "WorkingUniform",
+    "DisplayText": "safety clothing and use safety equipment and a uniform",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Team strip"
+    },
+    "WorkingUniform": {
+      "Description": {
+        "Html": "\u003Cp\u003Ea team strip\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/workinguniform/c483bdff-68fb-4820-8076-7b2100a1bb07\u0027]"
+    },
+    "ContentItemId": "4cmd7p340tht2r55x0kj7fhmcn",
+    "ContentItemVersionId": "4m7h5ybcrw35sxsqvw19t0pjx2",
+    "ContentType": "WorkingUniform",
+    "DisplayText": "Team strip",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "safety clothing and use safety equipment and protective clothing"
+    },
+    "WorkingUniform": {
+      "Description": {
+        "Html": "\u003Cp\u003Esafety clothing and use safety equipment and protective clothing\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/workinguniform/039849d9-7bb6-4072-98d1-03430b275509\u0027]"
+    },
+    "ContentItemId": "4t3nvt0yg9pgg0w56w9z9kfamn",
+    "ContentItemVersionId": "4etsd7h484ekqyjjt3qe5rdpn6",
+    "ContentType": "WorkingUniform",
+    "DisplayText": "safety clothing and use safety equipment and protective clothing",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "protective clothing and safety clothing and use safety equipment"
+    },
+    "WorkingUniform": {
+      "Description": {
+        "Html": "\u003Cp\u003Eprotective clothing and safety clothing and use safety equipment\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/workinguniform/4e31196c-b732-46dd-adba-95327cde7206\u0027]"
+    },
+    "ContentItemId": "4vy0nds1wbv675c68kfb33awne",
+    "ContentItemVersionId": "4vy9va5qcdhfsrsksd5wmsh7x5",
+    "ContentType": "WorkingUniform",
+    "DisplayText": "protective clothing and safety clothing and use safety equipment",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Smart business dress"
+    },
+    "WorkingUniform": {
+      "Description": {
+        "Html": "\u003Cp\u003Esmart business dress\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/workinguniform/ce7cbf15-4ad4-4c62-a531-0fe67548080b\u0027]"
+    },
+    "ContentItemId": "4k0qghw3sdy1c6132phq6wm34v",
+    "ContentItemVersionId": "4d0g9d693m2fvrfmejpk5x9vc6",
+    "ContentType": "WorkingUniform",
+    "DisplayText": "Smart business dress",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Uniform"
+    },
+    "WorkingUniform": {
+      "Description": {
+        "Html": "\u003Cp\u003Ea uniform\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/workinguniform/e945045c-1b21-4719-a89e-d6e797145da3\u0027]"
+    },
+    "ContentItemId": "4t608k5nh9cv40p7ysfht6ke4t",
+    "ContentItemVersionId": "478db1nrvv1zt5x3z4p445wyc9",
+    "ContentType": "WorkingUniform",
+    "DisplayText": "Uniform",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "protective clothing and a uniform"
+    },
+    "WorkingUniform": {
+      "Description": {
+        "Html": "\u003Cp\u003Eprotective clothing and a uniform\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/workinguniform/e3913f64-9f27-4fe2-b884-c7a420846f50\u0027]"
+    },
+    "ContentItemId": "4r08tamnpjfmp7m6fyd9pk8pcz",
+    "ContentItemVersionId": "431hc2t1xh57f0v2ch8384gkwt",
+    "ContentType": "WorkingUniform",
+    "DisplayText": "protective clothing and a uniform",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "a uniform and protective clothing"
+    },
+    "WorkingUniform": {
+      "Description": {
+        "Html": "\u003Cp\u003Ea uniform and protective clothing\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/workinguniform/266fb2d4-5a87-42d0-bbc6-6d3923f1d498\u0027]"
+    },
+    "ContentItemId": "4bwkr6kshc9thsfn24nqvaytwe",
+    "ContentItemVersionId": "46anwad613dtwtsabs9dpcpenj",
+    "ContentType": "WorkingUniform",
+    "DisplayText": "a uniform and protective clothing",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  }
+      ]
+    }
+  ]
+}

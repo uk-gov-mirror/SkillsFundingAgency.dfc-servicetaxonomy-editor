@@ -1,0 +1,498 @@
+{
+  "name": "ApprenticeshipRequirements0_3d6b440a-a0dc-43da-8cef-31f0fee4fed5",
+  "displayName": "ApprenticeshipRequirements0_3d6b440a-a0dc-43da-8cef-31f0fee4fed5",
+  "description": "",
+  "author": "",
+  "website": "",
+  "version": "",
+  "issetuprecipe": false,
+  "categories": "",
+  "tags": [],
+  "steps": [
+    {
+      "name": "ContentNoCache",
+      "data": [
+  {
+    "TitlePart": {
+      "Title": "GCSEs 9-4 incl E-M or equivs"
+    },
+    "ApprenticeshipRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EGCSEs grades 9 to 4 (A* to C), or equivalent, in English and maths\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/apprenticeshiprequirement/e6f41b18-c141-41c9-a3e5-e07e6cc79e17\u0027]"
+    },
+    "ContentItemId": "4kcrndccp2xsawep98zcnf0edm",
+    "ContentItemVersionId": "4xad3e22vdgfb0tgncysecwxcv",
+    "ContentType": "ApprenticeshipRequirement",
+    "DisplayText": "GCSEs 9-4 incl E-M or equivs",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "4 or 5 GCSEs at 9-4 incl E-M-S"
+    },
+    "ApprenticeshipRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003E4 or 5 GCSEs at grades 9 to 4 (A* to C), or equivalent, including English, maths and science\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/apprenticeshiprequirement/b3566b50-2dfc-47ea-92e4-0bf56fb55c31\u0027]"
+    },
+    "ContentItemId": "4jxvyck4qsnf86awk6pmjgkhw0",
+    "ContentItemVersionId": "486mw0naf46k80mdt3c62a9fm7",
+    "ContentType": "ApprenticeshipRequirement",
+    "DisplayText": "4 or 5 GCSEs at 9-4 incl E-M-S",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Higher or degree apprenticeships"
+    },
+    "ApprenticeshipRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003E4 or 5 GCSEs at grades 9 to 4 (A* to C) and A levels, or equivalent, for a higher or degree apprenticeship\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/apprenticeshiprequirement/1e937d5a-7724-417d-9806-f363e2966e5f\u0027]"
+    },
+    "ContentItemId": "4b5769qr76p9nr23e3zjpv5sxp",
+    "ContentItemVersionId": "4nkezh79cb3twrn3gjsct8rrcs",
+    "ContentType": "ApprenticeshipRequirement",
+    "DisplayText": "Higher or degree apprenticeships",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "GCSE Science - Primary Teaching"
+    },
+    "ApprenticeshipRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EGCSE science at grade 9 to 4 (A* to C) for primary school teaching\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/apprenticeshiprequirement/ce737a7e-a7cf-4574-91ee-28f4218bf136\u0027]"
+    },
+    "ContentItemId": "4s7m21jxvhfka1ycx2v7wavfxb",
+    "ContentItemVersionId": "4e8fdb7r2z1gessdncje3h7nch",
+    "ContentType": "ApprenticeshipRequirement",
+    "DisplayText": "GCSE Science - Primary Teaching",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Relevant degree required"
+    },
+    "ApprenticeshipRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003Ea degree in a relevant subject for a degree apprenticeship\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/apprenticeshiprequirement/456c519c-9888-4a42-b959-d6f323d0a041\u0027]"
+    },
+    "ContentItemId": "4qqetrnqr3qw30153zxn039045",
+    "ContentItemVersionId": "4rdzrf9g4n15n1rvhv8393ws4b",
+    "ContentType": "ApprenticeshipRequirement",
+    "DisplayText": "Relevant degree required",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "GCSEs 9-4 E-M no equivs"
+    },
+    "ApprenticeshipRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EGCSEs at grades 9 to 4 (A* to C) in English and maths\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/apprenticeshiprequirement/56fd513e-7bb0-4980-8ce2-86d818b1df33\u0027]"
+    },
+    "ContentItemId": "49yf5nn3bsm3bvvxqjsnam1441",
+    "ContentItemVersionId": "4r8bt4vg3dgs91dqkwt7ydq14x",
+    "ContentType": "ApprenticeshipRequirement",
+    "DisplayText": "GCSEs 9-4 E-M no equivs",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Degree app only"
+    },
+    "ApprenticeshipRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003E4 or 5 GCSEs at grades 9 to 4 (A* to C) and A levels, or equivalent, for a degree apprenticeship\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/apprenticeshiprequirement/d6d416ad-f74e-4116-840e-8f7f3d54c510\u0027]"
+    },
+    "ContentItemId": "4vxd0f67jbrkk7fx4pyvcmyfx5",
+    "ContentItemVersionId": "4epdq3az62x7a440q8940ag8wb",
+    "ContentType": "ApprenticeshipRequirement",
+    "DisplayText": "Degree app only",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "varied entry reqs"
+    },
+    "ApprenticeshipRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003Eentry requirements vary\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/apprenticeshiprequirement/e9f4d3f1-e8fa-4561-b378-dc23c847e57f\u0027]"
+    },
+    "ContentItemId": "48r84bktxa2n448mz08dj64xmg",
+    "ContentItemVersionId": "4wrryx6dq2w0twb3xxptsyttx0",
+    "ContentType": "ApprenticeshipRequirement",
+    "DisplayText": "varied entry reqs",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "5 GCSEs at grades 9 to 4 (A* to C) or equivalent, including English and maths, for an advanced apprenticeship"
+    },
+    "ApprenticeshipRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003E5 GCSEs at grades 9 to 4 (A* to C) or equivalent, including English and maths, for an advanced apprenticeship\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/apprenticeshiprequirement/b163d15a-578d-4a7e-8a66-4da2d53349f4\u0027]"
+    },
+    "ContentItemId": "4rzw3nwacw3rdvvwvd8m18wz5c",
+    "ContentItemVersionId": "4w15bp8cmme7v7dw37p98drc5r",
+    "ContentType": "ApprenticeshipRequirement",
+    "DisplayText": "5 GCSEs at grades 9 to 4 (A* to C) or equivalent, including English and maths, for an advanced apprenticeship",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Previous experience"
+    },
+    "ApprenticeshipRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EExperience in related work may also be accepted\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/apprenticeshiprequirement/0f115864-f78d-4ba1-92a3-a163ca8a76c1\u0027]"
+    },
+    "ContentItemId": "4h9qp53hbj5ar3qgye4qt8a446",
+    "ContentItemVersionId": "4yj0xd7nm0pe0ybxahprhf9dm6",
+    "ContentType": "ApprenticeshipRequirement",
+    "DisplayText": "Previous experience",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Forging Certificate"
+    },
+    "ApprenticeshipRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003ECity and Guilds Forging Certificate\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/apprenticeshiprequirement/588fbc2b-a1d5-4c0f-84e3-2bac10b8d462\u0027]"
+    },
+    "ContentItemId": "4tat1c7f6nykwzcz84vhk7m6mh",
+    "ContentItemVersionId": "43ys5gbhez6j525hbzt09sa4ny",
+    "ContentType": "ApprenticeshipRequirement",
+    "DisplayText": "Forging Certificate",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "5 GCSEs at 9-4 incl E-M"
+    },
+    "ApprenticeshipRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003E5 GCSEs at grades 9 to 4 (A* to C), or equivalent, including English and maths\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/apprenticeshiprequirement/ca0af566-2616-4937-985a-616daf992d6c\u0027]"
+    },
+    "ContentItemId": "40asdd5hgskcnr8r3vhvjff643",
+    "ContentItemVersionId": "4y27ba1q8n8ef02h7vgy9jqnxh",
+    "ContentType": "ApprenticeshipRequirement",
+    "DisplayText": "5 GCSEs at 9-4 incl E-M",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "2-3 A levels incl Bio"
+    },
+    "ApprenticeshipRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003E2 to 3 A levels, or equivalent, preferably including biology, for a degree apprenticeship\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/apprenticeshiprequirement/ab612513-c1ed-4a31-a8d3-ff9d75c8c285\u0027]"
+    },
+    "ContentItemId": "4e7s105evzdsw08kkv2mvgkz4t",
+    "ContentItemVersionId": "4729v7d7xq7s4309wx7jj9tdns",
+    "ContentType": "ApprenticeshipRequirement",
+    "DisplayText": "2-3 A levels incl Bio",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Registered nurse"
+    },
+    "ApprenticeshipRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003Eto be a registered nurse\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/apprenticeshiprequirement/ec87c230-e11d-410a-9d20-e106f7747231\u0027]"
+    },
+    "ContentItemId": "43q1yy110g4skzc05w1ef6npmg",
+    "ContentItemVersionId": "4bwtg09aeh86crvtact4ds3rm1",
+    "ContentType": "ApprenticeshipRequirement",
+    "DisplayText": "Registered nurse",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "3 A levels or equiv"
+    },
+    "ApprenticeshipRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003E3 A levels or equivalent\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/apprenticeshiprequirement/198698cc-f578-4975-a0c7-d59296efbe6a\u0027]"
+    },
+    "ContentItemId": "4ch2cq4kxmkcpr52ah65pb5jcq",
+    "ContentItemVersionId": "485afn5sgata02mt0v9a2p1ewe",
+    "ContentType": "ApprenticeshipRequirement",
+    "DisplayText": "3 A levels or equiv",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Postgrad Teaching Apprenticeship"
+    },
+    "ApprenticeshipRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003Ea degree for a teaching apprenticeship\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/apprenticeshiprequirement/ef2a5dc0-e8f9-4992-b534-c6691ba1337b\u0027]"
+    },
+    "ContentItemId": "4axebe6hm44j1v8da5ch855052",
+    "ContentItemVersionId": "4js7fjsca2zgvv2ftg9wmwecmh",
+    "ContentType": "ApprenticeshipRequirement",
+    "DisplayText": "Postgrad Teaching Apprenticeship",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "2 or more GCSEs incl E-M grades 9-4"
+    },
+    "ApprenticeshipRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003E2 or more GCSEs at grades 9 to 4 (A* to C), or equivalent, including English and maths\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/apprenticeshiprequirement/34ed4bf3-4a4e-49e2-9f97-c014dcd796c9\u0027]"
+    },
+    "ContentItemId": "4vg2k1281mvyc5sk1krnsdnacc",
+    "ContentItemVersionId": "4jyawn4h0t383458v82y11e4nj",
+    "ContentType": "ApprenticeshipRequirement",
+    "DisplayText": "2 or more GCSEs incl E-M grades 9-4",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Intermediate apprenticeship entry reqs"
+    },
+    "ApprenticeshipRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003Esome GCSEs, usually including English and maths, or equivalent, for an intermediate apprenticeship\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/apprenticeshiprequirement/95dcb109-717d-48a0-bf4a-4b14f47ef342\u0027]"
+    },
+    "ContentItemId": "4z6bzswtkgme6x87qwqg2rhrwx",
+    "ContentItemVersionId": "4ewey2w0j7wz670dzg1xxy9ym2",
+    "ContentType": "ApprenticeshipRequirement",
+    "DisplayText": "Intermediate apprenticeship entry reqs",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "2 or more A levels incl M-S"
+    },
+    "ApprenticeshipRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003E2 or more A levels, or equivalent, including maths and science, for a higher or degree apprenticeship\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/apprenticeshiprequirement/88cdde55-c35a-499a-9195-3bd280b4f690\u0027]"
+    },
+    "ContentItemId": "4bxzz3kfgk3c1spt292qsxh5c7",
+    "ContentItemVersionId": "4ddtb3b92x5f9z0avjddm4dan1",
+    "ContentType": "ApprenticeshipRequirement",
+    "DisplayText": "2 or more A levels incl M-S",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Advanced apprenticeship entry reqs"
+    },
+    "ApprenticeshipRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003E5 GCSEs at grades 9 to 4 (A* to C), or equivalent, including English and maths, for an advanced apprenticeship\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/apprenticeshiprequirement/2acda6af-31f7-4f6e-bfe6-a2d3b1d18f7d\u0027]"
+    },
+    "ContentItemId": "4027675bem48vvp512f43tsx5k",
+    "ContentItemVersionId": "4n9sa8eha72mavf0888d4y8n42",
+    "ContentType": "ApprenticeshipRequirement",
+    "DisplayText": "Advanced apprenticeship entry reqs",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-03T21:11:30.0338462Z",
+    "PublishedUtc": "2020-07-03T21:11:30.0338462Z",
+    "CreatedUtc": "2020-07-03T21:11:30.0338462Z",
+    "Owner": "admin",
+    "Author": "admin"
+  }
+      ]
+    }
+  ]
+}
