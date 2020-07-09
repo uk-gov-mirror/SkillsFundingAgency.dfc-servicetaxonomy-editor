@@ -16,7 +16,7 @@ namespace GetJobProfiles.Extensions
 
         public static string Generate(this DefaultIdGenerator gen)
         {
-            return UseTokenisation ? tokenPattern.Replace(tokenIdPart,"${nextId++}") : gen.Generate();
+            return UseTokenisation ? tokenPattern.Replace(tokenIdPart,$"{nextId++}") : gen.Generate();
         }
     }
 }

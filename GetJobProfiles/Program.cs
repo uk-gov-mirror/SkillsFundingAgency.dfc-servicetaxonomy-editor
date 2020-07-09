@@ -140,6 +140,7 @@ namespace GetJobProfiles
 
             string whereClause = "";
             string occupationMatch = "";
+            string prefixToken = "";
             int totalOccupations = 2942;
             int totalOccupationLabels = int.Parse(config["totalOccupationLabels"] ?? "33036");
             int totalSkillLabels = int.Parse(config["totalSkillLabels"] ?? "97816");
@@ -152,15 +153,19 @@ namespace GetJobProfiles
                 totalOccupations = mappedOccupationUris.Count;
                 occupationMatch = " (o:esco__Occupation) --> ";
             }
+            if (createTestFiles)
+            {
+                prefixToken = "'__PREFIX__'+";
+            }
             IDictionary<string, string> tokens = new Dictionary<string, string>
             {
                 {"whereClause", whereClause},
-                {"occupationMatch", occupationMatch }
-
+                {"occupationMatch", occupationMatch },
+                {"prefixToken", prefixToken }
             };
 
             bool excludeGraphContentMutators = bool.Parse(config["ExcludeGraphContentMutators"] ?? "False");
-            if (!(excludeGraphContentMutators || createTestFiles))
+            if (!(excludeGraphContentMutators  )) //|| createTestFiles))
             {
                 await CopyRecipeWithTokenisation(cypherToContentRecipesPath, "CreateOccupationLabelNodes", tokens);
                 await CopyRecipeWithTokenisation(cypherToContentRecipesPath, "CreateOccupationPrefLabelNodes", tokens);
