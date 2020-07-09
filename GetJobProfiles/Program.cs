@@ -7,6 +7,7 @@ using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
 using DFC.ServiceTaxonomy.GraphSync.Recipes.Executors;
+using GetJobProfiles.Extensions;
 using GetJobProfiles.Importers;
 using GetJobProfiles.JsonHelpers;
 using GetJobProfiles.Models.Recipe.ContentItems;
@@ -82,6 +83,7 @@ namespace GetJobProfiles
             string[] oNetCodeList = !createTestFiles ? new string[] { } : config["TestONetCodes"].Split(',');
             string[] apprenticeshipStandardsRefList = !createTestFiles ? new string[] { } : config["TestApprenticeshipStandardReferences"].Split(',');
             string filenamePrefix = createTestFiles ? "TestData_" : "";
+            DefaultIdGeneratorExtensions.UseTokenisation = createTestFiles;
 
             var socCodeConverter = new SocCodeConverter(socCodeList);
             var socCodeDictionary = socCodeConverter.Go(timestamp);
@@ -137,6 +139,7 @@ namespace GetJobProfiles
 
             string whereClause = "";
             string occupationMatch = "";
+            string prefixToken = "";
             int totalOccupations = 2942;
             int totalOccupationLabels = int.Parse(config["totalOccupationLabels"] ?? "33036");
             int totalSkillLabels = int.Parse(config["totalSkillLabels"] ?? "97816");
@@ -149,15 +152,19 @@ namespace GetJobProfiles
                 totalOccupations = mappedOccupationUris.Count;
                 occupationMatch = " (o:esco__Occupation) --> ";
             }
+            if (createTestFiles)
+            {
+                prefixToken = "'__PREFIX__'+";
+            }
             IDictionary<string, string> tokens = new Dictionary<string, string>
             {
                 {"whereClause", whereClause},
-                {"occupationMatch", occupationMatch }
-
+                {"occupationMatch", occupationMatch },
+                {"prefixToken", prefixToken }
             };
 
             bool excludeGraphContentMutators = bool.Parse(config["ExcludeGraphContentMutators"] ?? "False");
-            if (!(excludeGraphContentMutators || createTestFiles))
+            if (!(excludeGraphContentMutators  )) //|| createTestFiles))
             {
                 await CopyRecipeWithTokenisation(cypherCommandRecipesPath, "CreateOccupationLabelNodes", tokens);
                 await CopyRecipeWithTokenisation(cypherCommandRecipesPath, "CreateOccupationPrefLabelNodes", tokens);
