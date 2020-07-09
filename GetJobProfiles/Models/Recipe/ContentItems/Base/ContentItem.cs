@@ -11,8 +11,8 @@ namespace GetJobProfiles.Models.Recipe.ContentItems.Base
 
         public ContentItem(string contentType, string title, string timestamp, string contentItemId = null)
         {
-            ContentItemId = contentItemId ?? _generator.GenerateUniqueId(); //"[js:uuid()]";
-            ContentItemVersionId = _generator.GenerateUniqueId(); //"[js:uuid()]";
+            ContentItemId = contentItemId ?? _generator.Generate(); //"[js:uuid()]";
+            ContentItemVersionId = _generator.Generate(); //"[js:uuid()]";
             ContentType = contentType;
             DisplayText = title;
             Latest = true;

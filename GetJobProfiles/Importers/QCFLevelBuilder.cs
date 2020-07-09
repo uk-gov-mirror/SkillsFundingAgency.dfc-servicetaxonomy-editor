@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using GetJobProfiles.Extensions;
 using GetJobProfiles.Models.Recipe.ContentItems;
 using GetJobProfiles.Models.Recipe.Fields;
 using OrchardCore.Entities;
@@ -34,16 +35,16 @@ namespace GetJobProfiles.Importers
         {
             var dictionary = new Dictionary<string, string>
             {
-                {"0", _generator.GenerateUniqueId()},
-                {"1", _generator.GenerateUniqueId()},
-                {"2", _generator.GenerateUniqueId()},
-                {"3", _generator.GenerateUniqueId()},
-                {"4", _generator.GenerateUniqueId()},
-                {"5", _generator.GenerateUniqueId()},
-                {"6", _generator.GenerateUniqueId()},
-                {"7", _generator.GenerateUniqueId()},
-                {"8", _generator.GenerateUniqueId()},
-                {"99", _generator.GenerateUniqueId()}
+                {"0", _generator.Generate()},
+                {"1", _generator.Generate()},
+                {"2", _generator.Generate()},
+                {"3", _generator.Generate()},
+                {"4", _generator.Generate()},
+                {"5", _generator.Generate()},
+                {"6", _generator.Generate()},
+                {"7", _generator.Generate()},
+                {"8", _generator.Generate()},
+                {"99", _generator.Generate()}
             };
 
             QCFLevelDictionary = dictionary;

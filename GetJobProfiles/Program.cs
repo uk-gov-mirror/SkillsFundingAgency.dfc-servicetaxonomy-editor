@@ -7,6 +7,7 @@ using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
 using DFC.ServiceTaxonomy.GraphSync.Recipes.Executors;
+using GetJobProfiles.Extensions;
 using GetJobProfiles.Importers;
 using GetJobProfiles.JsonHelpers;
 using GetJobProfiles.Models.Recipe.ContentItems;
@@ -82,6 +83,7 @@ namespace GetJobProfiles
             string[] oNetCodeList = !createTestFiles ? new string[] { } : config["TestONetCodes"].Split(',');
             string[] apprenticeshipStandardsRefList = !createTestFiles ? new string[] { } : config["TestApprenticeshipStandardReferences"].Split(',');
             string filenamePrefix = createTestFiles ? "TestData_" : "";
+            DefaultIdGeneratorExtensions.UseTokenisation = createTestFiles;
 
             var socCodeConverter = new SocCodeConverter(socCodeList);
             var socCodeDictionary = socCodeConverter.Go(timestamp);

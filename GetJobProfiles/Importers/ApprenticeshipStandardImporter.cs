@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
+using GetJobProfiles.Extensions;
 using GetJobProfiles.Models.API;
 using GetJobProfiles.Models.Recipe.ContentItems;
 using GetJobProfiles.Models.Recipe.Fields;
@@ -40,8 +41,8 @@ namespace GetJobProfiles.Importers
             BuildReplacementsDictionary();
             var apprenticeshipStandards = ReadStandardsFromFile(jobProfileWorkbook);
 
-            var routeDictionary = apprenticeshipStandards.Where(x => x.Route != null).SelectMany(x => x.Route).Distinct().Select(x => new { Id = _generator.GenerateUniqueId(), Title = x }).ToDictionary(y => y.Title, y => y.Id);
-            _standardsDictionary = apprenticeshipStandards.Select(standard => new { Id = _generator.GenerateUniqueId(), Title = standard.Name }).ToDictionary(y => y.Title, y => y.Id);
+            var routeDictionary = apprenticeshipStandards.Where(x => x.Route != null).SelectMany(x => x.Route).Distinct().Select(x => new { Id = _generator.Generate(), Title = x }).ToDictionary(y => y.Title, y => y.Id);
+            _standardsDictionary = apprenticeshipStandards.Select(standard => new { Id = _generator.Generate(), Title = standard.Name }).ToDictionary(y => y.Title, y => y.Id);
 
             ApprenticeshipStandardRouteContentItems = apprenticeshipStandards.Where(x => x.Route != null).SelectMany(x => x.Route).Distinct().Select(route => new ApprenticeshipStandardRouteContentItem(route, timestamp, routeDictionary[route]));
             ApprenticeshipStandardContentItems = apprenticeshipStandards.Select(standard => new ApprenticeshipStandardContentItem(standard.Name, timestamp, _standardsDictionary[standard.Name])
