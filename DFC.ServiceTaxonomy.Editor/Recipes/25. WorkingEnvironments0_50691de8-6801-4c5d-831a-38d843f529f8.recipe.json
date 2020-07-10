@@ -1,0 +1,42 @@
+{
+  "name": "WorkingEnvironments0_50691de8-6801-4c5d-831a-38d843f529f8",
+  "displayName": "WorkingEnvironments0_50691de8-6801-4c5d-831a-38d843f529f8",
+  "description": "",
+  "author": "",
+  "website": "",
+  "version": "",
+  "issetuprecipe": false,
+  "categories": "",
+  "tags": [],
+  "steps": [
+    {
+      "name": "ContentNoCache",
+      "data": [
+  {
+    "TitlePart": {
+      "Title": "physically and emotionally demanding and you may spend nights away from home"
+    },
+    "WorkingEnvironment": {
+      "Description": {
+        "Html": "\u003Cp\u003Ephysically and emotionally demanding and you may spend nights away from home\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/workingenvironment/801f9f4e-a43a-4d0c-91b6-6982029ed0f7\u0027]"
+    },
+    "ContentItemId": "49zvfh4ey09h8xadfn3fxg7kd0",
+    "ContentItemVersionId": "44e5k9jw7rk5j3p6n42nyjrzm1",
+    "ContentType": "WorkingEnvironment",
+    "DisplayText": "physically and emotionally demanding and you may spend nights away from home",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-09T17:45:49.2613932Z",
+    "PublishedUtc": "2020-07-09T17:45:49.2613932Z",
+    "CreatedUtc": "2020-07-09T17:45:49.2613932Z",
+    "Owner": "admin",
+    "Author": "admin"
+  }
+      ]
+    }
+  ]
+}

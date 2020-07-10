@@ -1,0 +1,19 @@
+{
+    "name": "CreateOccupationLabelNodes_50691de8-6801-4c5d-831a-38d843f529f8",
+    "displayName": "CreateOccupationLabelNodes_50691de8-6801-4c5d-831a-38d843f529f8",
+    "description": "",
+    "author": "",
+    "website": "",
+    "version": "",
+    "issetuprecipe": false,
+    "categories": "",
+    "tags": [],
+    "steps": [
+        {
+            "name": "CypherCommand",
+            "commands": [
+                "match (o:esco__Occupation)\r\nwhere o.uri in ['http://data.europa.eu/esco/occupation/26171f39-e85a-448f-bd28-a73a5a99927f']\r\nunwind o.skos__altLabel as altLabels\r\ncreate (al:OccupationLabel:Resource {skos__prefLabel: altLabels, uri: \"<<ContentApiPrefix>>/occupationlabel/\" + apoc.create.uuid()})\r\ncreate (o)-[:hasAltLabel]->(al)"
+            ]
+        }
+    ]
+}

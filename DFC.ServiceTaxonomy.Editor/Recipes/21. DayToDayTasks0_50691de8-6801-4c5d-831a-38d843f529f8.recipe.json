@@ -1,0 +1,162 @@
+{
+  "name": "DayToDayTasks0_50691de8-6801-4c5d-831a-38d843f529f8",
+  "displayName": "DayToDayTasks0_50691de8-6801-4c5d-831a-38d843f529f8",
+  "description": "",
+  "author": "",
+  "website": "",
+  "version": "",
+  "issetuprecipe": false,
+  "categories": "",
+  "tags": [],
+  "steps": [
+    {
+      "name": "ContentNoCache",
+      "data": [
+  {
+    "TitlePart": {
+      "Title": "attending fittings for costumes"
+    },
+    "DayToDayTask": {
+      "Description": {
+        "Html": "\u003Cp\u003Eattending fittings for costumes\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/daytodaytask/b6fb3c98-5912-4209-a023-cc4d914c6654\u0027]"
+    },
+    "ContentItemId": "4829sqjmw5fjrr8zeaqmncgp57",
+    "ContentItemVersionId": "4c333w3ysy5d20531te0mnkcmf",
+    "ContentType": "DayToDayTask",
+    "DisplayText": "attending fittings for costumes",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-09T17:45:49.2613932Z",
+    "PublishedUtc": "2020-07-09T17:45:49.2613932Z",
+    "CreatedUtc": "2020-07-09T17:45:49.2613932Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "learning your lines"
+    },
+    "DayToDayTask": {
+      "Description": {
+        "Html": "\u003Cp\u003Elearning your lines\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/daytodaytask/e06864aa-38a9-4c24-8392-e3a4ff889c46\u0027]"
+    },
+    "ContentItemId": "47c3hy8c8jmnw6pj1gjktbx6cq",
+    "ContentItemVersionId": "4206bfgh3qe0b7dgh3t3rp39me",
+    "ContentType": "DayToDayTask",
+    "DisplayText": "learning your lines",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-09T17:45:49.2613932Z",
+    "PublishedUtc": "2020-07-09T17:45:49.2613932Z",
+    "CreatedUtc": "2020-07-09T17:45:49.2613932Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "rehearsing"
+    },
+    "DayToDayTask": {
+      "Description": {
+        "Html": "\u003Cp\u003Erehearsing\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/daytodaytask/d115019b-15c1-4c0d-9498-4e7bc85893a9\u0027]"
+    },
+    "ContentItemId": "413syxj9ypfj9xfqnas64j435r",
+    "ContentItemVersionId": "4myftseggtfrc0zqtejv9q00w1",
+    "ContentType": "DayToDayTask",
+    "DisplayText": "rehearsing",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-09T17:45:49.2613932Z",
+    "PublishedUtc": "2020-07-09T17:45:49.2613932Z",
+    "CreatedUtc": "2020-07-09T17:45:49.2613932Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "researching your role"
+    },
+    "DayToDayTask": {
+      "Description": {
+        "Html": "\u003Cp\u003Eresearching your role\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/daytodaytask/60a29f8b-777f-488f-a1d7-1d9a7d803f66\u0027]"
+    },
+    "ContentItemId": "4h965agr6jvd4t16h78szdp0da",
+    "ContentItemVersionId": "4j6s29ssx6ks16fyk7gnejf2ma",
+    "ContentType": "DayToDayTask",
+    "DisplayText": "researching your role",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-09T17:45:49.2613932Z",
+    "PublishedUtc": "2020-07-09T17:45:49.2613932Z",
+    "CreatedUtc": "2020-07-09T17:45:49.2613932Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "contacting actors\u2019 agents and finding the next job"
+    },
+    "DayToDayTask": {
+      "Description": {
+        "Html": "\u003Cp\u003Econtacting actors\u2019 agents and finding the next job\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/daytodaytask/6dc8c956-cccb-44c9-a7f3-f0d270a8c9cc\u0027]"
+    },
+    "ContentItemId": "42ng8aprtrakgrnd3svrh894nf",
+    "ContentItemVersionId": "4w5gs8wfjx1tevabnprm5mh55c",
+    "ContentType": "DayToDayTask",
+    "DisplayText": "contacting actors\u2019 agents and finding the next job",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-09T17:45:49.2613932Z",
+    "PublishedUtc": "2020-07-09T17:45:49.2613932Z",
+    "CreatedUtc": "2020-07-09T17:45:49.2613932Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "preparing for and going to auditions"
+    },
+    "DayToDayTask": {
+      "Description": {
+        "Html": "\u003Cp\u003Epreparing for and going to auditions\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/daytodaytask/62605e05-ca22-4e06-b502-edb76d7dd3e8\u0027]"
+    },
+    "ContentItemId": "4xfw91zgm45kh2t00gvxcb9rck",
+    "ContentItemVersionId": "49rhepvawr877z91j7gf8hc34m",
+    "ContentType": "DayToDayTask",
+    "DisplayText": "preparing for and going to auditions",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-09T17:45:49.2613932Z",
+    "PublishedUtc": "2020-07-09T17:45:49.2613932Z",
+    "CreatedUtc": "2020-07-09T17:45:49.2613932Z",
+    "Owner": "admin",
+    "Author": "admin"
+  }
+      ]
+    }
+  ]
+}

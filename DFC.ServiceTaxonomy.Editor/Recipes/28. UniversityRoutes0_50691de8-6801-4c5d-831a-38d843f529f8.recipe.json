@@ -1,0 +1,66 @@
+{
+  "name": "UniversityRoutes0_50691de8-6801-4c5d-831a-38d843f529f8",
+  "displayName": "UniversityRoutes0_50691de8-6801-4c5d-831a-38d843f529f8",
+  "description": "",
+  "author": "",
+  "website": "",
+  "version": "",
+  "issetuprecipe": false,
+  "categories": "",
+  "tags": [],
+  "steps": [
+    {
+      "name": "ContentNoCache",
+      "data": [
+  {
+    "TitlePart": {
+      "Title": "Actor"
+    },
+    "UniversityRoute": {
+      "RelevantSubjects": {
+        "Html": "\u003Cp\u003EYou could do a foundation degree, degree or postgraduate diploma in drama, or other relevant subject like:\u003Cul\u003E\u003Cli\u003Eperformance studies\u003C/li\u003E\u003Cli\u003Econtemporary theatre and performance\u003C/li\u003E\u003Cli\u003Eacting\u003C/li\u003E\u003Cli\u003Emusical theatre\u003C/li\u003E\u003C/ul\u003E\u003C/p\u003E"
+      },
+      "FurtherInfo": {
+        "Html": ""
+      },
+      "RequirementsPrefix": {
+        "ContentItemIds": [
+          "44m8bjf4sqfxmws4wwp7qtz8cx"
+        ]
+      },
+      "Requirements": {
+        "ContentItemIds": [
+          "44v253tdgq280wzhpmy1be7p5w",
+          "4eb1jgrzyms0zzyyahe4xp5tmg",
+          "4yqh9wcs3sv5s5gfsr25rvdexj",
+          "4c0v4ht7xthmh11d3ewsa0yedk"
+        ]
+      },
+      "Links": {
+        "ContentItemIds": [
+          "4s7nxgzrjaqny4by2rqm151qcm",
+          "41pdba0pw7zkq58fjgc2sxhhw4",
+          "4cx1ag8c5dvzysa04jt7269nwg",
+          "47s87bz3jasx1tm0dd5bmv6vc6"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/universityroute/cfb8b27b-20ee-449e-9627-c788d2ffd2a5\u0027]"
+    },
+    "ContentItemId": "4b1r01xg5ahnn3dmxbn8h6rqwx",
+    "ContentItemVersionId": "4fy4ehtf11nw9wsgzt3kty1fcf",
+    "ContentType": "UniversityRoute",
+    "DisplayText": "Actor",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-09T17:45:49.2613932Z",
+    "PublishedUtc": "2020-07-09T17:45:49.2613932Z",
+    "CreatedUtc": "2020-07-09T17:45:49.2613932Z",
+    "Owner": "admin",
+    "Author": "admin"
+  }
+      ]
+    }
+  ]
+}

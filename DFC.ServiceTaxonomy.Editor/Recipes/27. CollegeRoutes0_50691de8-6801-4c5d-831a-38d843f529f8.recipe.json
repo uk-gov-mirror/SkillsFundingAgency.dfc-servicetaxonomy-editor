@@ -1,0 +1,64 @@
+{
+  "name": "CollegeRoutes0_50691de8-6801-4c5d-831a-38d843f529f8",
+  "displayName": "CollegeRoutes0_50691de8-6801-4c5d-831a-38d843f529f8",
+  "description": "",
+  "author": "",
+  "website": "",
+  "version": "",
+  "issetuprecipe": false,
+  "categories": "",
+  "tags": [],
+  "steps": [
+    {
+      "name": "ContentNoCache",
+      "data": [
+  {
+    "TitlePart": {
+      "Title": "Actor"
+    },
+    "CollegeRoute": {
+      "RelevantSubjects": {
+        "Html": "\u003Cp\u003EThere is no set entry route to become an actor but it may be useful to do a relevant subject like:\u003Cul\u003E\u003Cli\u003ELevel 2 Technical Certificate in Performing Arts\u003C/li\u003E\u003Cli\u003ELevel 3 Extended Diploma in Performing Arts - Acting\u003C/li\u003E\u003Cli\u003EA level in Drama and Theatre\u003C/li\u003E\u003Cli\u003ELevel 4 Diploma in Speech and Drama\u003C/li\u003E\u003C/ul\u003E\u003C/p\u003E"
+      },
+      "FurtherInfo": {
+        "Html": ""
+      },
+      "RequirementsPrefix": {
+        "ContentItemIds": [
+          "44m8bjf4sqfxmws4wwp7qtz8cx"
+        ]
+      },
+      "Requirements": {
+        "ContentItemIds": [
+          "47gy76earqdzx1brw6m9k22d5b",
+          "432mjpqcpdqd0yyfcekp2wd04x",
+          "4sh7j8nmrdy6039n3w3zc648xn"
+        ]
+      },
+      "Links": {
+        "ContentItemIds": [
+          "492qrzkh07632w4ngh2r9k8pda",
+          "4b922r6bpexcf3ep04vgzt0gc6",
+          "43s6g80snsd6hxnthptc0k7mdp"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "[js:configuration(\u0027ContentApiPrefix\u0027).toLowerCase() \u002B \u0027/collegeroute/d365ecae-b866-464c-9d64-390d2e6d3b73\u0027]"
+    },
+    "ContentItemId": "4ynehfxjx4ms2v7xc0vyfa8ec9",
+    "ContentItemVersionId": "4kd5mg5pe4r79zdfpv5pgncfwc",
+    "ContentType": "CollegeRoute",
+    "DisplayText": "Actor",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-07-09T17:45:49.2613932Z",
+    "PublishedUtc": "2020-07-09T17:45:49.2613932Z",
+    "CreatedUtc": "2020-07-09T17:45:49.2613932Z",
+    "Owner": "admin",
+    "Author": "admin"
+  }
+      ]
+    }
+  ]
+}
