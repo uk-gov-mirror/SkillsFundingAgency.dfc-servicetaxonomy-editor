@@ -120,41 +120,8 @@ stages:
               nuGetFeedType: external
               publishFeedCredentials: 'DFC Nuget'
 
-- stage: DeployToDev
-  condition: and(eq(dependencies.Build.result,'Succeeded'), ne(variables['Build.Reason'], 'PullRequest'))
-  displayName: Deploy to DEV_SERVICETAXONOMY
-  variables:
-  - group: dfc-shared-all
-  - group: dfc-stax-shared-all
-  - group: dfc-shared-dev
-  - group: dfc-app-shared-dev
-  - group: dfc-stax-shared-dev
-  - group: 'KeyVault - dfc-dev-shared-kv'
-  - template: VariableTemplates/SharedEnvironmentVariables.yml
-  - template: VariableTemplates/DevEnvironmentVariables.yml
-  jobs:
-  - template: JobTemplates/deploy-environment.yml
-    parameters:
-      AzureSubscription: 'SFA-CDH-Dev/Test (962cae10-2950-412a-93e3-d8ae92b17896)'
-      Environment: DEV_SERVICETAXONOMY
-      PackageFile:  "$(Agent.BuildDirectory)/DFC.ServiceTaxonomy.Editor/DeploymentPackages/DFC.ServiceTaxonomy.Editor.zip"
-      ArmTemplateFolder: "$(Agent.BuildDirectory)/DFC.ServiceTaxonomy.Editor/Azure/ArmTemplates/"
-      Location: 'West Europe'
-      EnvironmentTag: '$(EnvironmentTag)'
-      ParentBusinessTag: '$(ParentBusiness)'
-      ServiceOfferingTag: '$(ServiceOffering)'
-      ResourceGroup: '$(ResourceGroup)'
-      WebAppName: '$(WebAppName)'
-      OrchardCoreUri: 'https://$(WebAppName).azurewebsites.net/'
-      EditorAdminUsername: $(OrchardEditorAdminUserName)
-      EditorAdminUserEmail: $(EditorAdminUserEmail)
-      EditorAdminUserPassword: $(OrchardEditorAdminPassword)
-      DFCAzureDevOpsProjectGuid: $(DFCAzureDevOpsProjectGuid)
-      DfcServiceTaxonomyTestsBuildId: $(DfcServiceTaxonomyTestsBuildId)
-      TestArtifactBranch: ${{ parameters.DfcServiceTaxonomyTestBranch }}
-
 - stage: DeployToSit
-  condition: and(eq(dependencies.DeployToDev.result,'Succeeded'), ne(variables['Build.Reason'], 'PullRequest'))
+  condition: and(eq(dependencies.Build.result,'Succeeded'), ne(variables['Build.Reason'], 'PullRequest'))
   displayName: Deploy to SIT_SERVICETAXONOMY
   variables:
   - group: dfc-shared-all
