@@ -21,4 +21,5 @@ Add this config...
 
 ## Use
 
+
 Inject `IEventGridContentClient` into the class you want to publish messages from and call `Publish()` on the client.
