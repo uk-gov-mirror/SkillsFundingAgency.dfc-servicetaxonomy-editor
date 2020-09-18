@@ -15,5 +15,5 @@ variables:
   value: true
 - name: EventGridTopicSku
   value: basic
-  name: EventTestsEnabled
+- name: EventTestsEnabled
   value: false
