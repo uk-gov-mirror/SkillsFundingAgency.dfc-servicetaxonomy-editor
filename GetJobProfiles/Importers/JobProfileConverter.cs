@@ -228,7 +228,8 @@ namespace GetJobProfiles.Importers
                     WitDigitalSkillsLevel = new HtmlField(jobProfile.WhatItTakes.DigitalSkillsLevel),
                     WitRestrictions = Restrictions.CreateContentPicker(jobProfile.WhatItTakes.RestrictionsAndRequirements.RelatedRestrictions),
                     WitOtherRequirements = OtherRequirements.CreateContentPicker(jobProfile.WhatItTakes.RestrictionsAndRequirements.OtherRequirements),
-                    PersonalitySkills = PersonalitySkills.CreateContentPickerFromContent("PersonalitySkill", _dysacSkillSocLookup[jobProfile.Soc])
+                    //PersonalitySkills = PersonalitySkills.CreateContentPickerFromContent("PersonalitySkill", _dysacSkillSocLookup[jobProfile.Soc])
+                    PersonalitySkills = _dysacSkillSocLookup.ContainsKey(jobProfile.Soc) ? PersonalitySkills.CreateContentPickerFromContent("PersonalitySkill", _dysacSkillSocLookup[jobProfile.Soc]) : new ContentPicker()
                 },
                 WhatYouWillDo = new WhatYouWillDoPart
                 {
