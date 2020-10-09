@@ -7,7 +7,6 @@ variables:
   SolutionBaseName: 'DFC.ServiceTaxonomy' 
   EditorAdminUserEmail: 'careersdevops@education.gov.uk' 
 
-name: $(BuildDefinitionName)-$(Rev:.r)
 resources:
   repositories:
   - repository: self
