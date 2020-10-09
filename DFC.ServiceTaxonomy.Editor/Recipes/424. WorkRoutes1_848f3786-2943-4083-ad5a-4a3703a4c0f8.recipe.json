@@ -1,0 +1,138 @@
+{
+  "name": "WorkRoutes1_848f3786-2943-4083-ad5a-4a3703a4c0f8",
+  "displayName": "WorkRoutes1_848f3786-2943-4083-ad5a-4a3703a4c0f8",
+  "description": "",
+  "author": "",
+  "website": "",
+  "version": "",
+  "issetuprecipe": false,
+  "categories": "",
+  "tags": [],
+  "steps": [
+    {
+      "name": "ContentNoCache",
+      "data": [
+  {
+    "TitlePart": {
+      "Title": "Scaffolder"
+    },
+    "WorkRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou could join a company as a trainee scaffolder or scaffolding labourer, and get qualifications on the job. Employers would look for a good general standard of education. GCSEs in maths, English, and design and technology could be useful, although not always essential.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/workroute/98d13a39-5f37-4476-b122-d0090b9c2781"
+    },
+    "ContentItemId": "406g8mtjwdq87wmsa3mq1sf0nq",
+    "ContentItemVersionId": "40grqfkg8nmqn0h3tpkdsdy0w6",
+    "ContentType": "WorkRoute",
+    "DisplayText": "Scaffolder",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-09T14:01:39.7423201Z",
+    "PublishedUtc": "2020-10-09T14:01:39.7423201Z",
+    "CreatedUtc": "2020-10-09T14:01:39.7423201Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Chemist"
+    },
+    "WorkRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou could start your career as a laboratory technician and train as a chemist while working by doing a relevant qualification.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/workroute/7a39e6df-ecee-4497-9fef-760c1ed1fe51"
+    },
+    "ContentItemId": "4ydf9khj5ht5a1qwjhcw8z8qx0",
+    "ContentItemVersionId": "4b9yjaebw4qfmvqds751z0g6nz",
+    "ContentType": "WorkRoute",
+    "DisplayText": "Chemist",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-09T14:01:39.7423201Z",
+    "PublishedUtc": "2020-10-09T14:01:39.7423201Z",
+    "CreatedUtc": "2020-10-09T14:01:39.7423201Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Security manager"
+    },
+    "WorkRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou can start as a security officer and become a team supervisor. You can then move into security management through on-the-job training and promotion.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/workroute/91ac68b1-cd1e-4e77-be1f-ba0599b62c2c"
+    },
+    "ContentItemId": "4b2pjdasgbfhg71efa86hk4aw1",
+    "ContentItemVersionId": "49q1hktts07s2yae8f2nvt1txb",
+    "ContentType": "WorkRoute",
+    "DisplayText": "Security manager",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-09T14:01:39.7423201Z",
+    "PublishedUtc": "2020-10-09T14:01:39.7423201Z",
+    "CreatedUtc": "2020-10-09T14:01:39.7423201Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Bookkeeper"
+    },
+    "WorkRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EYou could start as an admin assistant with a company, for example on a part-time or temporary contract in an accounts department. You could then take a relevant qualification to become a bookkeeper.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/workroute/5d3a35ee-a203-43cf-a0bf-62190a9ead45"
+    },
+    "ContentItemId": "4gmaj7177pbnm30scf8sg5wzw1",
+    "ContentItemVersionId": "4e0dmttec0dktytn93t0vx2nww",
+    "ContentType": "WorkRoute",
+    "DisplayText": "Bookkeeper",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-09T14:01:39.7423201Z",
+    "PublishedUtc": "2020-10-09T14:01:39.7423201Z",
+    "CreatedUtc": "2020-10-09T14:01:39.7423201Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Cellar technician"
+    },
+    "WorkRoute": {
+      "Description": {
+        "Html": "\u003Cp\u003EIt may be possible to get into this job by working behind a bar and in a bar cellar.\u003C/p\u003E\u003Cp\u003EOnce you\u0027re working, your employer may give you the chance to take a cellar management course.\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/workroute/8b1e6c7c-5f30-41e3-8ff7-9389754e6372"
+    },
+    "ContentItemId": "44x00m169rwxkyzdwnbqa3d545",
+    "ContentItemVersionId": "4h128g9t9w7brz4n3m23x6erw9",
+    "ContentType": "WorkRoute",
+    "DisplayText": "Cellar technician",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-09T14:01:39.7423201Z",
+    "PublishedUtc": "2020-10-09T14:01:39.7423201Z",
+    "CreatedUtc": "2020-10-09T14:01:39.7423201Z",
+    "Owner": "admin",
+    "Author": "admin"
+  }
+      ]
+    }
+  ]
+}

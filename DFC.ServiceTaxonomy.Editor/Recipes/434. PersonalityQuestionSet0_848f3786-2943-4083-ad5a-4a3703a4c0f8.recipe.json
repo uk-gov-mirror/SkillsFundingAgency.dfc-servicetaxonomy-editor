@@ -1,0 +1,86 @@
+{
+  "name": "PersonalityQuestionSet0_848f3786-2943-4083-ad5a-4a3703a4c0f8",
+  "displayName": "PersonalityQuestionSet0_848f3786-2943-4083-ad5a-4a3703a4c0f8",
+  "description": "",
+  "author": "",
+  "website": "",
+  "version": "",
+  "issetuprecipe": false,
+  "categories": "",
+  "tags": [],
+  "steps": [
+    {
+      "name": "ContentNoCache",
+      "data": [
+  {
+    "TitlePart": {
+      "Title": "Short Question Set"
+    },
+    "PersonalityQuestionSet": {
+      "Type": {
+        "Text": "short"
+      },
+      "Questions": {
+        "ContentItemIds": [
+          "4b5mk761s9waezzk1thpfqdrmd",
+          "4m287mrzd5mbbv231s00kj22mk",
+          "48m4npg0vnh980qvp5471vzbmh",
+          "4abtjtxr9rn6h6f26201nk69wb",
+          "4w7rg10sesyft6c8r2dcw7qwxm",
+          "41pjapccf6dpr67r5wkaxbwvdx",
+          "47cbmdyq5mbmh73radg09kkfwe",
+          "4kpt059sr282jtb7w6e7twbdcj",
+          "42r9t6rpy92wbx2xvq3621crcw",
+          "4pmstbr0a7rhw5bfmt1ejwxj4j",
+          "4t5095hykxq1dz74srf4gyvtxh",
+          "4dgh2wgc2ynapwsbmgs97y51cb",
+          "48fpf1deavpxn7thdg2hvs6pny",
+          "4yz8mjh0cqym17825cqx77epdt",
+          "4q42swv24hvz8z8qy98ps1wf42",
+          "4kd9swdp8wdey4e7j8x36rye4c",
+          "4q5m6gsh6q4w075pk1hksdd7x1",
+          "4azezn4qmve6zskj5as0nvt0cp",
+          "4stm41f9brczftmrg7rs6jc3n9",
+          "4mkxry14sqka6xtce88w1qmf4v",
+          "4a907gq62fxx5w3b8xhpz31kdm",
+          "4zb7dpdmgh575wawzp6fft07d1",
+          "497amkzbzaqbrte1zc7accymnm",
+          "4kn3f5byg31qqvw9vdstd7mb54",
+          "4eg48576saw19rsepeqr1e06wg",
+          "4khph9dbwy0690xkxsfzhg4bwy",
+          "4xx8tag3s9c4qxxtg6jyawvvc9",
+          "4cvzc2xw15rgx7ms8339epezwn",
+          "4j5qpey7eht0316819k8v9m7xb",
+          "4hmds8ah3833v3r6sw587d6ywv",
+          "44jj012n52hqs41ymf1p9hkf40",
+          "4j013k8j3kvxnv1qn4pjdqamwe",
+          "4g61wdbaafcvb56tk2qxth5ecg",
+          "4b1hnjsc94meqz9dc21g0e4zx6",
+          "45cza2j3cke7vr0mac7c9zsndt",
+          "460pnezswwcbb6m4pxp89cwhcf",
+          "4f34k0ya8bbfwygc9w7p60c1dn",
+          "42g8589mehdz74am5nxr5dvfnk",
+          "4aj2f9pt14btjy2qrcb14ma1cg",
+          "4072nf58mvrkx1595smf40c2xq"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityquestionset/8d1f1225-c967-4e8f-b7e3-c4c7e89a5ea9"
+    },
+    "ContentItemId": "4yw31k995b1edxkkjvbgr21n5x",
+    "ContentItemVersionId": "400cq52sp5c5d6bw26g68e9hn4",
+    "ContentType": "PersonalityQuestionSet",
+    "DisplayText": "Short Question Set",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-09T14:01:39.7423201Z",
+    "PublishedUtc": "2020-10-09T14:01:39.7423201Z",
+    "CreatedUtc": "2020-10-09T14:01:39.7423201Z",
+    "Owner": "admin",
+    "Author": "admin"
+  }
+      ]
+    }
+  ]
+}
