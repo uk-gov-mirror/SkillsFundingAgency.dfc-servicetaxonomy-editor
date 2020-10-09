@@ -7,6 +7,7 @@ variables:
   SolutionBaseName: 'DFC.ServiceTaxonomy' 
   EditorAdminUserEmail: 'careersdevops@education.gov.uk' 
 
+name: $(BuildDefinitionName)-$(Rev:.r)
 resources:
   repositories:
   - repository: self
@@ -84,7 +85,7 @@ stages:
         configuration: Release
         packDirectory: '$(build.artifactstagingdirectory)\DeploymentPackages\Nuget'
         versioningScheme: byEnvVar
-        versionEnvVar: Build.BuildNumber
+        versionEnvVar: $(Build.BuildNumber)
 
     - task: DotNetCoreCLI@2
       displayName: 'dotnet pack - Events'
@@ -94,7 +95,7 @@ stages:
         configuration: Release
         packDirectory: '$(build.artifactstagingdirectory)\DeploymentPackages\Nuget'
         versioningScheme: byEnvVar
-        versionEnvVar: Build.BuildNumber
+        versionEnvVar: $(Build.BuildNumber)
 
     - task: PublishPipelineArtifact@1
       inputs:
