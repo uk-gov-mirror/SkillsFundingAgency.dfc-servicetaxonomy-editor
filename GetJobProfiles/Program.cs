@@ -101,10 +101,10 @@ namespace GetJobProfiles
             // max number of contentitems in an import recipe
             const int batchSize = 400;
             const int jobProfileBatchSize = 200;
-            const int occupationLabelsBatchSize = 400;
-            const int occupationsBatchSize = 400;
-            const int skillBatchSize = 400;
-            const int skillLabelsBatchSize = 400;
+            const int occupationLabelsBatchSize = 50;
+            const int occupationsBatchSize = 50;
+            const int skillBatchSize = 50;
+            const int skillLabelsBatchSize = 50;
 
             var httpClient = new HttpClient
             {
