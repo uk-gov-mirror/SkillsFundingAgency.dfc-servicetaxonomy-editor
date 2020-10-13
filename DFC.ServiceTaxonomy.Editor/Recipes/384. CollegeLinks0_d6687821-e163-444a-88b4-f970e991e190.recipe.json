@@ -1,0 +1,168 @@
+{
+  "name": "CollegeLinks0_d6687821-e163-444a-88b4-f970e991e190",
+  "displayName": "CollegeLinks0_d6687821-e163-444a-88b4-f970e991e190",
+  "description": "",
+  "author": "",
+  "website": "",
+  "version": "",
+  "issetuprecipe": false,
+  "categories": "",
+  "tags": [],
+  "steps": [
+    {
+      "name": "ContentNoCache",
+      "data": [
+  {
+    "CollegeLink": {
+      "Link": {
+        "Url": "https://www.gov.uk/further-education-courses/financial-help",
+        "Text": "funding advice"
+      }
+    },
+    "TitlePart": {
+      "Title": "Financial Help FE"
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/collegelink/06e9168b-2475-4467-909e-5852b628037a"
+    },
+    "ContentItemId": "49hw9r6rsyj341sksf1vta7ncv",
+    "ContentItemVersionId": "4x3hqxzgaqx5crys5tgh84s55f",
+    "ContentType": "CollegeLink",
+    "DisplayText": "Financial Help FE",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T18:37:20.9871413Z",
+    "PublishedUtc": "2020-10-13T18:37:20.9871413Z",
+    "CreatedUtc": "2020-10-13T18:37:20.9871413Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "CollegeLink": {
+      "Link": {
+        "Url": "https://www.gov.uk/what-different-qualification-levels-mean/list-of-qualification-levels",
+        "Text": "equivalent entry requirements"
+      }
+    },
+    "TitlePart": {
+      "Title": "Show Equiv Entry Reqs"
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/collegelink/d37fa9b1-b037-4c84-aa3a-771f32fcebb2"
+    },
+    "ContentItemId": "48gtsm39ja6a274c0bqcbc4xdb",
+    "ContentItemVersionId": "4a3rtcs8n4rx3tdm9zn42fw555",
+    "ContentType": "CollegeLink",
+    "DisplayText": "Show Equiv Entry Reqs",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T18:37:20.9871413Z",
+    "PublishedUtc": "2020-10-13T18:37:20.9871413Z",
+    "CreatedUtc": "2020-10-13T18:37:20.9871413Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "CollegeLink": {
+      "Link": {
+        "Url": "/find-a-course",
+        "Text": "search for courses"
+      }
+    },
+    "TitlePart": {
+      "Title": "Find a course"
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/collegelink/e212851b-2069-4dcb-a607-06fd374a08d9"
+    },
+    "ContentItemId": "4zb4kcm7wz5pn59ga92qqsraw7",
+    "ContentItemVersionId": "4fhzqjew9nhezrxp1sq0h782nr",
+    "ContentType": "CollegeLink",
+    "DisplayText": "Find a course",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T18:37:20.9871413Z",
+    "PublishedUtc": "2020-10-13T18:37:20.9871413Z",
+    "CreatedUtc": "2020-10-13T18:37:20.9871413Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "CollegeLink": {
+      "Link": {
+        "Url": "https://www.tlevels.gov.uk/",
+        "Text": "guide to T levels"
+      }
+    },
+    "TitlePart": {
+      "Title": "Guide to T levels"
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/collegelink/6c3cfb47-edbf-489f-bb95-c51e4a861ae8"
+    },
+    "ContentItemId": "4308jwyfhmskb73znr07jdj6wy",
+    "ContentItemVersionId": "4v0bpmydq1krassgdjmy4jrtx2",
+    "ContentType": "CollegeLink",
+    "DisplayText": "Guide to T levels",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T18:37:20.9871413Z",
+    "PublishedUtc": "2020-10-13T18:37:20.9871413Z",
+    "CreatedUtc": "2020-10-13T18:37:20.9871413Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "CollegeLink": {
+      "Link": {
+        "Url": "https://nlbc.uk/partners/members/",
+        "Text": "search for agricultural colleges"
+      }
+    },
+    "TitlePart": {
+      "Title": "NLBC agri colleges"
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/collegelink/1450b88f-3412-40a4-a1c2-44037d0a64e1"
+    },
+    "ContentItemId": "4ns549ze0c5dcxf3thfqjghc4m",
+    "ContentItemVersionId": "409pwfn92s7hjv24smvexcrwxy",
+    "ContentType": "CollegeLink",
+    "DisplayText": "NLBC agri colleges",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T18:37:20.9871413Z",
+    "PublishedUtc": "2020-10-13T18:37:20.9871413Z",
+    "CreatedUtc": "2020-10-13T18:37:20.9871413Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "CollegeLink": {
+      "Link": {
+        "Url": "https://www.gov.uk/student-finance",
+        "Text": "funding advice for higher education courses in college"
+      }
+    },
+    "TitlePart": {
+      "Title": "Financial help for HNC-HND-FD "
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/collegelink/5006554e-a23a-467c-859c-bcaaf98890ec"
+    },
+    "ContentItemId": "4qgh1xv6qn79v4jzkjedsqggnz",
+    "ContentItemVersionId": "46qvcs7zxgqyjramndt7sa23mp",
+    "ContentType": "CollegeLink",
+    "DisplayText": "Financial help for HNC-HND-FD ",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T18:37:20.9871413Z",
+    "PublishedUtc": "2020-10-13T18:37:20.9871413Z",
+    "CreatedUtc": "2020-10-13T18:37:20.9871413Z",
+    "Owner": "admin",
+    "Author": "admin"
+  }
+      ]
+    }
+  ]
+}
