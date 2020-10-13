@@ -1,0 +1,402 @@
+{
+  "name": "CollegeRequirements0_cc9fed2c-53a2-4238-bdf7-3cf7f67ecd9c",
+  "displayName": "CollegeRequirements0_cc9fed2c-53a2-4238-bdf7-3cf7f67ecd9c",
+  "description": "",
+  "author": "",
+  "website": "",
+  "version": "",
+  "issetuprecipe": false,
+  "categories": "",
+  "tags": [],
+  "steps": [
+    {
+      "name": "ContentNoCache",
+      "data": [
+  {
+    "TitlePart": {
+      "Title": "HNC or HND"
+    },
+    "CollegeRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003E1 or 2 A levels, or equivalent, for a higher national certificate or higher national diploma\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/collegerequirement/c08365d7-a1aa-4a3a-b88b-cc077336adaf"
+    },
+    "ContentItemId": "4c8aq8g3v8s5x7rywvbs2rs9w8",
+    "ContentItemVersionId": "4sgtderpwt5d642dampds8a9c4",
+    "ContentType": "CollegeRequirement",
+    "DisplayText": "HNC or HND",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Level 2 course entry reqs"
+    },
+    "CollegeRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003E2 or more GCSEs at grades 9 to 3 (A* to D), or equivalent, for a level 2 course\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/collegerequirement/d90fedba-c57a-43bf-bef4-46b43aeb1496"
+    },
+    "ContentItemId": "46ak0kmzk7b64tj36gzxceyc5g",
+    "ContentItemVersionId": "4xvcdk36bdgg065a5216wdh84f",
+    "ContentType": "CollegeRequirement",
+    "DisplayText": "Level 2 course entry reqs",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "5 GCSEs 9-4 incl E-M-S"
+    },
+    "CollegeRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003E5 GCSEs at grades 9 to 4 (A* to C), or equivalent, including English, maths and science\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/collegerequirement/75efb4be-8437-4a56-9946-c0d3e6a844cc"
+    },
+    "ContentItemId": "4y5kmmcdtzckt41m5754zne25m",
+    "ContentItemVersionId": "44gcv5brx49saz2h2wk71d4xdt",
+    "ContentType": "CollegeRequirement",
+    "DisplayText": "5 GCSEs 9-4 incl E-M-S",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "4 or 5 GCSEs 9-4 incl E-M-computing"
+    },
+    "CollegeRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003E4 or 5 GCSEs at grades 9 to 4 (A* to C), or equivalent, including English, maths and computing\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/collegerequirement/902667c5-fa34-4212-83b3-f4527aa9d778"
+    },
+    "ContentItemId": "46xd97fd9bdy171wazp11jbnw3",
+    "ContentItemVersionId": "40hb3v0npz9tq6p90n2jzp2ncp",
+    "ContentType": "CollegeRequirement",
+    "DisplayText": "4 or 5 GCSEs 9-4 incl E-M-computing",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "4 or 5 GCSEs and work exp"
+    },
+    "CollegeRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003E4 or 5 GCSEs at grades 9 to 4 (A* to C), or equivalent, and work experience\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/collegerequirement/1df3c97a-79ba-4551-9e28-9dfeb53f7d40"
+    },
+    "ContentItemId": "46thjvtpqmht0sn21frr6d91m5",
+    "ContentItemVersionId": "4qj7p0hzf14bhvbexh596qnvmz",
+    "ContentType": "CollegeRequirement",
+    "DisplayText": "4 or 5 GCSEs and work exp",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Level 2 or 3 fitness qualification"
+    },
+    "CollegeRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003ELevel 2 or 3 fitness qualification\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/collegerequirement/9e093cbf-4e03-4bf5-869f-3af49c8f59d0"
+    },
+    "ContentItemId": "4hv5y3g1cws3d67sqbm0mv3vxr",
+    "ContentItemVersionId": "4whb6fvfht6w430q7ht1z21p56",
+    "ContentType": "CollegeRequirement",
+    "DisplayText": "Level 2 or 3 fitness qualification",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "4 or 5 GCSEs 9-4 incl E-M-Cr"
+    },
+    "CollegeRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003E4 or 5 GCSEs at grades 9 to 4 (A* to C), or equivalent, including English, maths and a creative subject\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/collegerequirement/254431eb-3043-43c8-9c14-18926538b2dd"
+    },
+    "ContentItemId": "4eqk5yy6s094gwdc6g502hw75z",
+    "ContentItemVersionId": "41smgzhcwa14c5m7ea7244g9wh",
+    "ContentType": "CollegeRequirement",
+    "DisplayText": "4 or 5 GCSEs 9-4 incl E-M-Cr",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "4 or 5 GCSEs 9-4 incl E-M"
+    },
+    "CollegeRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003E4 or 5 GCSEs at grades 9 to 4 (A* to C), or equivalent, including English and maths\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/collegerequirement/27ce01a1-0585-4e3b-890c-225838919f61"
+    },
+    "ContentItemId": "45mx9g2yc0q5n4psmhg5exstn2",
+    "ContentItemVersionId": "4en80atgjxv2swa5591dnezz4m",
+    "ContentType": "CollegeRequirement",
+    "DisplayText": "4 or 5 GCSEs 9-4 incl E-M",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "5 GCSEs 9-4 incl English"
+    },
+    "CollegeRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003E5 GCSEs at grades 9 to 4 (A* to C), including English\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/collegerequirement/f11a2dae-2d1d-415d-888c-afa40918a50c"
+    },
+    "ContentItemId": "477ebpr0q5qhd19d029xd6ed42",
+    "ContentItemVersionId": "4y067pg2gggrtzqv8f9763dp45",
+    "ContentType": "CollegeRequirement",
+    "DisplayText": "5 GCSEs 9-4 incl English",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "GCSEs 9-4 incl E-M"
+    },
+    "CollegeRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EGCSEs at grades 9 to 4 (A* to C), or equivalent, including English and maths\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/collegerequirement/2b35eff0-56df-4b92-aa24-59e13238617e"
+    },
+    "ContentItemId": "4h7fe0r5sza1p4bpw3ct7pnacn",
+    "ContentItemVersionId": "4xnk9kczfme250dj3z11h8mb4y",
+    "ContentType": "CollegeRequirement",
+    "DisplayText": "GCSEs 9-4 incl E-M",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "T level reqs"
+    },
+    "CollegeRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003E4 or 5 GCSEs at grades 9 to 4 (A* to C), or equivalent, including English and maths for a T level\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/collegerequirement/d1ff9464-c8a0-45bc-a27b-11bdcab00691"
+    },
+    "ContentItemId": "4tp9qy5rc3cmaz1cth6avv7cm9",
+    "ContentItemVersionId": "4zhd0m6j31nvsvjfa09zd0jddk",
+    "ContentType": "CollegeRequirement",
+    "DisplayText": "T level reqs",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "A Levels"
+    },
+    "CollegeRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003EA levels or equivalent qualifications\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/collegerequirement/8faf2321-8f2b-4bae-ac51-e1e92e1e33e7"
+    },
+    "ContentItemId": "4g8zaf6s7fra72pg2d73hv72xe",
+    "ContentItemVersionId": "4s1yhpbvvn3n7rdfs21yj53wmz",
+    "ContentType": "CollegeRequirement",
+    "DisplayText": "A Levels",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Level 4 or 5 entry reqs"
+    },
+    "CollegeRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003E1 or 2 A levels, a level 3 diploma or relevant experience for a level 4 or level 5 course\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/collegerequirement/e4cd6a07-126a-409d-857b-129c244d6630"
+    },
+    "ContentItemId": "4rzpm0zn9252cw1byb49q169w8",
+    "ContentItemVersionId": "4e85tvtza00rp201qg9ahcaem2",
+    "ContentType": "CollegeRequirement",
+    "DisplayText": "Level 4 or 5 entry reqs",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Level 1 course entry reqs"
+    },
+    "CollegeRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003E2 or fewer GCSEs at grades 3 to 1 (D to G), or equivalent, for a level 1 course\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/collegerequirement/ab04adef-a91d-4f51-8e08-0e8668ce6fe0"
+    },
+    "ContentItemId": "4w0z1d76b1yee1h5gxq2z36nd5",
+    "ContentItemVersionId": "43ss81ra5szwh0grfb9ccbrn5h",
+    "ContentType": "CollegeRequirement",
+    "DisplayText": "Level 1 course entry reqs",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Excellent standard of English"
+    },
+    "CollegeRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003Ean excellent standard of English\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/collegerequirement/fc5e0023-be3f-4b21-a5ca-543e8a705913"
+    },
+    "ContentItemId": "4hsws4yh2cm9esg8r7cfzjncxn",
+    "ContentItemVersionId": "4p4ry5yhcm225ztjc270eskenv",
+    "ContentType": "CollegeRequirement",
+    "DisplayText": "Excellent standard of English",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Level 3 course entry reqs"
+    },
+    "CollegeRequirement": {
+      "Description": {
+        "Html": "\u003Cp\u003E4 or 5 GCSEs at grades 9 to 4 (A* to C), or equivalent, for a level 3 course\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/collegerequirement/0e87490c-dee3-48f1-87ff-7b24a2916446"
+    },
+    "ContentItemId": "4kaj5vjgqz6jst43237510wrnc",
+    "ContentItemVersionId": "4a3bgdxht19z9xwbs7pafxkkn7",
+    "ContentType": "CollegeRequirement",
+    "DisplayText": "Level 3 course entry reqs",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "name": "PersonalityTrait0_cc9fed2c-53a2-4238-bdf7-3cf7f67ecd9c",
+  "displayName": "PersonalityTrait0_cc9fed2c-53a2-4238-bdf7-3cf7f67ecd9c",
+  "description": "",
+  "author": "",
+  "website": "",
+  "version": "",
+  "issetuprecipe": false,
+  "categories": "",
+  "tags": [],
+  "steps": [
+    {
+      "name": "ContentNoCache",
+      "data": [
+  {
+    "TitlePart": {
+      "Title": "Helper"
+    },
+    "PersonalityTrait": {
+      "Description": {
+        "Text": "you enjoy helping and listening to other people"
+      },
+      "JobCategories": {
+        "ContentItemIds": [
+          "4ga2xcphwrbef0xv6qf92vrwmk",
+          "4y3h9mh41svhkw8p0yww3esxcd",
+          "46an0p7nj450s7wr2gpbsmvvwn",
+          "4z1cjzha8t62erdc502603gxx0",
+          "4zye133719yj4tf994catmadx5",
+          "4yjx0s36ndcng3wsnwhd174hd4",
+          "428h9d3tqfy3qrwvg47jp3xb5r",
+          "4vj7gg5kq4r2vv1jb7nc9bshc3"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalitytrait/48951a1e-933a-4ab0-a24c-fb1866cba0b9"
+    },
+    "ContentItemId": "4by2r48s20mcf7a2x38j3ew6m2",
+    "ContentItemVersionId": "4ms8fx9r88k52rdksthr24kcdy",
+    "ContentType": "PersonalityTrait",
+    "DisplayText": "Helper",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Creator"
+    },
+    "PersonalityTrait": {
+      "Description": {
+        "Text": "you are a creative person and enjoy coming up with new ways of doing things"
+      },
+      "JobCategories": {
+        "ContentItemIds": [
+          "4kfwmbnszf545wajwtkhs9p2xj",
+          "4mk2632j6w2eysae2jy67cyw5h",
+          "4gkzmvqjwcgef66vptk0f5z54e",
+          "40pns901e4xjtt5x110t8p22w9",
+          "46hfw8nbsfg1nsyxa396q51ad0"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalitytrait/123b9bb6-1988-4232-a3d7-a78bda1fc7aa"
+    },
+    "ContentItemId": "479ajsg0tgpnnw52xtgh5e99dv",
+    "ContentItemVersionId": "40hbdgajzq1wtw1mhp5wbqxgxg",
+    "ContentType": "PersonalityTrait",
+    "DisplayText": "Creator",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Doer"
+    },
+    "PersonalityTrait": {
+      "Description": {
+        "Text": "you are a practical person and enjoy getting things done"
+      },
+      "JobCategories": {
+        "ContentItemIds": [
+          "4mxq1kfvbgen2xgspd0ppexec2",
+          "4xejxhre7wqxs4sfgxfftmfenm",
+          "4mk2632j6w2eysae2jy67cyw5h",
+          "4r8fzh3y2jvrt7x03dqr26vw49",
+          "46an0p7nj450s7wr2gpbsmvvwn",
+          "4511fpg0qew8avb6mkk7q1bzdy",
+          "42nhhpbmcw1ek7f2nvckkkd34k",
+          "4zye133719yj4tf994catmadx5",
+          "4yjx0s36ndcng3wsnwhd174hd4",
+          "4gkzmvqjwcgef66vptk0f5z54e",
+          "4wnv44q7ef72b2zn13dc1sxsda",
+          "48v93jhch85qqsk9dr0b5f8t4f",
+          "4ytmy84rwz3vntch753e1qev5q",
+          "4vj7gg5kq4r2vv1jb7nc9bshc3"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalitytrait/7930ab30-056d-4bd9-a1c4-da9cd214703d"
+    },
+    "ContentItemId": "40rnxsxc8c5f26dve0ds19r4nv",
+    "ContentItemVersionId": "4ckgwrbvdqnpr3myjyv6je5sdv",
+    "ContentType": "PersonalityTrait",
+    "DisplayText": "Doer",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Analyst"
+    },
+    "PersonalityTrait": {
+      "Description": {
+        "Text": "you like dealing with complicated problems or working with numbers"
+      },
+      "JobCategories": {
+        "ContentItemIds": [
+          "47carsd0atv1r62tayzp6nttxp",
+          "4kfwmbnszf545wajwtkhs9p2xj",
+          "4mk2632j6w2eysae2jy67cyw5h",
+          "44gypxvkvfddmxmgf6b0cdfacs",
+          "4gkzmvqjwcgef66vptk0f5z54e",
+          "40pns901e4xjtt5x110t8p22w9",
+          "46hfw8nbsfg1nsyxa396q51ad0"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalitytrait/83415f77-370c-45db-91a3-9dc8cc1f9d88"
+    },
+    "ContentItemId": "4rv9pn2y1fy5ytcq9qa4fg2km6",
+    "ContentItemVersionId": "4pqct3bbbyaah5bewmp4bxb3cd",
+    "ContentType": "PersonalityTrait",
+    "DisplayText": "Analyst",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Driver"
+    },
+    "PersonalityTrait": {
+      "Description": {
+        "Text": "you are motivated, set yourself personal goals and are comfortable competing with other people"
+      },
+      "JobCategories": {
+        "ContentItemIds": [
+          "47carsd0atv1r62tayzp6nttxp",
+          "4kfwmbnszf545wajwtkhs9p2xj",
+          "4xejxhre7wqxs4sfgxfftmfenm",
+          "4nv207w90xj993mgye0w4pj8w1",
+          "44gypxvkvfddmxmgf6b0cdfacs",
+          "4wnv44q7ef72b2zn13dc1sxsda",
+          "48v93jhch85qqsk9dr0b5f8t4f"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalitytrait/b1db1140-7a79-4496-91e2-21de21feabdb"
+    },
+    "ContentItemId": "4kx60re8v57zz3zv1t5hsvdg4a",
+    "ContentItemVersionId": "4yzxb3jqfz0z0wz7qytgb90swq",
+    "ContentType": "PersonalityTrait",
+    "DisplayText": "Driver",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Leader"
+    },
+    "PersonalityTrait": {
+      "Description": {
+        "Text": "you like to lead other people and are good at taking control of situations"
+      },
+      "JobCategories": {
+        "ContentItemIds": [
+          "4nv207w90xj993mgye0w4pj8w1",
+          "428h9d3tqfy3qrwvg47jp3xb5r",
+          "4vj7gg5kq4r2vv1jb7nc9bshc3"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalitytrait/5acbe3ee-829c-4e82-acfd-595e0b304275"
+    },
+    "ContentItemId": "4kbx0eganfmc502xtn9m1rpxw2",
+    "ContentItemVersionId": "4ec2scw1ehgtm5ym807rwhb3wg",
+    "ContentType": "PersonalityTrait",
+    "DisplayText": "Leader",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Influencer"
+    },
+    "PersonalityTrait": {
+      "Description": {
+        "Text": "you are sociable and find it easy to understand people"
+      },
+      "JobCategories": {
+        "ContentItemIds": [
+          "4ga2xcphwrbef0xv6qf92vrwmk",
+          "4y3h9mh41svhkw8p0yww3esxcd"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalitytrait/a0c35d64-4ab1-4520-b252-00c6698df7cc"
+    },
+    "ContentItemId": "4n1y6gka6k3kcr82z2f0er89mc",
+    "ContentItemVersionId": "4reyegvqnbn234z97mrqzrg3wr",
+    "ContentType": "PersonalityTrait",
+    "DisplayText": "Influencer",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Organiser"
+    },
+    "PersonalityTrait": {
+      "Description": {
+        "Text": "you like to plan things and are well organised"
+      },
+      "JobCategories": {
+        "ContentItemIds": [
+          "47carsd0atv1r62tayzp6nttxp",
+          "4cqw6kk029pwj5p8rnyvbt92xz",
+          "4sqh3d7x8gb4jvgv4pdwka7aww",
+          "4r8fzh3y2jvrt7x03dqr26vw49",
+          "44gypxvkvfddmxmgf6b0cdfacs",
+          "4511fpg0qew8avb6mkk7q1bzdy",
+          "4zye133719yj4tf994catmadx5",
+          "428h9d3tqfy3qrwvg47jp3xb5r",
+          "4wnv44q7ef72b2zn13dc1sxsda",
+          "48v93jhch85qqsk9dr0b5f8t4f",
+          "4ytmy84rwz3vntch753e1qev5q"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalitytrait/f42f20f9-22b5-4051-9f5d-535d084915fc"
+    },
+    "ContentItemId": "45x2sn49bcrm44xreek1wzaxnc",
+    "ContentItemVersionId": "4refkbtcdjgqzzym6wmwr0b5d2",
+    "ContentType": "PersonalityTrait",
+    "DisplayText": "Organiser",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  }
+      ]
+    }
+  ]
+}

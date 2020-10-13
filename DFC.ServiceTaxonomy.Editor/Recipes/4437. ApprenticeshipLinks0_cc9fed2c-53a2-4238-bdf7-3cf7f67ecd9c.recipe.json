@@ -1,0 +1,368 @@
+{
+  "name": "ApprenticeshipLinks0_cc9fed2c-53a2-4238-bdf7-3cf7f67ecd9c",
+  "displayName": "ApprenticeshipLinks0_cc9fed2c-53a2-4238-bdf7-3cf7f67ecd9c",
+  "description": "",
+  "author": "",
+  "website": "",
+  "version": "",
+  "issetuprecipe": false,
+  "categories": "",
+  "tags": [],
+  "steps": [
+    {
+      "name": "ContentNoCache",
+      "data": [
+  {
+    "ApprenticeshipLink": {
+      "Link": {
+        "Url": "https://www.gov.uk/apprenticeships-guide",
+        "Text": "guide to apprenticeships"
+      }
+    },
+    "TitlePart": {
+      "Title": "Show Apprenticeship Guide"
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/apprenticeshiplink/4182b4b5-b8ea-4712-b489-f0937656c724"
+    },
+    "ContentItemId": "4yc88e21zdf6s0aw24zy86wnng",
+    "ContentItemVersionId": "4s9z8gq67mvz1scx22pbkzrym1",
+    "ContentType": "ApprenticeshipLink",
+    "DisplayText": "Show Apprenticeship Guide",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "ApprenticeshipLink": {
+      "Link": {
+        "Url": "https://www.gov.uk/what-different-qualification-levels-mean/list-of-qualification-levels",
+        "Text": "equivalent entry requirements"
+      }
+    },
+    "TitlePart": {
+      "Title": "Show Equiv Entry Reqs"
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/apprenticeshiplink/41ab6205-3c16-4d20-8925-d67d65576b06"
+    },
+    "ContentItemId": "41bd1s3rjvt2j7w7xd1b16vb4n",
+    "ContentItemVersionId": "4ad2ft9gv20rh3yb31jgmytyxn",
+    "ContentType": "ApprenticeshipLink",
+    "DisplayText": "Show Equiv Entry Reqs",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "ApprenticeshipLink": {
+      "Link": {
+        "Url": "https://www.raf.mod.uk/recruitment/apprenticeships/",
+        "Text": "RAF apprenticeships"
+      }
+    },
+    "TitlePart": {
+      "Title": "RAF apps"
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/apprenticeshiplink/738ad157-1c67-4ff4-a3f0-3bd6a44bbfb7"
+    },
+    "ContentItemId": "4czndqfkk7a6m1zdz0h97tvtmz",
+    "ContentItemVersionId": "4j21g69fkng76xrq3399jg3wmz",
+    "ContentType": "ApprenticeshipLink",
+    "DisplayText": "RAF apps",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "ApprenticeshipLink": {
+      "Link": {
+        "Url": "https://tfl.gov.uk/corporate/careers/apprenticeships",
+        "Text": "Transport for London apprenticeships"
+      }
+    },
+    "TitlePart": {
+      "Title": "Transport for London Apprenticeships"
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/apprenticeshiplink/009be685-69b6-4796-94ff-487d9ae7efc2"
+    },
+    "ContentItemId": "427zcfv5nyh1byd1yv1kfhfc5p",
+    "ContentItemVersionId": "43j2n6v0jqpt61ezpampdd9tnd",
+    "ContentType": "ApprenticeshipLink",
+    "DisplayText": "Transport for London Apprenticeships",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "ApprenticeshipLink": {
+      "Link": {
+        "Url": "https://www.bbc.co.uk/careers/trainee-schemes-and-apprenticeships",
+        "Text": "BBC apprenticeships"
+      }
+    },
+    "TitlePart": {
+      "Title": "BBC Academy"
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/apprenticeshiplink/060b1036-1570-4a89-9ec0-05f946da5f4a"
+    },
+    "ContentItemId": "4j2yatrc7xetq1161xpyqmcjwd",
+    "ContentItemVersionId": "4d26gjfe7nebb591qszxjf9jnc",
+    "ContentType": "ApprenticeshipLink",
+    "DisplayText": "BBC Academy",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "ApprenticeshipLink": {
+      "Link": {
+        "Url": "https://apply.army.mod.uk/what-we-offer/regular-soldier/skills",
+        "Text": "Army apprenticeships"
+      }
+    },
+    "TitlePart": {
+      "Title": "Army apps"
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/apprenticeshiplink/cf703517-1f77-4a2c-ad29-1d3f0f18a7a8"
+    },
+    "ContentItemId": "4h2fcwqhwqrt8xdz1dcq5vqawg",
+    "ContentItemVersionId": "4hp8yphfqarvczp04mnyhdtvds",
+    "ContentType": "ApprenticeshipLink",
+    "DisplayText": "Army apps",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "ApprenticeshipLink": {
+      "Link": {
+        "Url": "https://getintoteaching.education.gov.uk/explore-my-options/teacher-training-routes/school-led-training/school-direct-salaried",
+        "Text": "postgraduate teaching apprenticeships"
+      }
+    },
+    "TitlePart": {
+      "Title": "Postgrad teaching apprenticeships"
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/apprenticeshiplink/8174d837-3061-4a65-90d9-19a7874fbbb8"
+    },
+    "ContentItemId": "4vp2eken591ar4yr88wa7w9zwg",
+    "ContentItemVersionId": "4sr8tmkm2957yttjdfjwzy3yw8",
+    "ContentType": "ApprenticeshipLink",
+    "DisplayText": "Postgrad teaching apprenticeships",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "ApprenticeshipLink": {
+      "Link": {
+        "Url": "https://www.gov.uk/government/publications/higher-and-degree-apprenticeships",
+        "Text": "higher and degree apprenticeships"
+      }
+    },
+    "TitlePart": {
+      "Title": "Higher and Degree Apprenticeships"
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/apprenticeshiplink/f8d0e682-202c-4855-8aa9-26c5e145f5d2"
+    },
+    "ContentItemId": "4g56j0q2kmdxkrbxr9chb7kg4f",
+    "ContentItemVersionId": "4e3rb3jtrkzck77045sscexydm",
+    "ContentType": "ApprenticeshipLink",
+    "DisplayText": "Higher and Degree Apprenticeships",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "ApprenticeshipLink": {
+      "Link": {
+        "Url": "https://www.jobs.nhs.uk/",
+        "Text": "search for apprenticeships on NHS Jobs"
+      }
+    },
+    "TitlePart": {
+      "Title": "NHS Jobs for apps"
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/apprenticeshiplink/75210a0a-a833-4b97-8c9d-fa2726133a2d"
+    },
+    "ContentItemId": "42ykey6928193wt0fgrd9vtcm1",
+    "ContentItemVersionId": "46cmr0048f6swt6ae0ww59qnmt",
+    "ContentType": "ApprenticeshipLink",
+    "DisplayText": "NHS Jobs for apps",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "ApprenticeshipLink": {
+      "Link": {
+        "Url": "https://www.networkrail.co.uk/careers/apprenticeships/",
+        "Text": "Network Rail apprenticeships"
+      }
+    },
+    "TitlePart": {
+      "Title": "Network Rail Apprenticeships"
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/apprenticeshiplink/f8f819c6-a3ae-4e38-a7ab-0c17374281eb"
+    },
+    "ContentItemId": "4nvs6s15epmq6wfgz2gq42j5xd",
+    "ContentItemVersionId": "49v21bk3s4mm0wb5kxjk2bxtxd",
+    "ContentType": "ApprenticeshipLink",
+    "DisplayText": "Network Rail Apprenticeships",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "ApprenticeshipLink": {
+      "Link": {
+        "Url": "http://www.itvjobs.com/business-areas/entry-careers/apprenticeship-programme/",
+        "Text": "ITV apprenticeships"
+      }
+    },
+    "TitlePart": {
+      "Title": "ITV"
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/apprenticeshiplink/ab12493c-d355-406e-ac3d-5538ab58c61a"
+    },
+    "ContentItemId": "43wkr05pb4p131wfeq58j0e3mf",
+    "ContentItemVersionId": "4k0n5m8waefet0k3p7eg1dn747",
+    "ContentType": "ApprenticeshipLink",
+    "DisplayText": "ITV",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "ApprenticeshipLink": {
+      "Link": {
+        "Url": "https://careers.channel4.com/4talent/apprenticeships",
+        "Text": "Channel 4 apprenticeships"
+      }
+    },
+    "TitlePart": {
+      "Title": "Channel 4"
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/apprenticeshiplink/8c6e65d0-4b2b-4a45-99ca-fb68c22bfd08"
+    },
+    "ContentItemId": "45tkhh5yh1ba24x92df3m5rpnv",
+    "ContentItemVersionId": "467q0f9mqzfbf7w9j29kyr5f55",
+    "ContentType": "ApprenticeshipLink",
+    "DisplayText": "Channel 4",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "ApprenticeshipLink": {
+      "Link": {
+        "Url": "https://www.royalnavy.mod.uk/careers/levels-of-entry/apprenticeships",
+        "Text": "Royal Navy apprenticeships"
+      }
+    },
+    "TitlePart": {
+      "Title": "Navy apps"
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/apprenticeshiplink/51d8253b-148e-4186-91fe-59a7dd3d1ae0"
+    },
+    "ContentItemId": "4he2xhyy87q6364y0drgyc7snq",
+    "ContentItemVersionId": "4ayrfcxveh85swjzfn4xx1dyxf",
+    "ContentType": "ApprenticeshipLink",
+    "DisplayText": "Navy apps",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "ApprenticeshipLink": {
+      "Link": {
+        "Url": "https://www.gchq-careers.co.uk/early-careers/apprenticeships.html",
+        "Text": "GCHQ apprenticeships"
+      }
+    },
+    "TitlePart": {
+      "Title": "GCHQ"
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/apprenticeshiplink/59283e9f-2cb2-46fd-a60d-5210e1b4c2b2"
+    },
+    "ContentItemId": "4nz3wbv233p3505v1g1nvwd7d2",
+    "ContentItemVersionId": "4xbet2236k5bj51yf1rysjyrwk",
+    "ContentType": "ApprenticeshipLink",
+    "DisplayText": "GCHQ",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-10-13T17:04:48.6968988Z",
+    "PublishedUtc": "2020-10-13T17:04:48.6968988Z",
+    "CreatedUtc": "2020-10-13T17:04:48.6968988Z",
+    "Owner": "admin",
+    "Author": "admin"
+  }
+      ]
+    }
+  ]
+}
