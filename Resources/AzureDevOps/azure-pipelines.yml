@@ -93,7 +93,7 @@ stages:
 
 - stage: PublishPackage
   displayName: Publish Package to NuGet
-  condition: and(succeeded()) 
+  condition: succeeded()
   jobs:  
   - job: CleanArtifacts  
     displayName: Clean artifacts directory
