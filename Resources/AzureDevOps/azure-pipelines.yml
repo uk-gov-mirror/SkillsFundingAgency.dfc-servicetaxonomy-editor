@@ -188,7 +188,7 @@ stages:
       TestArtifactBranch: ${{ parameters.DfcServiceTaxonomyTestBranch }}
 
 - stage: DeployToPP
-  condition: and(eq(dependencies.PublishPackage.result,'Succeeded'), eq(variables['Build.SourceBranch'], 'refs/heads/master'))
+  #condition: and(eq(dependencies.PublishPackage.result,'Succeeded'), eq(variables['Build.SourceBranch'], 'refs/heads/master'))
   displayName: Deploy to PP_SERVICETAXONOMY
   variables:
   - group: dfc-shared-all
