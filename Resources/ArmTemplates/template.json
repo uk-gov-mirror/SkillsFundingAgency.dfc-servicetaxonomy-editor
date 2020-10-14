@@ -141,7 +141,7 @@
     "variables": {
         "BuildingBlocksDfcBaseUrl": "https://raw.githubusercontent.com/SkillsFundingAgency/dfc-devops/master/ArmTemplates/",
         "ResourcePrefix": "[tolower(concat('dfc-', parameters('Environment'), '-stax-editor'))]",
-        "privateEndpointName": "[concat('dfc',parameters('Environment'),'-stax-eventgrid-endpoint')]",
+        "privateEndpointName": "[concat('dfc-',parameters('Environment'),'-stax-eventgrid-endpoint')]",
         "AppServiceAppInsightsName": "[concat(variables('ResourcePrefix'), '-ai')]",
         "AppServicePlanName": "[if(greater(length(parameters('SharedAppServicePlanName')), 0), parameters('SharedAppServicePlanName'), concat(variables('ResourcePrefix'), '-asp'))]",
         "EventGridTopicName": "[tolower(concat('dfc-', parameters('Environment'), '-stax-egt'))]",
@@ -455,7 +455,7 @@
             "location": "[resourceGroup().location]",
             "properties": {
                 "subnet": {
-                    "id": "[resourceId('Microsoft.Network/virtualNetworks/subnets','SFA-PreProduction-VNet','DFC-EventGrid-01')]"
+                    "id": "[resourceId('SFAPreProdNetworkRG', 'Microsoft.Network/virtualNetworks/subnets', 'SFA-PreProduction-VNet', 'DFC-EventGrid-01')]"
                 },
                 "privateLinkServiceConnections": [
                     {
