@@ -453,9 +453,6 @@
             "apiVersion": "2019-06-01",
             "name": "[variables('privateEndpointName')]",
             "location": "[resourceGroup().location]",
-            "dependsOn": [
-                "[variables('EventGridTopicName')]"
-            ],
             "properties": {
                 "subnet": {
                     "id": "[resourceId('Microsoft.Network/virtualNetworks/subnets','SFA-PreProduction-VNet','DFC-EventGrid-01')]"
