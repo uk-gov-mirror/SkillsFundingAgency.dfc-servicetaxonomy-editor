@@ -461,7 +461,10 @@
                     {
                         "name": "[variables('privateEndpointName')]",
                         "properties": {
-                            "privateLinkServiceId": "[resourceId('Microsoft.EventGrid/topics',variables('EventGridTopicName'))]"
+                            "privateLinkServiceId": "[resourceId('Microsoft.EventGrid/topics',variables('EventGridTopicName'))]",
+                            "groupIds": [
+                                "topic"    
+                            ]
                         }
                     }
                 ]
