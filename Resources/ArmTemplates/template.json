@@ -140,10 +140,11 @@
     },
     "variables": {
         "BuildingBlocksDfcBaseUrl": "https://raw.githubusercontent.com/SkillsFundingAgency/dfc-devops/master/ArmTemplates/",
-        "ResourcePrefix": "[tolower(concat('dfc-', parameters('Environment'), '-stax-editor'))]",        
+        "ResourcePrefix": "[tolower(concat('dfc-', parameters('Environment'), '-stax-editor'))]",
+        "privateEndpointName": "[concat('dfc',parameters('Environment'),'-stax-eventgrid-endpoint')]",
         "AppServiceAppInsightsName": "[concat(variables('ResourcePrefix'), '-ai')]",
         "AppServicePlanName": "[if(greater(length(parameters('SharedAppServicePlanName')), 0), parameters('SharedAppServicePlanName'), concat(variables('ResourcePrefix'), '-asp'))]",
-        "EventGridTopicName": "[tolower(concat('dfc-', parameters('Environment'), '-stax-egt'))]", 
+        "EventGridTopicName": "[tolower(concat('dfc-', parameters('Environment'), '-stax-egt'))]",
         "AppServicePlanResourceGroup": "[if(greater(length(parameters('SharedAppServicePlanResourceGroup')), 0), parameters('SharedAppServicePlanResourceGroup'), resourceGroup().name)]",
         "DatabaseName": "[concat(variables('ResourcePrefix'), '-db')]",
         "WebAppName": "[concat(variables('ResourcePrefix'), '-as')]",
@@ -446,7 +447,29 @@
                     }
                 }
             }
+        },
+        {
+            "type": "Microsoft.Network/privateEndpoints",
+            "apiVersion": "2019-06-01",
+            "name": "[variables('privateEndpointName')]",
+            "location": "[resourceGroup().location]",
+            "dependsOn": [
+                "[variables('EventGridTopicName')]"
+            ],
+            "properties": {
+                "subnet": {
+                    "id": "[resourceId('Microsoft.Network/virtualNetworks/subnets','SFA-PreProduction-VNet','DFC-EventGrid-01')]"
+                },
+                "privateLinkServiceConnections": [
+                    {
+                        "name": "[variables('privateEndpointName')]",
+                        "properties": {
+                            "privateLinkServiceId": "[resourceId('Microsoft.EventGrid/topics',variables('EventGridTopicName'))]"
+                        }
+                    }
+                ]
+            }
         }
     ],
     "outputs": {}
-    }
+}
