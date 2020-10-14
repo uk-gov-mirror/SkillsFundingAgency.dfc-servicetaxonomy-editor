@@ -147,6 +147,7 @@
         "AppServicePlanResourceGroup": "[if(greater(length(parameters('SharedAppServicePlanResourceGroup')), 0), parameters('SharedAppServicePlanResourceGroup'), resourceGroup().name)]",
         "DatabaseName": "[concat(variables('ResourcePrefix'), '-db')]",
         "WebAppName": "[concat(variables('ResourcePrefix'), '-as')]",
+        "privateEndpointName": "[concat('dfc-',parameters('Environment'),'-stax-eventgrid-endpoint')]",
         "DatabaseTier": "[if(equals(parameters('SqlElasticPoolName'), ''), 'Standard', 'ElasticPool')]"
     },
     "resources": [
@@ -445,6 +446,28 @@
                         "value": "[parameters('EventGridTopicSku')]"
                     }
                 }
+            }
+        },
+        {
+            "type": "Microsoft.Network/privateEndpoints",
+            "apiVersion": "2019-06-01",
+            "name": "[variables('privateEndpointName')]",
+            "location": "[resourceGroup().location]",
+            "properties": {
+                "subnet": {
+                    "id": "[resourceId('SFAPreProdNetworkRG', 'Microsoft.Network/virtualNetworks/subnets', 'SFA-PreProduction-VNet', 'DFC-EventGrid-01')]"
+                },
+                "privateLinkServiceConnections": [
+                    {
+                        "name": "[variables('privateEndpointName')]",
+                        "properties": {
+                            "privateLinkServiceId": "[resourceId('Microsoft.EventGrid/topics',variables('EventGridTopicName'))]",
+                            "groupIds": [
+                                "topic"    
+                            ]
+                        }
+                    }
+                ]
             }
         }
     ],
