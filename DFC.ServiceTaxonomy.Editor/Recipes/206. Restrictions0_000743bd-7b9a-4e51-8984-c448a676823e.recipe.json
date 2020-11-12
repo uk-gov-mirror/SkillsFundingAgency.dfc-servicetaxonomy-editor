@@ -1,0 +1,1506 @@
+{
+  "name": "Restrictions0_000743bd-7b9a-4e51-8984-c448a676823e",
+  "displayName": "Restrictions0_000743bd-7b9a-4e51-8984-c448a676823e",
+  "description": "",
+  "author": "",
+  "website": "",
+  "version": "",
+  "issetuprecipe": false,
+  "categories": "",
+  "tags": [],
+  "steps": [
+    {
+      "name": "ContentNoCache",
+      "data": [
+  {
+    "TitlePart": {
+      "Title": "Forklift truck driver training"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ehave forklift truck driver training for some jobs\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/37fe2fe9-441a-44c3-8b22-a532dedce263"
+    },
+    "ContentItemId": "4ansjvjj9nmx26ymv3mqbgqpnk",
+    "ContentItemVersionId": "466xrpptwrprytzscxm05ywj5f",
+    "ContentType": "Restriction",
+    "DisplayText": "Forklift truck driver training",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Age - Over 14"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ebe over 14 years of age\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/c5909992-b971-423d-a303-5faede284418"
+    },
+    "ContentItemId": "4a3vg7hx2zr4t7qxwb3zhmyn47",
+    "ContentItemVersionId": "48h4sjsedhsfv0en072gp9exd1",
+    "ContentType": "Restriction",
+    "DisplayText": "Age - Over 14",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Age - Over 16"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ebe over 16 years of age\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/8dafa987-cd88-471e-8a01-fdea787439b8"
+    },
+    "ContentItemId": "4knx9sxzzagscx42187dk58rm1",
+    "ContentItemVersionId": "428z4f60tfdmd6fwk7rtv08rcs",
+    "ContentType": "Restriction",
+    "DisplayText": "Age - Over 16",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "DBS checks - not enhanced"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Epass \u003Ca href=\u0022https://www.gov.uk/criminal-record-checks-apply-role\u0022\u003Ebackground checks\u003C/a\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/9993bce9-85e4-4543-a9a1-09361ba17a8f"
+    },
+    "ContentItemId": "48ft6mqdhycd5v8456abfnrpxx",
+    "ContentItemVersionId": "4xwpk29m7az67xf0bxdzx8vpwc",
+    "ContentType": "Restriction",
+    "DisplayText": "DBS checks - not enhanced",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Age - Over 17"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ebe over 17 years of age\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/27bd04de-3f6a-4046-8804-24c32b549f98"
+    },
+    "ContentItemId": "4jcy5eys6aftfzheegffbrsa4f",
+    "ContentItemVersionId": "4jng0m0rhm1xb1qgrdhtbjkvmf",
+    "ContentType": "Restriction",
+    "DisplayText": "Age - Over 17",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "UK, Republic of Ireland or Commonwealth Citizen"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ebe a UK, Republic of Ireland or Commonwealth citizen\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/3d9c6494-1bda-4dbd-a506-4530a2a1535a"
+    },
+    "ContentItemId": "40cbxy0wa61vv5ycbay7j08jxn",
+    "ContentItemVersionId": "4c8xnby29053v4ee5kffp306xj",
+    "ContentType": "Restriction",
+    "DisplayText": "UK, Republic of Ireland or Commonwealth Citizen",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Read Licence Plate"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ebe able to read a licence plate at 90 feet or 27.5m, with glasses or contact lenses if worn\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/68808d0f-f735-4e2f-be49-ed9d14699b1b"
+    },
+    "ContentItemId": "4yg6mv8n73sdswejfyqf9kbzx9",
+    "ContentItemVersionId": "4hrep3zbssjbfs27x1qryghbxq",
+    "ContentType": "Restriction",
+    "DisplayText": "Read Licence Plate",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Offshore medical certificate"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ehave an offshore medical certificate\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/090329ff-1b15-46b3-8f90-30903170f2e6"
+    },
+    "ContentItemId": "4f1g3fzv6hzz9t41ts2xajxpd1",
+    "ContentItemVersionId": "4fp8zs0hb312srcyrezffe26d5",
+    "ContentType": "Restriction",
+    "DisplayText": "Offshore medical certificate",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Insurance"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ehave insurance\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/106b86b5-b472-47a8-b3f8-27ddd632d4f4"
+    },
+    "ContentItemId": "4kywfd74v7xdj50w7hh6n3r1dg",
+    "ContentItemVersionId": "4sdm818ge6sjpzh3ce51st3zx2",
+    "ContentType": "Restriction",
+    "DisplayText": "Insurance",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "DBS enhanced check"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Epass \u003Ca href=\u0022https://www.gov.uk/criminal-record-checks-apply-role\u0022\u003Eenhanced background checks\u003C/a\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/9363c910-a472-449e-85f9-b74119c798b8"
+    },
+    "ContentItemId": "4rrxj5yc50j99t17rnkdcp1zmn",
+    "ContentItemVersionId": "4c5506b4er3qw1ke4ttbtjqn5q",
+    "ContentType": "Restriction",
+    "DisplayText": "DBS enhanced check",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Ofsted nationality reqs"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Emeet \u003Ca href=\u0022https://www.gov.uk/government/organisations/ofsted/about/recruitment#eligibility\u0022\u003Enationality requirements\u003C/a\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/318f04c8-f6c2-4f73-8df5-047295c667c9"
+    },
+    "ContentItemId": "4ye2h0s5x4y096qv00gne0zxcf",
+    "ContentItemVersionId": "4d1jzkepg9mwjrcj243gc3emcb",
+    "ContentType": "Restriction",
+    "DisplayText": "Ofsted nationality reqs",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Food hygiene"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Eget a \u003Ca href=\u0022https://www.food.gov.uk/business-industry/food-hygiene/training\u0022\u003Efood hygiene certificate\u003C/a\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/8592453f-b9b0-4f2f-a7c9-097b942996e4"
+    },
+    "ContentItemId": "4v0cx2fnz5y626w4t3gdwmk5ct",
+    "ContentItemVersionId": "4wy0zcn9qgmn27pcfgxa2eh84t",
+    "ContentType": "Restriction",
+    "DisplayText": "Food hygiene",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "UK - 3 Years"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ehave lived in the UK for the last 3 years\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/9bdc9188-5215-451b-aa0c-0f6afc1d29e0"
+    },
+    "ContentItemId": "4vyc6sa35fgt64k7gc6cjnr844",
+    "ContentItemVersionId": "46250h0xtb9w53s00th13spa5f",
+    "ContentType": "Restriction",
+    "DisplayText": "UK - 3 Years",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Medical check"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Epass a medical check\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/da4ecb7f-88cf-4368-8c01-01894484969c"
+    },
+    "ContentItemId": "4x8scdm5sf1wv3yp8sygjxetxh",
+    "ContentItemVersionId": "458c5hq3e66mcvdn6p2cq7q3ms",
+    "ContentType": "Restriction",
+    "DisplayText": "Medical check",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Commercial Pilot Licence"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ehold a Commercial Pilot Licence (CPL) issued by the \u003Ca href=\u0022https://www.caa.co.uk/Commercial-Industry/Professional-pilot-licences/\u0022\u003ECivil Aviation Authority\u003C/a\u003E (CAA)\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/36b530a5-fd9b-4b05-b1c3-d1f5f9b853bd"
+    },
+    "ContentItemId": "46eke6e4dzwfwvm9wn4cx2kpns",
+    "ContentItemVersionId": "434dh8fxgde3swf57jwxfk67nf",
+    "ContentType": "Restriction",
+    "DisplayText": "Commercial Pilot Licence",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Driving Experience LGV 1-2 yrs"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ehave between 1 and 2 years\u0027 experience of driving lorries\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/7a89d589-12ea-47b5-b936-c9bcb20c4de3"
+    },
+    "ContentItemId": "4q6r245bb4bgaykd6q54nznmnd",
+    "ContentItemVersionId": "42zbc4cg6t09v3ja94yn83k245",
+    "ContentType": "Restriction",
+    "DisplayText": "Driving Experience LGV 1-2 yrs",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "complete basic sea safety training \u2013 STCW \u2013 approved by the \u003Ca href=\u0022https://www.gov.uk/guidance/mca-approved-training-providers-atp\u0022\u003EMaritime and Coastguard Agency\u003C/a\u003E"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ecomplete basic sea safety training \u2013 STCW \u2013 approved by the \u003Ca href=\u0022https://www.gov.uk/guidance/mca-approved-training-providers-atp\u0022\u003EMaritime and Coastguard Agency\u003C/a\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/e586b2e2-3730-4a8c-a01f-2ea826146aa0"
+    },
+    "ContentItemId": "41aazcqxgtr0ftwcsb29k26wwk",
+    "ContentItemVersionId": "4xkgp217b4tdc179npra0v1h4b",
+    "ContentType": "Restriction",
+    "DisplayText": "complete basic sea safety training \u2013 STCW \u2013 approved by the \u003Ca href=\u0022https://www.gov.uk/guidance/mca-approved-training-providers-atp\u0022\u003EMaritime and Coastguard Agency\u003C/a\u003E",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "colour vision test"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Etake a colour vision test\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/8d0473d7-d8e5-4320-a5cf-df2dfdb3342a"
+    },
+    "ContentItemId": "4gxz71qh7q2fcymmj8q8e6gr47",
+    "ContentItemVersionId": "4dwgg1b54918n2e619ttycx9wc",
+    "ContentType": "Restriction",
+    "DisplayText": "colour vision test",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Driving Licence - Full"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ehave a full driving licence\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/64a0387f-6ab4-43f9-a316-62f3b5f49a4b"
+    },
+    "ContentItemId": "429kqgk86e6ma5j7k6tx997sdj",
+    "ContentItemVersionId": "4j55zhsv29z434h4vr083cafcg",
+    "ContentType": "Restriction",
+    "DisplayText": "Driving Licence - Full",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "licence to sell alcohol"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Eget \u003Ca href=\u0022https://www.gov.uk/guidance/alcohol-licensing\u0022\u003Ea licence to sell alcohol\u003C/a\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/791adc9b-6922-48eb-85b6-9d29b8ed5bca"
+    },
+    "ContentItemId": "4x8rv2bz3pttqxkdbxdk35gzw1",
+    "ContentItemVersionId": "4hq579p4kxg9jswtw96te78nnk",
+    "ContentType": "Restriction",
+    "DisplayText": "licence to sell alcohol",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Age - Over 18 to sell alcohol"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ebe over 18 to sell alcohol and other restricted goods\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/0026a469-4710-4041-b04e-62f84cfba2af"
+    },
+    "ContentItemId": "4wgmqjzad3p0n1j1bp0c3emfxb",
+    "ContentItemVersionId": "4vzyc6jhw89583dfqvd67twqcz",
+    "ContentType": "Restriction",
+    "DisplayText": "Age - Over 18 to sell alcohol",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Fitness test"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Epass a fitness test\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/b869379a-666b-44a2-8089-10bc24ed97ec"
+    },
+    "ContentItemId": "4nj9wq09aak7bt48vt4at1pxmc",
+    "ContentItemVersionId": "4e5srn5gf1kmtr96310qnrx1wa",
+    "ContentType": "Restriction",
+    "DisplayText": "Fitness test",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "life-saving certificate for instructing water-based activities"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ehave a life-saving certificate if you instruct water-based activities\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/39a1f11e-27e1-45f6-94e5-37dcbc3a9a91"
+    },
+    "ContentItemId": "44cgprfddg1jmt4h0a8swamnm7",
+    "ContentItemVersionId": "4pmwpwseywwkv3xwa762rn6zxx",
+    "ContentType": "Restriction",
+    "DisplayText": "life-saving certificate for instructing water-based activities",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Aeromedical-Exam"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Epass the \u003Ca href=\u0022https://www.caa.co.uk/General-aviation/Pilot-licences/EASA-requirements/Medical/EASA-Part-MED-requirements/\u0022\u003ECivil Aviation Authority medical\u003C/a\u003E before you can take a course - the medical includes tests on your fitness, hearing and vision\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/c2615dd3-6929-47ba-8ec3-f50fbce5ad06"
+    },
+    "ContentItemId": "4dsew4z5r8c8j4ykxrrvpxgwm8",
+    "ContentItemVersionId": "45h2gtt9j6fg851av9sphdjvww",
+    "ContentType": "Restriction",
+    "DisplayText": "Aeromedical-Exam",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Live within 1hr"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Elive within 1 hour\u0027s travel of the depot you\u0027re applying to\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/54505fce-111d-4c94-a1b6-7b32b6893084"
+    },
+    "ContentItemId": "4z603ath8hz0570wpxra4t56xb",
+    "ContentItemVersionId": "484cameww0b2g28tf4bdpyp2mz",
+    "ContentType": "Restriction",
+    "DisplayText": "Live within 1hr",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "British citizen"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ebe a British citizen\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/4fac8fe5-3e92-49c4-b997-d2dbcbacaeff"
+    },
+    "ContentItemId": "40mby8y2rz7sx4dwhg7hnahnx6",
+    "ContentItemVersionId": "49weyvafmr60bwdaqetvfk2emp",
+    "ContentType": "Restriction",
+    "DisplayText": "British citizen",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Gas Safe - Corgi"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ebe on the \u003Ca href=\u0022https://www.gassaferegister.co.uk/\u0022\u003EGas Safe Register\u003C/a\u003E to work with domestic gas heating systems\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/08e0b84f-35ea-4d55-a840-5419b76614b0"
+    },
+    "ContentItemId": "47ekwk4c408x66h3e6qfw2b2wq",
+    "ContentItemVersionId": "4n2542f7zn0gf7je7da004kw5z",
+    "ContentType": "Restriction",
+    "DisplayText": "Gas Safe - Corgi",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Swim"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ebe able to swim\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/aaff5d43-9527-488f-b013-735550bbee2c"
+    },
+    "ContentItemId": "47yn80k363bk939pdx9synj3cz",
+    "ContentItemVersionId": "46nhd0dvf0z2a5p63jdzrn39mt",
+    "ContentType": "Restriction",
+    "DisplayText": "Swim",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Age - Over 18, 21 in some areas incl London"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ebe over 18 but over 21 in some areas, including London\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/64cd0394-71bb-499a-952b-955d1bad838d"
+    },
+    "ContentItemId": "499v2634dp260x8ndcga7y1xcr",
+    "ContentItemVersionId": "4v8yw49e3xres510knq48b1exd",
+    "ContentType": "Restriction",
+    "DisplayText": "Age - Over 18, 21 in some areas incl London",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Age - Over 18"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ebe over 18 years of age\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/29c35208-2e55-4da7-b25e-e7937c6884e9"
+    },
+    "ContentItemId": "4r6n78bvyjvb45t42kmxv6hjms",
+    "ContentItemVersionId": "4y0vsydsny07fr0cpw7ya05vwq",
+    "ContentType": "Restriction",
+    "DisplayText": "Age - Over 18",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Local geography test"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Epass a local geography test, known as \u0027The Knowledge\u0027 if working in London\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/b51abee6-4569-45c6-bbb9-4648fc0a481d"
+    },
+    "ContentItemId": "4j4n6qga074hzvzpcs3rp7jx4g",
+    "ContentItemVersionId": "4cvnambtzwx8q4ezm11b6yxmct",
+    "ContentType": "Restriction",
+    "DisplayText": "Local geography test",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "EU Citizen"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ebe a citizen of an EU member state\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/7633601f-32c8-4123-bd3d-f8e0f1c4235a"
+    },
+    "ContentItemId": "4xn7714e0rkq70z17nwje22ax1",
+    "ContentItemVersionId": "469p14azqpym9ywxq5mha7gwmy",
+    "ContentType": "Restriction",
+    "DisplayText": "EU Citizen",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "UK - 5 Years"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ehave lived in the UK for the last 5 years\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/d225538d-0601-4b5f-b7a3-05acf6e88fff"
+    },
+    "ContentItemId": "4nk9n7a3yt06yy1gkw5tgr60wb",
+    "ContentItemVersionId": "4781rksa8vf72vgpwnd1yn4pnz",
+    "ContentType": "Restriction",
+    "DisplayText": "UK - 5 Years",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Age - Over 20"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ebe over 20 years of age\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/4c90cdfd-5951-4f9c-850a-323443db7017"
+    },
+    "ContentItemId": "49yezepxzjrvksa1bgrp6md6x3",
+    "ContentItemVersionId": "4mqby90538fsp5ny1s287tshnj",
+    "ContentType": "Restriction",
+    "DisplayText": "Age - Over 20",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Height - 151.5cm"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ebe at least 151.5cm tall\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/75a36a67-d6c9-45a9-851f-3e3e2d3c38a5"
+    },
+    "ContentItemId": "4bfze0vrh3m20vspccm2t210mw",
+    "ContentItemVersionId": "4c09a3mm5ewd6zz8g9s4hxwxw5",
+    "ContentType": "Restriction",
+    "DisplayText": "Height - 151.5cm",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "English language requirement"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Eif you work in London, you\u0027ll need to meet the \u003Ca href=\u0022https://tfl.gov.uk/info-for/taxis-and-private-hire/english-language-requirement\u0022\u003EEnglish language requirement\u003C/a\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/412b6107-4ab1-4936-9e71-7d0b1a74805d"
+    },
+    "ContentItemId": "4fp6k6xr1yfqc2vgx3dqmc51wh",
+    "ContentItemVersionId": "44qd7nq71qkvs55ze48nwek9dr",
+    "ContentType": "Restriction",
+    "DisplayText": "English language requirement",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Driving Licence and LGV"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ehave a driving licence that includes LGV for lorries, or PCV for buses, if you work with these vehicles\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/1d116a4e-cf4b-4325-8f01-dd296b491a63"
+    },
+    "ContentItemId": "4vx75ys9m1j6svsnkgb9b7z3d0",
+    "ContentItemVersionId": "4b0d5qwmsnkhm36yzdhxtg1cc3",
+    "ContentType": "Restriction",
+    "DisplayText": "Driving Licence and LGV",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Civil Service Nationality Requirements"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Emeet the Civil Service \u003Ca href=\u0022https://www.gov.uk/government/publications/nationality-rules\u0022\u003Enationality requirements\u003C/a\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/ee50ad62-54f9-450a-b089-3944a5958f00"
+    },
+    "ContentItemId": "41cjpc7jhzpgx2xf0dmcj7p3n0",
+    "ContentItemVersionId": "4rptf4e9z4p4rzw157cfyyd3dz",
+    "ContentType": "Restriction",
+    "DisplayText": "Civil Service Nationality Requirements",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Second EU language"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ebe able to speak a second EU language\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/5b83a060-41d2-41d1-9285-7adb7b2495e7"
+    },
+    "ContentItemId": "4whs9rr9dkea22dch4n9heavdq",
+    "ContentItemVersionId": "430a6we8wsgan7xh1w3c3rmkxz",
+    "ContentType": "Restriction",
+    "DisplayText": "Second EU language",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "drugs and alcohol"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ebe screened for drugs and alcohol\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/eb72c8d6-c58f-469d-8b86-2fb987fa39c3"
+    },
+    "ContentItemId": "4srsy36tsx4sr6jecpdvnc1ndm",
+    "ContentItemVersionId": "4d6yq51zqeznqva3wjhx9tk5w0",
+    "ContentType": "Restriction",
+    "DisplayText": "drugs and alcohol",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Driving Licence - 3 years"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ehave a full UK or EU driving licence, held for at least 3 years\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/e8aafca2-77c5-41b9-a835-b6dd4a3db468"
+    },
+    "ContentItemId": "47bvrf8ea9qyj14gjnec3ffvm9",
+    "ContentItemVersionId": "4tj3fsad349432ws8hcz982an8",
+    "ContentType": "Restriction",
+    "DisplayText": "Driving Licence - 3 years",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "First Aid"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ehave a first aid certificate\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/9fcae7ba-6f15-4e33-a75f-c82e2f5414b3"
+    },
+    "ContentItemId": "4p44ytf3740ga74qkt1k2haad9",
+    "ContentItemVersionId": "4mfaaja2b1qr7r4za9bbd29a5x",
+    "ContentType": "Restriction",
+    "DisplayText": "First Aid",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Numeracy and literacy"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Epass numeracy and literacy \u003Ca href=\u0022https://getintoteaching.education.gov.uk/post-teacher-training-application/preparing-for-the-professional-skills-tests\u0022\u003Eskills tests\u003C/a\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/0103d5a0-3c5f-41d9-8e52-e3509dbb0ea3"
+    },
+    "ContentItemId": "436tr0254ecvesg7fjdy30x9nd",
+    "ContentItemVersionId": "41ps1wa9qfxw8v77h0r5dvs65j",
+    "ContentType": "Restriction",
+    "DisplayText": "Numeracy and literacy",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "SIA licence"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ehave a \u003Ca href=\u0022https://www.sia.homeoffice.gov.uk/Pages/licensing-before.aspx\u0022\u003ESecurity Industry Authority licence\u003C/a\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/9fb4db57-7d22-483a-afd3-741bf94edd09"
+    },
+    "ContentItemId": "40njmd3yhz0zer9qama7yw0j5m",
+    "ContentItemVersionId": "4793x9db178n96xcz80qdw135s",
+    "ContentType": "Restriction",
+    "DisplayText": "SIA licence",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "C1 or C LGV Driving Licence"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ehave a category C1 or C LGV licence if driving mobile cranes on public roads\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/85a73cfd-6890-46de-a0c0-d6078b19dd2b"
+    },
+    "ContentItemId": "44r1n92w0kxtvyk0kqfwajzz41",
+    "ContentItemVersionId": "4cd7j033z4dpnw6y80swahr4w4",
+    "ContentType": "Restriction",
+    "DisplayText": "C1 or C LGV Driving Licence",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Age - Over 21"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ebe over 21 years of age\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/e926c60b-86ab-4435-affc-80af8102251b"
+    },
+    "ContentItemId": "4hz5j3j258fxyzmckmjx80mrx4",
+    "ContentItemVersionId": "4cr1es9fbvr3pwpkr6qnbwwj54",
+    "ContentType": "Restriction",
+    "DisplayText": "Age - Over 21",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Work at height"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ebe able to cope with working at height\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/ce122264-ea64-4458-b189-e6f8ee9fa7f7"
+    },
+    "ContentItemId": "4a6yn4c9kmm1g062ce56y3mv4z",
+    "ContentItemVersionId": "4gqv6vd0w1thh4hss0ysh8dtw2",
+    "ContentType": "Restriction",
+    "DisplayText": "Work at height",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Certificate of Competence"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ehave a \u003Ca href=\u0022https://www.hse.gov.uk/treework/site-management/training.htm\u0022\u003ECertificate of Competence\u003C/a\u003E, if you carry out hazardous tasks using a chainsaw\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/9e703296-f599-41b8-8069-46bf1e4c1917"
+    },
+    "ContentItemId": "4ypkgw44pqv151h1w47fw7amcz",
+    "ContentItemVersionId": "4gvb93s4jdnyfy289tjb1dgywn",
+    "ContentType": "Restriction",
+    "DisplayText": "Certificate of Competence",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Driving licence including London reqs"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ehave a full UK or EU driving licence, held for at least 12 months, or 3 years if working in London\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/f33f1cd2-0721-4be1-a5d2-0d1495730029"
+    },
+    "ContentItemId": "4ssfyr0z98xrgxekme7htwkb4m",
+    "ContentItemVersionId": "45g41tanbybt0y6tty9qes9md4",
+    "ContentType": "Restriction",
+    "DisplayText": "Driving licence including London reqs",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Credit check"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ehave a credit check\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/558c4523-935c-4102-94de-481d8a9eb61d"
+    },
+    "ContentItemId": "4d71w6hhjjmtm28fwvtea09cxp",
+    "ContentItemVersionId": "4vrc7ynb1zd8vw2kf43v9xm5cn",
+    "ContentType": "Restriction",
+    "DisplayText": "Credit check",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Swim 50 metres clothed"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ehave the ability to swim 50 metres fully clothed\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/4f5e2557-e705-4d84-ac2c-75d904a8146f"
+    },
+    "ContentItemId": "43p7bz7mtajfx50b22s7sq1emy",
+    "ContentItemVersionId": "40rvfg70vtekb215emea2t7k41",
+    "ContentType": "Restriction",
+    "DisplayText": "Swim 50 metres clothed",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Offshore safety training"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ecomplete \u003Ca href=\u0022http://www.myoilandgascareer.com/content/basic-offshore-safety-induction-emergency-training-bosiet\u0022\u003Ebasic offshore safety training\u003C/a\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/7588edbb-e4b7-49c4-bc21-9c9518e17dde"
+    },
+    "ContentItemId": "4bskfsp7xshe6v9pacss35hv4y",
+    "ContentItemVersionId": "4fkmdps2ethk2yzhkza7rmswwx",
+    "ContentType": "Restriction",
+    "DisplayText": "Offshore safety training",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Age - Over 17.5"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ebe over 17.5 years of age\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/40c89753-0d20-4c40-856d-3336a9586508"
+    },
+    "ContentItemId": "4g16vzfam2xfs5aq9d27tdpjm0",
+    "ContentItemVersionId": "4qpphx7z4xf1jw4b4qw8mdvr4k",
+    "ContentType": "Restriction",
+    "DisplayText": "Age - Over 17.5",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "complete a driving skills assessment"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ecomplete a driving skills assessment\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/757b7d46-30bc-4d7b-b741-391476278cca"
+    },
+    "ContentItemId": "49bgach6b0mwkrmzfjj9s1bnmz",
+    "ContentItemVersionId": "4f1w6rc4jh4vvyjs9spe74xt5q",
+    "ContentType": "Restriction",
+    "DisplayText": "complete a driving skills assessment",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Army - Nationality and Residency"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Emeet the British army \u003Ca href=\u0022https://apply.army.mod.uk/how-to-join/can-i-join/nationality\u0022\u003Enationality and residency rules\u003C/a\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/4e2f764c-be58-4cc5-abc8-15bc593b8fed"
+    },
+    "ContentItemId": "4hm1ehjxrt5sczv0f29g0rrzd4",
+    "ContentItemVersionId": "4xbs0r7pvdpzs4s91pxxs4ze5m",
+    "ContentType": "Restriction",
+    "DisplayText": "Army - Nationality and Residency",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Physically fit"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ehave a good level of fitness\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/03500ebb-bc31-4b57-9054-2e4ad5002119"
+    },
+    "ContentItemId": "4qhw8p4v70q86r7vpxdf7ehany",
+    "ContentItemVersionId": "4gh5ryhs3d3dc2w2pfk6c83rc0",
+    "ContentType": "Restriction",
+    "DisplayText": "Physically fit",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Security Checks"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Epass \u003Ca href=\u0022https://www.gov.uk/government/publications/national-security-vetting-advice-for-people-who-are-being-vetted\u0022\u003Esecurity checks\u003C/a\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/ce97f386-0137-4c63-a2b0-9b2c1436ec25"
+    },
+    "ContentItemId": "4stc8v6em7m923r8qzxvxyx9n6",
+    "ContentItemVersionId": "4w0tqq6540m5530jpq90e9znw9",
+    "ContentType": "Restriction",
+    "DisplayText": "Security Checks",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Royal Marines Officer Nationality"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Emeet the Royal Marines officer \u003Ca href=\u0022https://www.royalnavy.mod.uk/careers/joining/get-ready-to-join/royal-marines-commando-officer/am-i-eligible\u0022\u003Enationality and residency rules\u003C/a\u003E\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/7a802636-011f-4217-b210-aff944ebbc1c"
+    },
+    "ContentItemId": "4a2np8y981ewxscay44gwnbwd4",
+    "ContentItemVersionId": "4srtj6ycxsy4640m731bev7xca",
+    "ContentType": "Restriction",
+    "DisplayText": "Royal Marines Officer Nationality",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "DBS check - children and vulnerable"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Epass \u003Ca href=\u0022https://www.gov.uk/criminal-record-checks-apply-role\u0022\u003Eenhanced background checks\u003C/a\u003E, as you may be working with children and vulnerable adults\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/9d72cb5c-a864-4321-9b12-59c1d071b726"
+    },
+    "ContentItemId": "4vjcwqj9fkqt01sa93090tnsc5",
+    "ContentItemVersionId": "4kytxwaykq9vpr45qq545cwp5q",
+    "ContentType": "Restriction",
+    "DisplayText": "DBS check - children and vulnerable",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Driver CPC"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ehave a Certificate of Professional Competence (CPC) - this is known as the Driver CPC\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/a28151d6-893e-4f74-bf16-a3e00c79bd52"
+    },
+    "ContentItemId": "488p7msdkcfkq1wjy2wkj6vr4c",
+    "ContentItemVersionId": "4tq0dyvzr3dmm7kg8qf0x1h94f",
+    "ContentType": "Restriction",
+    "DisplayText": "Driver CPC",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Motoring conviction check"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Epass motoring conviction checks\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/f2b29dba-e4bf-4c97-a21a-e945508ddbbe"
+    },
+    "ContentItemId": "4gxyys6r2m4v67nwqr7g8s6edj",
+    "ContentItemVersionId": "48gemcsd0c4w3xpfqjaj06vfc9",
+    "ContentType": "Restriction",
+    "DisplayText": "Motoring conviction check",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "UK Citizen"
+    },
+    "Restriction": {
+      "Description": {
+        "Html": "\u003Cp\u003Ebe a UK citizen\u003C/p\u003E"
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/restriction/e93586c1-2e0f-4ba4-9216-9e3adc882924"
+    },
+    "ContentItemId": "4j17rgtefy95e35qdj7xpkymnd",
+    "ContentItemVersionId": "4bqmx8dyxb1p0zj2xeb41gvhc1",
+    "ContentType": "Restriction",
+    "DisplayText": "UK Citizen",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  }
+      ]
+    }
+  ]
+}

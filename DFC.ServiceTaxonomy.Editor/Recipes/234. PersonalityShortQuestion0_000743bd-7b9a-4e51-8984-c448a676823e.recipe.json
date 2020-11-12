@@ -1,0 +1,1178 @@
+{
+  "name": "PersonalityShortQuestion0_000743bd-7b9a-4e51-8984-c448a676823e",
+  "displayName": "PersonalityShortQuestion0_000743bd-7b9a-4e51-8984-c448a676823e",
+  "description": "",
+  "author": "",
+  "website": "",
+  "version": "",
+  "issetuprecipe": false,
+  "categories": "",
+  "tags": [],
+  "steps": [
+    {
+      "name": "CSharpContent",
+      "data": [
+  {
+    "TitlePart": {
+      "Title": "I like to get involved in making things"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Doer\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/e7e9a149-98f8-44e8-b366-f318ecb2fa76"
+    },
+    "ContentItemId": "4pd8pfrsg7e20r4k7n38gz98mg",
+    "ContentItemVersionId": "4aw57a8czw5mg4ga9k7xxf52n5",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I like to get involved in making things",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I like working with my hands or tools"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Doer\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/d4d15651-a114-488f-ab30-373c2107c9f8"
+    },
+    "ContentItemId": "4tr999zbhv8x5r4zv2zctr9cw6",
+    "ContentItemVersionId": "4mqf5yyvh2qx6wng84jskf6147",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I like working with my hands or tools",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I enjoy creative activities"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Creator\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/1d3d2621-a463-4fae-b934-cb64d743fcf7"
+    },
+    "ContentItemId": "4sqc5sc366b372egq56x454gxq",
+    "ContentItemVersionId": "4ppz3ws5srdawwjck4zn3d3cw2",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I enjoy creative activities",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I like to try new things"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Creator\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/8a842642-e862-4ade-811e-127525772843"
+    },
+    "ContentItemId": "4rkkcnzncrzxyzn3d947hwkvde",
+    "ContentItemVersionId": "470q26mvhnmh7zetv51cw9595p",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I like to try new things",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I want to make things better for people"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Helper\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/809ec4a5-fd96-4171-9b30-793610aa81cf"
+    },
+    "ContentItemId": "4r00xxx51wfszy4y03ywf29t5y",
+    "ContentItemVersionId": "4zhzzf93kdd20tkcqzgqg26jwf",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I want to make things better for people",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I set myself targets when I have things to do, and usually meet them"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Driver\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/6f3ab3bb-b8bf-4f88-85f3-af57ee9da681"
+    },
+    "ContentItemId": "4rnpjvqa4vhmkrb66js7tvcfn4",
+    "ContentItemVersionId": "41j28qt6jmrw9yt54dhy9tpywq",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I set myself targets when I have things to do, and usually meet them",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I like to take control of situations"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Leader\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/06a8a7da-e29b-4a92-9b98-c6ecc92f2f98"
+    },
+    "ContentItemId": "47vwx805vvw14sb7wyx5pxnqmg",
+    "ContentItemVersionId": "4wknp8evnaqezrw9s38g98rgcg",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I like to take control of situations",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I try to think differently to others"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Creator\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/4632d93f-92a3-4257-bf4a-4d2521411dcd"
+    },
+    "ContentItemId": "4e15aawvm769vxep6d6a1dd9xs",
+    "ContentItemVersionId": "42tvb8w3javtb0s662wzpmm5da",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I try to think differently to others",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "Doing well in a career motivates me"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Driver\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/8773b434-a7f5-4cb0-90b8-f52b904bd870"
+    },
+    "ContentItemId": "4j1f16gsh960m4ygmn98cch2wx",
+    "ContentItemVersionId": "4v11d3007b29tsvvf3mrvk90nv",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "Doing well in a career motivates me",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I like to use my imagination to create new things"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Creator\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/0a1e246f-a459-433f-b4cf-3fc726b92152"
+    },
+    "ContentItemId": "4k4zwvs2ykdq6ycbk9y6904exc",
+    "ContentItemVersionId": "444m2zapen0e65m393wqvp3wch",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I like to use my imagination to create new things",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I am good at coming to an agreement with other people"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Influencer\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/e58a003c-993c-4cc2-9d21-63321239d580"
+    },
+    "ContentItemId": "4ck9qc0newj14rfz5fsw2s1yw9",
+    "ContentItemVersionId": "4f5wsc6n7jaaystspgwceasb4b",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I am good at coming to an agreement with other people",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I like to work out complicated things"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Analyst\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/a81c14f8-a6bc-436a-9159-01cbded24fc5"
+    },
+    "ContentItemId": "4dgk88d74nzrm05vc4488tf1nr",
+    "ContentItemVersionId": "4rf9g61481sm53g6pghxh081dx",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I like to work out complicated things",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I am comfortable talking in front of a group of people"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Influencer\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/f0edc2c5-803d-4231-a767-a3a0beac098e"
+    },
+    "ContentItemId": "4c88cjend6zenysrpteys7jq4r",
+    "ContentItemVersionId": "4new8p6hqty8etsdff3hhyz3mx",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I am comfortable talking in front of a group of people",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I like to see the results of the work I do"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Doer\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/15527d15-c54b-4a78-9d90-05d84aabb3ed"
+    },
+    "ContentItemId": "40nkny3fc00681b45b11fajzd7",
+    "ContentItemVersionId": "48fsxm1q8kmmq3nzmbdh1qf3m6",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I like to see the results of the work I do",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I will get involved if I think I can help"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Helper\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/aca3cf5f-5137-4b12-98ae-773e403364ed"
+    },
+    "ContentItemId": "4wp3682d16v89syw15k3kktawq",
+    "ContentItemVersionId": "42p7ppmvf9twbwq2maqw200h4j",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I will get involved if I think I can help",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I enjoy learning new things"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Analyst\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/586acbfd-9a7c-4a09-a987-7947d1d9a1d4"
+    },
+    "ContentItemId": "42p3pyrwnnvbdvzjvydk31ksxa",
+    "ContentItemVersionId": "4mvh5sjrxnvh4vkss95e64rpdm",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I enjoy learning new things",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I make decisions quickly"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Leader\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/526fda12-691c-442c-86eb-4129d161da2b"
+    },
+    "ContentItemId": "4d90s6w8p1y713h3gkvr9bh05s",
+    "ContentItemVersionId": "4egmz9tk0b7hx1qdr4vmjt4wxe",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I make decisions quickly",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I like doing things in a careful order"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Organiser\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/015470e2-96a1-4261-87cb-8c7fad972701"
+    },
+    "ContentItemId": "4fxsjtez0j56cvgbg7t27e7p4c",
+    "ContentItemVersionId": "4qfg06sfqyacvtq7znq35zjj5r",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I like doing things in a careful order",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I enjoy working with other people around me"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Helper\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/9ec6d940-5988-4e1d-8c19-a0e5f97eec36"
+    },
+    "ContentItemId": "47rmdyryqqa4qzq8zp517tx25p",
+    "ContentItemVersionId": "4s802qg6sba784txhc3yp7zmm1",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I enjoy working with other people around me",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I like working with facts"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Analyst\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/0c0c9fc9-1bb0-4c4d-8e32-4d117f906404"
+    },
+    "ContentItemId": "43qmnfdesv1ea6wdda7d0bg14z",
+    "ContentItemVersionId": "4z9nnet50gkra7dvyqha03bddp",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I like working with facts",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I enjoy coming up with new ways of doing things"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Creator\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/68cd69b5-532e-4a64-8269-4a3b71930839"
+    },
+    "ContentItemId": "4gnk8byhnhpap446e6fjrnevwe",
+    "ContentItemVersionId": "4skfvynxvvj3c6xmtzp5tjzgch",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I enjoy coming up with new ways of doing things",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I am comfortable talking people around to my way of thinking"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Influencer\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/6b1413b3-643c-4621-8d2e-d13f393e844b"
+    },
+    "ContentItemId": "4th29emw7a19bzjj323zry4t4m",
+    "ContentItemVersionId": "4jt8m7797ptvy0ps1wtrvdcpnc",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I am comfortable talking people around to my way of thinking",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I plan my day so I can use my time best"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Organiser\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/77f9dd36-d76c-4034-a804-0f2a4b70f1d8"
+    },
+    "ContentItemId": "46c9nxywyh1fqsx45x6rwwak5h",
+    "ContentItemVersionId": "4q5ahpnywnhe759j6t5bv7k3m2",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I plan my day so I can use my time best",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I think I am a competitive person"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Driver\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/e3c09020-2262-43fd-b968-9ddf2484c2e4"
+    },
+    "ContentItemId": "4wqpq30ah2rpk41c4j8zzkky54",
+    "ContentItemVersionId": "4v4yryhj7mt1jrwadvd6ezp6wn",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I think I am a competitive person",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I like taking responsibility for other people"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Leader\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/7e7a5a44-27c1-4413-bb60-c6faeb4ab10c"
+    },
+    "ContentItemId": "41ng0f6jnwhcnrd16tx8kpqa51",
+    "ContentItemVersionId": "4cg10qwecdh5vxqb568y0fztdw",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I like taking responsibility for other people",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I prefer to follow what other people are doing"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Leader\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/6bc6eb78-6b9f-4855-97f8-325647f536d3"
+    },
+    "ContentItemId": "4gmw555mpf329xmkgqs0cdqyng",
+    "ContentItemVersionId": "4bfs3x9zmy1mztdmtcfw4cjvxh",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I prefer to follow what other people are doing",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I enjoy planning a task more than actually doing it"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Doer\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/f36490af-5453-4101-bd45-f5b68dcdbd6a"
+    },
+    "ContentItemId": "44g2bwg5q2f3xzr13as7rj3g4e",
+    "ContentItemVersionId": "4n8704rchwh2n51hw2twtp1nmw",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I enjoy planning a task more than actually doing it",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I like working with numbers"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Analyst\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/782479b2-0fcc-45b7-9310-c1fe36e0a828"
+    },
+    "ContentItemId": "40csa3pstj90w1ab1n9z8sjhmv",
+    "ContentItemVersionId": "40q1vj1gd1er3xpy7x5f9nat43",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I like working with numbers",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I like to see things through to the end"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Driver\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/8774afd5-bc7a-4499-87ee-9e0a0563c4b4"
+    },
+    "ContentItemId": "4m4ka5sdkdyv0wn12340z7tyd5",
+    "ContentItemVersionId": "4yhrqsy231ms1rdtq81tk7r8dg",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I like to see things through to the end",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I feel restricted when I have to follow a routine"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Organiser\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/065063d8-bd03-40e2-8d54-eae4f8c1287f"
+    },
+    "ContentItemId": "43c7z126ap4sf0d896f4j5qtm5",
+    "ContentItemVersionId": "4fs87berdtb6bthh5xr0fsyw4z",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I feel restricted when I have to follow a routine",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I am comfortable telling people what they need to do."
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Leader\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/0a92dfaf-6967-406f-b4ef-571cf69cc0c0"
+    },
+    "ContentItemId": "4gxsxg7817dkp46r0vf16wgww4",
+    "ContentItemVersionId": "4hw1j129cyka1wrefe7dg4vqdv",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I am comfortable telling people what they need to do.",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I like to help other people"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Helper\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/708293d8-db08-4e1b-b862-beaa94ef93f1"
+    },
+    "ContentItemId": "4asmbpcpka9r61c9f8fw6sqe45",
+    "ContentItemVersionId": "46mjt1c7dd3xywa32f3brj4p5p",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I like to help other people",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I find it hard to understand other people\u0027s point of view"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Influencer\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/9ed053c4-1996-4b16-baa5-ee988995c60e"
+    },
+    "ContentItemId": "4v7853e09h7v04c3bwvg87dkc4",
+    "ContentItemVersionId": "4nmkzg83ewkg5248j2699hdxxa",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I find it hard to understand other people\u0027s point of view",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I set myself goals in life"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Driver\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/25a6206e-6b81-4981-80eb-f0cd3bed134d"
+    },
+    "ContentItemId": "4k02kp2qysf7mrsrt5mrk5bh5r",
+    "ContentItemVersionId": "4n1jwhvmjyw237w5fcvhacf7wf",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I set myself goals in life",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I like to follow rules and processes"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Organiser\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/3ee8d5f0-9e73-49ba-9660-dd25ba481519"
+    },
+    "ContentItemId": "4z8xmezpcpv8d26hfjaexh1wwr",
+    "ContentItemVersionId": "4d49b6jnj13b73zr72wd081152",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I like to follow rules and processes",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I like to focus on details"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Organiser\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/9ed97287-b305-4840-8df3-4a61d3c15e4d"
+    },
+    "ContentItemId": "4dhwszz15s199s2cdx5np0scn9",
+    "ContentItemVersionId": "4v637h7mnx24j22zv442x54e4a",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I like to focus on details",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I like to get to the centre of the issue"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Analyst\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/b3fc7b10-ebdc-418f-8d89-d7a6a716f9b8"
+    },
+    "ContentItemId": "49fs5zp6v9gwj00sbv8bhsf55z",
+    "ContentItemVersionId": "4y3aehnka0e2t0k5v6z46bxrd9",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I like to get to the centre of the issue",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I enjoy getting involved in practical tasks"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Doer\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/ea4e8cff-ce55-4ad1-9312-c3638fc8426b"
+    },
+    "ContentItemId": "4hwa31j5eaejrtj7fs1s8bb1mh",
+    "ContentItemVersionId": "4eck94cyzpzw4vdb8jjhpcffnh",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I enjoy getting involved in practical tasks",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I like meeting new people"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Influencer\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/230372ae-2518-4a63-a807-0b4224198f46"
+    },
+    "ContentItemId": "4rkxb3cvefqz4rhvmyrbsbd458",
+    "ContentItemVersionId": "49cxbn49jf84kwrvh4wa0m2mnr",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I like meeting new people",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  },
+  {
+    "TitlePart": {
+      "Title": "I am comfortable hearing other people\u0027s problems"
+    },
+    "PersonalityShortQuestion": {
+      "Impact": {
+        "Text": "Positive"
+      },
+      "Trait": {
+        "ContentItemIds": [
+          "\u00ABc#: await Content.GetContentItemIdByDisplayText(\u0022PersonalityTrait\u0022, \u0022Helper\u0022)\u00BB"
+        ]
+      }
+    },
+    "GraphSyncPart": {
+      "Text": "\u003C\u003Ccontentapiprefix\u003E\u003E/personalityshortquestion/570d6c42-4029-478b-932f-deeb08fbffbd"
+    },
+    "ContentItemId": "42bryhweacfsn4mzbk6q21xh57",
+    "ContentItemVersionId": "45g5b6c14qat6w8yme4ragpxw1",
+    "ContentType": "PersonalityShortQuestion",
+    "DisplayText": "I am comfortable hearing other people\u0027s problems",
+    "Latest": true,
+    "Published": true,
+    "ModifiedUtc": "2020-11-12T09:29:13.9025785Z",
+    "PublishedUtc": "2020-11-12T09:29:13.9025785Z",
+    "CreatedUtc": "2020-11-12T09:29:13.9025785Z",
+    "Owner": "admin",
+    "Author": "admin"
+  }
+      ]
+    }
+  ]
+}
