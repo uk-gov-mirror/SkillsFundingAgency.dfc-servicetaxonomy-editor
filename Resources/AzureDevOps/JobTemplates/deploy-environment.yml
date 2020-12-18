@@ -113,11 +113,12 @@ jobs:
         - task: AzureAppServiceManage@0
           displayName: 'restart Azure App Service: ${{ parameters.WebAppName }}'
           inputs:
-            action: restart
             azureSubscription: '${{ parameters.AzureSubscription }}'
+            Action: 'Restart Azure App Service'
             WebAppName: '${{ parameters.WebAppName }}'
+            SpecifySlotOrASE: true
+            Slot: production            
             ResourceGroupName: '${{ parameters.ResourceGroup }}'
-            SourceSlot: production
         - powershell: Start-Sleep -Seconds 30
           displayName: 'Pause deployment 30s whilst app restarts'
         - template: ..\StepTemplates\run-integration-tests.yml
