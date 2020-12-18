@@ -110,6 +110,16 @@ jobs:
           inputs:
             targetPath: $(Pipeline.Workspace)\OrchardCoreInitialiserOutput\ 
             artifactName: DFC.ServiceTaxonomy.OrchardCoreInitialiser.Output.${{ parameters.Environment }}
+        - task: AzureAppServiceManage@0
+          displayName: 'restart Azure App Service: ${{ parameters.WebAppName }}'
+          inputs:
+            action: restart Azure App Service
+            azureSubscription: '${{ parameters.AzureSubscription }}'
+            WebAppName: '${{ parameters.WebAppName }}'
+            ResourceGroupName: '${{ parameters.ResourceGroup }}'
+            SourceSlot: production
+        - powershell: Start-Sleep -Seconds 30
+          displayName: 'Pause deployment 30s whilst app restarts'
         - template: ..\StepTemplates\run-integration-tests.yml
           parameters:
             Environment: ${{ parameters.Environment }}
