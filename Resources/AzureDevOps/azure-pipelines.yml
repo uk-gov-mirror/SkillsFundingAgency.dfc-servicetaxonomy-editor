@@ -162,7 +162,7 @@ stages:
       DFCAzureDevOpsProjectGuid: $(DFCAzureDevOpsProjectGuid)
       DfcServiceTaxonomyTestsBuildId: $(DfcServiceTaxonomyTestsBuildId)
       TestArtifactBranch: ${{ parameters.DfcServiceTaxonomyTestBranch }}
-      TestExclusionTag: 'NotDev'
+      #TestExclusionTag: 'NotDev'
 
 - stage: DeployToSit
   condition: and(succeeded(), ne(variables['Build.Reason'], 'PullRequest'))
