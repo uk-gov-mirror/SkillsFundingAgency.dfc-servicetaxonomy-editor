@@ -111,7 +111,7 @@ jobs:
             targetPath: $(Pipeline.Workspace)\OrchardCoreInitialiserOutput\ 
             artifactName: DFC.ServiceTaxonomy.OrchardCoreInitialiser.Output.${{ parameters.Environment }}
         - task: AzureAppServiceManage@0
-          displayName: 'restart Azure App Service: ${{ parameters.WebAppName }}'
+          displayName: 'Restart Azure App Service: ${{ parameters.WebAppName }}'
           inputs:
             azureSubscription: '${{ parameters.AzureSubscription }}'
             Action: 'Restart Azure App Service'
