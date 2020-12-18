@@ -113,7 +113,7 @@ jobs:
         - task: AzureAppServiceManage@0
           displayName: 'restart Azure App Service: ${{ parameters.WebAppName }}'
           inputs:
-            action: restart Azure App Service
+            action: restart
             azureSubscription: '${{ parameters.AzureSubscription }}'
             WebAppName: '${{ parameters.WebAppName }}'
             ResourceGroupName: '${{ parameters.ResourceGroup }}'
