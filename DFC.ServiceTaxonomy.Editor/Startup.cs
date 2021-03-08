@@ -9,6 +9,7 @@ using Microsoft.AspNetCore.Http;
 using DFC.ServiceTaxonomy.Editor.Configuration;
 using OrchardCore.Media;
 using System.Collections.Generic;
+using System;
 
 namespace DFC.ServiceTaxonomy.Editor
 {
@@ -32,6 +33,7 @@ namespace DFC.ServiceTaxonomy.Editor
                 sanitizer.AllowedAttributes.Add("id");
                 sanitizer.AllowedAttributes.Add("aria-labelledby");
                 sanitizer.AllowedTags.Add("iframe");
+                sanitizer.AllowedTags.Add("img");
                 sanitizer.AllowedTags.Add("svg");
                 sanitizer.AllowedTags.Add("path");
                 sanitizer.AllowedAttributes.Add("fill");
@@ -48,28 +50,20 @@ namespace DFC.ServiceTaxonomy.Editor
             services.Configure<GraphSyncPartSettingsConfiguration>(Configuration.GetSection(nameof(GraphSyncPartSettings)));
             services.Configure<CookiePolicyOptions>(options =>
             {
-               options.Secure = CookieSecurePolicy.Always;
+                options.Secure = CookieSecurePolicy.Always;
             });
             services.AddEventGridPublishing(Configuration);
             services.AddOrchardCore().ConfigureServices(s => s.ConfigureApplicationCookie(options =>
             {
                 options.Cookie.Name = "stax_Default";
-            }), order:10);
+            }), order: 10);
 
             services.AddOrchardCore().ConfigureServices(s => s.AddAntiforgery(options =>
             {
                 options.Cookie.Name = "staxantiforgery_Default";
-            }), order:10);
+            }), order: 10);
 
-            services.PostConfigure<MediaOptions>(o =>
-                o.AllowedFileExtensions = new HashSet<string>
-                {
-                    ".jpg",
-                    ".png",
-                    ".gif",
-                    ".ico",
-                    ".svg"
-                });
+            services.PostConfigure(SetupMediaConfig());
 
             services.Configure<PagesConfiguration>(Configuration.GetSection("Pages"));
         }
@@ -86,6 +80,23 @@ namespace DFC.ServiceTaxonomy.Editor
             app.UsePoweredByOrchardCore(false);
             app.UseSecurityHeaders()
                 .UseOrchardCore();
+        }
+
+        private static Action<MediaOptions> SetupMediaConfig()
+        {
+            return o =>
+            {
+                o.AllowedFileExtensions = new HashSet<string>
+                {
+                        ".jpg",
+                        ".png",
+                        ".gif",
+                        ".ico",
+                        ".svg"
+                };
+                o.CdnBaseUrl = "https://dev-cdn.nationalcareersservice.org.uk";
+            };
+
         }
     }
 }

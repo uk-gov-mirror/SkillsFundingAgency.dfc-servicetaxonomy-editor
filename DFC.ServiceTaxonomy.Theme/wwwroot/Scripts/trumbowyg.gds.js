@@ -346,7 +346,8 @@
 
             for (i = 0; i < mediaApp.selectedMedias.length; i++) {
                 var img = document.createElement("img");
-                img.src = mediaApp.selectedMedias[i].url + '?' + dateTimeStamp;
+                var fileName = mediaApp.selectedMedias[i].url.split('/').pop()
+                img.src = 'https://dev-cdn.nationalcareersservice.org.uk/media/' + fileName + '?' + dateTimeStamp;
                 img.alt = mediaApp.selectedMedias[i].name;
                 img.dataset.source = 'CDN';
                 trumbowyg.range.insertNode(img);

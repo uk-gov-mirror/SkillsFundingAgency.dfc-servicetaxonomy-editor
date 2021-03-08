@@ -43,6 +43,11 @@ namespace DFC.ServiceTaxonomy.Editor.Security
                     csp.AllowConnections
                         .ToSelf();
 
+                    csp.AllowImages
+                        .FromSelf()
+                        .From($"https://dev-cdn.nationalcareersservice.org.uk");
+                        //.From($"https://dfc-dev-digital-assets.azureedge.net");
+
                     csp.AllowFrames
                         .FromSelf()
                         .From("www.youtube-nocookie.com");
