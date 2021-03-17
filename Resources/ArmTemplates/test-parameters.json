@@ -18,10 +18,10 @@
             "value": "dfc-foo-shared-rg"
         },
         "SharedAppServicePlanName": {
-            "value": "dfc-test-template-asp"
+            "value": "dfc-dev-stax-shared-asp"
         },
         "SharedAppServicePlanResourceGroup": {
-            "value": "dfc-test-template-rg"
+            "value": "dfc-dev-stax-shared-rg"
         },
         "Neo4jUrl": {
             "value": "https://some_endpoint/"
