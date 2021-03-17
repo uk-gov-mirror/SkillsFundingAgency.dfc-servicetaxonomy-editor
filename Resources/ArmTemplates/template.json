@@ -184,7 +184,6 @@
         "DatabaseName": "[concat(variables('ResourcePrefix'), '-db')]",
         "WebAppName": "[concat(variables('ResourcePrefix'), '-as')]",
         "DatabaseTier": "[if(equals(parameters('SqlElasticPoolName'), ''), 'Standard', 'ElasticPool')]",
-        "ActionGroupResourceGroup": "[concat('dfc-', replace(tolower(parameters('Environment')), '-draft', ''), '-stax-shared-rg')]",
         "ActionGroupName": "[concat('dfc-', replace(tolower(parameters('Environment')), '-draft', ''), '-stax-shared-actgrp')]"
     },
     "resources": [
@@ -558,7 +557,7 @@
                         "value": "[variables('ActionGroupName')]"
                     },
                     "actionGroupResourceGroup": {
-                        "value": "[variables('ActionGroupResourceGroup')]"
+                        "value": "[parameters('SharedAppServicePlanResourceGroup')]"
                     },
                     "resourceId": {
                         "value": "[resourceId('Microsoft.Insights/Components', variables('AppServiceAppInsightsName'))]"
@@ -590,7 +589,7 @@
                         "value": "[resourceId('Microsoft.Insights/Components', variables('AppServiceAppInsightsName'))]"
                     },
                     "actionGroupId": {
-                        "value": "[resourceId(variables('ActionGroupResourceGroup'), 'microsoft.insights/actionGroups', variables('ActionGroupName'))]"
+                        "value": "[resourceId(parameters('SharedAppServicePlanResourceGroup'), 'microsoft.insights/actionGroups', variables('ActionGroupName'))]"
                     }
                 }
             }
@@ -637,7 +636,7 @@
                         "value": "[variables('ActionGroupName')]"
                     },
                     "actionGroupResourceGroup": {
-                        "value": "[variables('ActionGroupResourceGroup')]"
+                        "value": "[parameters('SharedAppServicePlanResourceGroup')]"
                     },
                     "resourceId": {
                         "value": "[resourceId('Microsoft.Web/serverFarms', variables('AppServicePlanName'))]"
@@ -690,7 +689,7 @@
                         "value": "[variables('ActionGroupName')]"
                     },
                     "actionGroupResourceGroup": {
-                        "value": "[variables('ActionGroupResourceGroup')]"
+                        "value": "[parameters('SharedAppServicePlanResourceGroup')]"
                     },
                     "resourceId": {
                         "value": "[resourceId('Microsoft.Web/serverFarms', variables('AppServicePlanName'))]"
