@@ -17,6 +17,12 @@
         "KeyVaultResourceGroup": {
             "value": "dfc-foo-shared-rg"
         },
+        "SharedAppServicePlanName": {
+            "value": "__StaxSharedAppServicePlan__"
+        },
+        "SharedAppServicePlanResourceGroup": {
+            "value": "__StaxSharedResourceGroup__"
+        },
         "Neo4jUrl": {
             "value": "https://some_endpoint/"
         },
