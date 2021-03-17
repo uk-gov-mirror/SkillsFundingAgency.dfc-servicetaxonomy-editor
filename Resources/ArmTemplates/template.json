@@ -183,8 +183,8 @@
         "AppServicePlanResourceGroup": "[if(greater(length(parameters('SharedAppServicePlanResourceGroup')), 0), parameters('SharedAppServicePlanResourceGroup'), resourceGroup().name)]",
         "DatabaseName": "[concat(variables('ResourcePrefix'), '-db')]",
         "WebAppName": "[concat(variables('ResourcePrefix'), '-as')]",
-        "DatabaseTier": "[if(equals(parameters('SqlElasticPoolName'), ''), 'Standard', 'ElasticPool')]",
-        "ActionGroupName": "[concat('dfc-', replace(tolower(parameters('Environment')), '-draft', ''), '-stax-shared-actgrp')]"
+        // "ActionGroupName": "[concat('dfc-', replace(tolower(parameters('Environment')), '-draft', ''), '-stax-shared-actgrp')]",
+        "DatabaseTier": "[if(equals(parameters('SqlElasticPoolName'), ''), 'Standard', 'ElasticPool')]"
     },
     "resources": [
         {
