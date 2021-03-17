@@ -18,10 +18,10 @@
             "value": "dfc-foo-shared-rg"
         },
         "SharedAppServicePlanName": {
-            "value": "__StaxSharedAppServicePlan__"
+            "value": "dfc-dev-stax-shared-asp"
         },
         "SharedAppServicePlanResourceGroup": {
-            "value": "__StaxSharedResourceGroup__"
+            "value": "dfc-dev-stax-shared-rg"
         },
         "Neo4jUrl": {
             "value": "https://some_endpoint/"
